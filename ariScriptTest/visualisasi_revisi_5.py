@@ -11,12 +11,14 @@ import matplotlib.ticker as mticker
 import matplotlib.patches as mpatches
 import numpy as np
 from pathlib import Path
+from sqlalchemy import create_engine
 
-DWH_PATH  = "databases/dwh_gofood.db"
+
+DWH_URL = "mysql+pymysql://root:@192.168.144.1:3306/dwh_uts"
 OUT_DIR   = Path("charts")
 OUT_DIR.mkdir(exist_ok=True)
 
-conn = sqlite3.connect(DWH_PATH)
+conn = create_engine(DWH_URL)
 
 # ── Style global ──────────────────────────────────────────────────────────────
 plt.rcParams.update({

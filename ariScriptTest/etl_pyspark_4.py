@@ -19,9 +19,9 @@ import os
 os.environ["PYSPARK_PYTHON"] = "python"
 os.environ["PYSPARK_DRIVER_PYTHON"] = "python"
 
-DB1_PATH  = "databases/user_driver.db"
-DB2_PATH  = "databases/merchant_order.db"
-DWH_PATH  = "databases/dwh_gofood.db"
+DB1_PATH  = "databases/user_driver1.db"
+DB2_PATH  = "databases/merchant_order1.db"
+DWH_PATH  = "databases/dwh_gofood1.db"
 TEMP_CSV  = Path("temp_spark")
 TEMP_CSV.mkdir(exist_ok=True)
 
