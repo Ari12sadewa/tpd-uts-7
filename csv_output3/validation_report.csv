@@ -1,0 +1,67 @@
+Check,Status,Detail
+Orders tidak kosong,✅ PASS,"12,200 rows"
+Users tidak kosong,✅ PASS,"3,150 rows"
+Drivers tidak kosong,✅ PASS,"1,500 rows"
+Merchants tidak kosong,✅ PASS,687 rows
+Products tidak kosong,✅ PASS,"39,648 rows"
+Order items tidak kosong,✅ PASS,"30,626 rows"
+order.user_id → users,✅ PASS,0 orphan rows
+order.driver_id → drivers,✅ PASS,0 orphan rows
+order.merchant_id → merchants,✅ PASS,0 orphan rows
+order_items.order_id → orders,✅ PASS,0 orphan rows
+order_items.product_id → products,✅ PASS,0 orphan rows
+reviews.order_id → orders,✅ PASS,0 orphan rows
+Kolom distance_km ada di orders,✅ PASS,
+Semua jarak >= 0 km,✅ PASS,min=0.06 km
+Semua jarak <= 15 km (radius GoFood),✅ PASS,"max=15.00 km, 0 order > 15km"
+Jarak rata-rata masuk akal (1–8 km),✅ PASS,mean=6.26 km
+Tidak ada jarak > 100 km (antar kota),✅ PASS,0 order lintas kota terdeteksi
+delivery_lat/lon ≠ pickup_lat/lon (bukan merchant coords),✅ PASS,0 baris dengan koordinat identik
+Kota order = kota merchant,✅ PASS,0 order lintas kota (user ≠ merchant city)
+Kota order = kota user,✅ PASS,0 order dimana user dari kota berbeda
+Semua harga produk > 0,✅ PASS,0 produk harga nol/negatif
+delivery_fee dalam range wajar (Rp 2.000 – Rp 25.000),✅ PASS,"min=Rp2,000  max=Rp25,000"
+total_amount >= 0,✅ PASS,0 order dengan total negatif
+subtotal > 0 untuk semua order,✅ PASS,0 order dengan subtotal nol/negatif
+order.subtotal = sum(order_items.subtotal),✅ PASS,0 order dengan subtotal tidak cocok
+total_amount = subtotal + delivery_fee - discount,✅ PASS,0 order dengan kalkulasi total tidak konsisten
+order_time dalam range 2023–2024,✅ PASS,min=2023-01-01  max=2024-12-30
+Semua delivered order punya delivered_time,✅ PASS,0 baris tanpa waktu
+Durasi delivery 10–120 menit (masuk akal),✅ PASS,min=15.0  max=60.0  mean=37.7 menit
+delivered_time > order_time,✅ PASS,0 baris tidak logis
+Order cancelled tidak punya delivered_time,✅ PASS,0 cancelled order dengan delivered_time terisi
+Semua order status valid,✅ PASS,0 baris status tidak dikenal
+Merchant rating 3.5–5.0,✅ PASS,min=3.5  max=5.0
+Driver rating 3.5–5.0,✅ PASS,min=3.5  max=5.0
+Review merchant_rating antara 1–5,✅ PASS,min=3  max=5
+Review hanya untuk order delivered,✅ PASS,0 review dari order non-delivered
+orders.order_id tidak null,✅ PASS,0 null values
+orders.user_id tidak null,✅ PASS,0 null values
+orders.driver_id tidak null,✅ PASS,0 null values
+orders.merchant_id tidak null,✅ PASS,0 null values
+orders.status tidak null,✅ PASS,0 null values
+orders.total_amount tidak null,✅ PASS,0 null values
+orders.order_time tidak null,✅ PASS,0 null values
+users.user_id tidak null,✅ PASS,0 null values
+users.full_name tidak null,✅ PASS,0 null values
+users.email tidak null,✅ PASS,0 null values
+users.phone tidak null,✅ PASS,0 null values
+users.lat tidak null,✅ PASS,0 null values
+users.lon tidak null,✅ PASS,0 null values
+drivers.driver_id tidak null,✅ PASS,0 null values
+drivers.full_name tidak null,✅ PASS,0 null values
+drivers.phone tidak null,✅ PASS,0 null values
+drivers.vehicle_type tidak null,✅ PASS,0 null values
+merchants.merchant_id tidak null,✅ PASS,0 null values
+merchants.merchant_name tidak null,✅ PASS,0 null values
+merchants.lat tidak null,✅ PASS,0 null values
+merchants.lon tidak null,✅ PASS,0 null values
+products.product_id tidak null,✅ PASS,0 null values
+products.merchant_id tidak null,✅ PASS,0 null values
+products.product_name tidak null,✅ PASS,0 null values
+products.price tidak null,✅ PASS,0 null values
+order_items.order_item_id tidak null,✅ PASS,0 null values
+order_items.order_id tidak null,✅ PASS,0 null values
+order_items.product_id tidak null,✅ PASS,0 null values
+order_items.quantity tidak null,✅ PASS,0 null values
+order_items.unit_price tidak null,✅ PASS,0 null values

@@ -1,0 +1,688 @@
+merchant_id,merchant_name,category,address,area,city,lat,lon,phone,rating,is_open,joined_at,updated_at,is_active
+b2a2a921-4a06-43f9-9d7c-11bbd5e06088,"330 Kopi, Ciledug",Mie & Pasta,Jl. Raya No.36,Jakarta Pusat,jakarta,-6.174125,106.833751,082383197857,3.6,1,2021-10-17 10:23:08,2024-01-13 08:14:09,1
+fdbf9ded-bb18-43c7-bb45-29600444f629,"Abe Steak, Cibubur",Dessert & Snack,Jl. Raya No.7,Jakarta Pusat,jakarta,-6.171721,106.831633,088136687537,4.6,1,2022-12-25 11:17:24,2024-07-30 15:13:21,1
+5b2e3c83-2719-4cef-8ca6-d423fc80ccc0,"Abuba Steak, Cikarang",Western,Jl. Raya No.2,Jakarta Timur,jakarta,-6.227956,106.934819,083066722344,4.0,1,2020-08-29 12:41:45,2024-03-24 14:52:10,1
+2fb10b1f-71aa-45ae-b54d-5321520dd5f8,Aneka Gorengan Siaga,Pizza,Jl. Raya No.89,Jakarta Barat,jakarta,-6.174889,106.770394,088745503389,4.7,1,2021-12-14 16:36:03,2024-07-27 06:00:29,1
+e8b58019-fac0-4554-a33e-2f239983e01f,Arangsimpur,Minuman & Jus,Jl. Raya No.76,Jakarta Pusat,jakarta,-6.140941,106.838927,089093016315,4.8,1,2021-07-15 18:43:51,2024-08-12 05:18:43,1
+a6e84507-fc25-4863-8fb3-e93c33ca8fb8,Ayam Trolok,Mie & Pasta,Jl. Raya No.198,Jakarta Selatan,jakarta,-6.209543,106.793666,084720709497,4.8,1,2020-06-05 21:36:22,2024-05-27 15:01:59,1
+7d71d366-c61b-484c-b473-b752f35d601c,BABAKARAN BUNDA DAFA,Nasi & Lauk,Jl. Raya No.95,Jakarta Barat,jakarta,-6.157329,106.806729,085538119557,4.5,1,2022-12-26 05:45:27,2024-12-29 18:15:12,1
+3aab2e84-b232-4161-bec9-fb03c551ed6c,"Bakerman, SCBD",Vegetarian,Jl. Raya No.63,Jakarta Pusat,jakarta,-6.15368,106.828557,083072043515,4.1,1,2022-09-21 04:55:13,2024-09-24 06:08:03,1
+f4b2a208-4339-49cc-a48e-8fabe99f50df,Bakmi Kun,Western,Jl. Raya No.199,Jakarta Utara,jakarta,-6.131215,106.852428,081740742311,4.7,1,2021-05-05 00:56:31,2024-06-04 19:07:36,1
+2cc15f38-bf55-4c7c-a47e-0ba4200b6ec5,Bakmi Lopui 93,Dessert & Snack,Jl. Raya No.184,Jakarta Barat,jakarta,-6.176691,106.813051,085038538251,4.5,1,2021-09-06 14:13:34,2024-12-09 13:50:40,1
+0e0afec4-1545-41e5-a574-cf3b0ad5aab5,"Bakso Titoti, Parung",Vegetarian,Jl. Raya No.144,Jakarta Timur,jakarta,-6.235713,106.885359,087845264581,4.6,1,2021-10-27 13:10:14,2024-12-14 16:18:56,1
+94f13fcd-9450-4ff7-9082-d0cd669998d8,"Banzai!, Bogor Utara",Nasi & Lauk,Jl. Raya No.131,Jakarta Utara,jakarta,-6.124024,106.841932,087322201654,4.6,1,2020-06-19 08:00:57,2024-02-29 08:35:03,1
+8e48cdcc-9862-4e11-b65c-c3b375f9bc7e,"Sosis Bakar By Basis.Kuy, Intercon",Seafood,Jl. Raya No.99,Jakarta Selatan,jakarta,-6.200792,106.823773,085889978790,5.0,1,2022-04-01 22:48:45,2024-04-07 15:20:57,1
+07c5751a-4de0-409a-bdfd-f08db9ded2f8,"Bebek Boedjang, BSD",Vegetarian,Jl. Raya No.30,Jakarta Utara,jakarta,-6.105569,106.821148,089782070937,4.6,1,2022-09-22 16:47:16,2024-05-12 02:39:54,1
+2a0e21df-6873-4bf5-b12e-3ecb1a2afc66,"Boonsikdang, Hublife Jakarta",Ayam & Bebek,Jl. Raya No.185,Jakarta Pusat,jakarta,-6.164727,106.827908,084377187530,4.6,1,2022-02-27 15:44:40,2024-12-20 10:18:28,1
+c07e2663-e625-4988-af9b-4fea06b999d9,"Bunga Bakery, Cibinong",Sarapan,Jl. Raya No.130,Jakarta Pusat,jakarta,-6.144532,106.834922,088736697396,3.7,1,2020-09-07 22:59:04,2024-07-28 11:22:36,1
+e3bf3793-3636-4bbb-86c8-3660dae55f33,"Bunga Bakery, Depok",Korean Food,Jl. Raya No.5,Jakarta Utara,jakarta,-6.10326,106.879894,082458718453,4.8,1,2021-04-22 16:57:27,2024-04-02 23:51:26,1
+dc9d0ad0-34cd-46d9-9440-5039772b5619,"Burger Bros, Bintaro",Seafood,Jl. Raya No.22,Jakarta Pusat,jakarta,-6.166569,106.848368,087219289546,5.0,1,2022-04-07 12:43:31,2024-10-24 10:05:39,1
+ad1b56b2-d17e-4397-b4b2-d22b3ec3c701,"Burger Bros, Ciledug",Minuman & Jus,Jl. Raya No.43,Jakarta Selatan,jakarta,-6.267161,106.828023,084380823176,4.8,1,2021-10-19 07:43:32,2024-03-23 06:06:08,1
+38822187-66bb-4d95-be41-06be8fa06ae4,Burger Naura,Vegetarian,Jl. Raya No.80,Jakarta Utara,jakarta,-6.109789,106.888987,086197225156,4.1,1,2022-03-15 00:37:33,2024-06-24 08:09:21,1
+b1cbbe02-74ae-464f-848f-13a62171d420,C7HomeCoffee,Ayam & Bebek,Jl. Raya No.151,Jakarta Pusat,jakarta,-6.166323,106.823201,088040885476,4.4,1,2020-01-12 04:05:38,2024-01-28 13:42:12,1
+b1b27fe5-b66b-4116-b5e5-aeeb02424cb4,Cafe OTSS,Padang,Jl. Raya No.85,Jakarta Pusat,jakarta,-6.166987,106.865271,081979008866,3.9,1,2022-11-05 05:17:57,2024-07-07 12:23:27,1
+dc6e8e51-796f-477c-9d80-145b65a7845c,Cake Pandeglang Cake,Bakso & Soto,Jl. Raya No.147,Jakarta Selatan,jakarta,-6.226077,106.847868,088373440831,3.9,1,2022-01-04 17:42:33,2024-11-09 14:25:03,1
+7c000188-6536-4e0d-97af-4aeb828c0d0c,"Chateraise, Senayan City",Sushi & Japanese,Jl. Raya No.91,Jakarta Timur,jakarta,-6.230959,106.880662,086465177213,4.2,1,2020-03-25 03:38:53,2024-09-18 12:12:44,1
+98f28ce6-988b-42dc-89d8-001d3169055c,CIATER BEACH,Western,Jl. Raya No.28,Jakarta Pusat,jakarta,-6.172879,106.856411,084135714784,3.8,1,2021-11-27 21:31:31,2024-02-24 10:35:37,1
+31a8d21b-5855-471c-aa29-42f5b75c6dec,"Cimory Condet, Balekambang",Padang,Jl. Raya No.20,Jakarta Timur,jakarta,-6.231651,106.920889,086683863413,3.6,1,2022-10-10 01:43:25,2024-07-28 22:38:41,1
+f0b6dee9-edad-4e94-8723-9c22e991fd56,"Cinepolis, Pondok Kelapa",Padang,Jl. Raya No.61,Jakarta Pusat,jakarta,-6.141085,106.866318,083164547971,4.2,1,2020-11-28 01:04:36,2024-12-01 19:07:32,1
+1db540c7-bb77-4262-992a-22d1510448b6,Coffee First,Ayam & Bebek,Jl. Raya No.100,Jakarta Timur,jakarta,-6.159756,106.88811,084371070189,3.9,1,2022-12-18 02:48:48,2024-10-10 16:48:10,1
+3d9bfe5a-52f4-46e6-a840-3bcac9d0b7ca,"Corndog Doona, Pinang",Mie & Pasta,Jl. Raya No.76,Jakarta Utara,jakarta,-6.113525,106.868667,083717849494,4.4,1,2022-04-22 06:30:08,2024-01-24 16:09:56,1
+bc183f78-a7dc-463c-9ec2-9ddf7245f84c,Corndog Mozarella,Minuman & Jus,Jl. Raya No.136,Jakarta Barat,jakarta,-6.177142,106.786734,083017634247,4.9,1,2020-05-04 10:46:18,2024-11-26 15:05:15,1
+9db16bdd-6654-46ee-b79b-fa67f9761f5a,"Cotta Coffee, Jatiwaringin",Padang,Jl. Raya No.61,Jakarta Selatan,jakarta,-6.273148,106.795437,086126090908,4.9,1,2022-06-03 23:02:19,2024-04-05 14:53:36,1
+fae42254-c0b0-42a7-9f08-14cfd38699a9,Crackling,Sushi & Japanese,Jl. Raya No.169,Jakarta Utara,jakarta,-6.116219,106.881938,088485863473,4.3,1,2021-02-09 02:02:59,2024-03-20 07:50:01,1
+a9180925-a428-4306-8456-e6bae7d6bb64,"Dapur Aliqa, Gembong",Sarapan,Jl. Raya No.166,Jakarta Barat,jakarta,-6.168066,106.771663,084871367643,4.0,1,2020-04-22 16:36:12,2024-01-04 14:49:34,1
+62caec61-45cd-4c68-83a6-1db1368f2bcf,"Dapur Cokelat, Cibubur",Seafood,Jl. Raya No.19,Jakarta Timur,jakarta,-6.187884,106.931929,087838609087,4.3,1,2020-07-24 18:20:19,2024-12-28 10:36:28,1
+780847fd-7c7a-4bb5-a5d7-91d2919aa8c9,"Dapur Cokelat, Ciputat",Pizza,Jl. Raya No.73,Jakarta Barat,jakarta,-6.135957,106.810342,083068812137,4.8,1,2022-12-28 21:52:10,2024-04-27 11:39:50,1
+3882dadb-09c5-426c-9ec0-d932e47c054d,"Dapur Cokelat, Ciracas",Minuman & Jus,Jl. Raya No.3,Jakarta Utara,jakarta,-6.100646,106.90071,089584437458,3.9,1,2022-10-27 12:55:26,2024-02-10 05:29:46,1
+cef6994d-b1fe-4d5a-bff0-deb856294e10,"Dapur Cokelat, Depok",Vegetarian,Jl. Raya No.142,Jakarta Selatan,jakarta,-6.253553,106.861177,082946553958,3.9,1,2020-11-23 04:50:33,2024-10-05 16:37:49,1
+2d171cea-65b6-4e4b-a83b-633336b9069c,"Dear Butter, Pakubuwono",Burger & Sandwich,Jl. Raya No.130,Jakarta Barat,jakarta,-6.16982,106.790739,087243704923,4.9,1,2020-03-19 21:55:12,2024-02-05 20:17:02,1
+ddcb57b3-196b-465a-866f-78805d6e8f04,"Dough Lab, Senopati",Pizza,Jl. Raya No.198,Jakarta Timur,jakarta,-6.167065,106.87485,082695511909,5.0,1,2020-09-08 00:12:45,2024-10-14 20:46:22,1
+8cf8998e-ed38-43cb-b138-3e3ead41987e,"DuriAnd, Bogor",Ayam & Bebek,Jl. Raya No.29,Jakarta Timur,jakarta,-6.194832,106.917046,081930005727,4.3,1,2021-07-27 13:22:10,2024-08-14 05:22:57,1
+36007dec-e6ff-4123-ac72-efef618f2ed8,"Emados Shawarma, Condet",Burger & Sandwich,Jl. Raya No.94,Jakarta Utara,jakarta,-6.134076,106.832745,081558024342,3.8,1,2021-01-22 15:08:34,2024-09-16 00:16:11,1
+9336c9c7-03c4-4b31-a5ad-09eb624f6b15,"Emados Shawarma, Depok",Padang,Jl. Raya No.105,Jakarta Pusat,jakarta,-6.162621,106.847994,088930743797,4.9,1,2021-01-02 18:12:26,2024-12-01 18:42:33,1
+7055e384-6c5a-40bf-bc76-0d1a39d631b3,"Faasos, Bintaro",Bakso & Soto,Jl. Raya No.106,Jakarta Selatan,jakarta,-6.182379,106.854862,081334073380,4.6,1,2021-05-31 00:46:18,2024-10-30 20:22:14,1
+b5c590d1-f528-461d-a948-3480097115ab,"Faasos, Blok M",Western,Jl. Raya No.64,Jakarta Timur,jakarta,-6.169776,106.965047,084431367172,4.7,1,2020-06-16 22:05:49,2024-05-28 13:32:50,1
+6b7c1b9f-b42b-468a-999f-10744d04a5bc,"FamilyMart, Sequis Tower",Padang,Jl. Raya No.118,Jakarta Pusat,jakarta,-6.144949,106.831122,085450962024,4.7,1,2020-12-19 13:22:29,2024-03-27 13:47:53,1
+227e59fe-1c0f-4ab7-a7cf-0c76ffabb0db,"farm.girl, SCBD",Burger & Sandwich,Jl. Raya No.18,Jakarta Pusat,jakarta,-6.151899,106.839923,084557130035,4.5,1,2021-09-12 21:05:24,2024-09-20 21:34:04,1
+34e837b6-abfb-4a5b-b95c-252b9409f3fd,"FlapnJac, Setiabudi Barat",Bakso & Soto,Jl. Raya No.67,Jakarta Utara,jakarta,-6.126754,106.82276,083287925434,4.9,1,2021-02-16 09:18:12,2024-01-15 20:34:58,1
+2037376c-69f5-432c-9db1-3a433ba3f98b,"Fore Coffee, Jatiwaringin",Western,Jl. Raya No.81,Jakarta Pusat,jakarta,-6.15412,106.837284,086591363974,5.0,1,2020-06-28 15:35:14,2024-05-29 14:16:53,1
+f2997714-5881-41be-9c53-6e6ec89c8ff7,Gelato House Cafe,Sushi & Japanese,Jl. Raya No.1,Jakarta Utara,jakarta,-6.132397,106.824439,087682269803,4.5,1,2022-11-07 18:50:34,2024-03-17 12:30:01,1
+dab5a175-a1ac-4059-8241-53f1feb3bd48,"Genkaya, Pabuaran",Bakso & Soto,Jl. Raya No.85,Jakarta Barat,jakarta,-6.158435,106.81591,088952133044,4.5,1,2020-07-12 14:22:06,2024-10-06 12:35:45,1
+be21c0a2-cac2-4c24-94f0-50966bb3e1fb,"Geprek Bensu, Karawang",Pizza,Jl. Raya No.104,Jakarta Barat,jakarta,-6.154644,106.793351,089949682169,4.3,1,2020-10-25 00:19:01,2024-06-12 06:50:37,1
+d01c66b3-629e-45fd-a39a-2670676f76a7,Gianni's Pizzeria,Dessert & Snack,Jl. Raya No.146,Jakarta Timur,jakarta,-6.182268,106.969309,084864502486,4.3,1,2020-01-01 15:08:04,2024-04-28 00:19:11,1
+6ad9c9c7-20f8-4657-afd9-9f6447222eea,"Golden Lamian, Jatiwaringin",Dessert & Snack,Jl. Raya No.168,Jakarta Barat,jakarta,-6.169491,106.802861,085172409658,4.2,1,2022-11-15 13:12:32,2024-03-23 23:50:29,1
+295385a8-765e-47f6-a618-93b5ece4601e,"GoSteak, Tj Priok",Western,Jl. Raya No.189,Jakarta Utara,jakarta,-6.121073,106.910118,083198429450,3.6,1,2022-03-11 17:26:37,2024-09-14 19:33:58,1
+485c2ee6-6324-45bd-9d5e-383d4c109bd3,"Greenly, Senopati",Western,Jl. Raya No.61,Jakarta Utara,jakarta,-6.126592,106.901842,089651663795,3.8,1,2020-11-05 08:06:07,2024-02-27 05:26:18,1
+b1cf8bfc-865b-4bd0-a1cf-cdb1e3f3af87,Groen Kopi,Dessert & Snack,Jl. Raya No.197,Jakarta Pusat,jakarta,-6.173383,106.869197,081971124923,4.1,1,2022-09-05 07:21:18,2024-08-11 13:38:30,1
+699d46bd-2c33-4619-8772-c25c73eb2ca2,"GUREE, Senopati",Sushi & Japanese,Jl. Raya No.63,Jakarta Selatan,jakarta,-6.208165,106.820718,082898054615,4.5,1,2020-06-14 13:51:44,2024-10-29 07:24:14,1
+bd323d08-320e-4423-84ed-8204dd3ea88d,Hatchi,Vegetarian,Jl. Raya No.133,Jakarta Timur,jakarta,-6.228116,106.958452,086916740197,4.3,1,2020-07-07 12:34:35,2024-06-26 06:31:57,1
+0d8cedcc-8f0f-4265-8945-4fcb7b5ba937,have a treat,Minuman & Jus,Jl. Raya No.153,Jakarta Selatan,jakarta,-6.199858,106.843406,085069401199,4.4,1,2022-02-23 03:29:38,2024-06-14 17:30:43,1
+1cc4fac3-8b1a-4834-958f-2339effaf679,"Hedon Cafe, Sukatani",Padang,Jl. Raya No.122,Jakarta Utara,jakarta,-6.122163,106.835916,086744788100,4.6,1,2022-09-17 13:44:29,2024-04-17 16:43:44,1
+d071cdcf-1352-4a38-8529-a7339ee21f3c,"Hey Kafe, Cipondoh",Korean Food,Jl. Raya No.20,Jakarta Utara,jakarta,-6.120616,106.843925,084641473195,3.9,1,2021-05-11 15:38:11,2024-12-12 19:36:48,1
+81b6dc15-3f2e-441e-98f5-7684a18d9f0a,"Hey Kafe, Jatiwaringin",Sushi & Japanese,Jl. Raya No.178,Jakarta Utara,jakarta,-6.136777,106.835083,082938716269,3.6,1,2021-09-25 04:24:21,2024-05-08 12:02:17,1
+7d96f57a-a3d5-439e-a458-2016f9e58145,"Hoghock, Greenlake City",Padang,Jl. Raya No.108,Jakarta Utara,jakarta,-6.121363,106.826227,085988393811,4.9,1,2020-01-31 08:12:14,2024-11-28 17:19:16,1
+fcf91d68-a478-436e-867f-f1f908ba0686,"HokBen, Bogor Yasmin",Pizza,Jl. Raya No.77,Jakarta Utara,jakarta,-6.124785,106.82059,085966240084,4.3,1,2022-04-28 09:17:17,2024-11-06 15:18:42,1
+c2aff170-9998-4dc3-a734-8f8471dcf198,"HokBen, Kitchen Otista",Burger & Sandwich,Jl. Raya No.112,Jakarta Utara,jakarta,-6.104088,106.868823,087213895645,4.1,1,2022-11-05 01:24:57,2024-09-20 18:03:40,1
+80a55be3-7cc6-412d-8888-ac41d7e2950f,"Holland Bakery, Ciomas",Bakso & Soto,Jl. Raya No.33,Jakarta Timur,jakarta,-6.177582,106.962456,088981688860,3.5,1,2021-09-04 02:08:23,2024-08-17 20:50:25,1
+885fde6f-ffc8-45c7-ad7b-25e5e872a4d2,"Holywings Backyard, Kemang",Sushi & Japanese,Jl. Raya No.35,Jakarta Utara,jakarta,-6.11348,106.828395,086934391257,3.6,1,2021-08-11 22:00:59,2024-05-07 03:08:52,1
+741bcac4-2469-492e-887e-6c06c17a14fb,ITAEWON CLASS,Bakso & Soto,Jl. Raya No.98,Jakarta Selatan,jakarta,-6.23453,106.817,084566581473,3.9,1,2020-05-07 05:41:08,2024-07-01 15:34:38,1
+d3b059fa-ce12-40e0-9c23-b4e8506e1c05,JACK DONUT,Pizza,Jl. Raya No.58,Jakarta Pusat,jakarta,-6.148784,106.822604,089319209801,4.7,1,2022-10-09 11:10:29,2024-01-16 15:13:58,1
+fe1a6ab8-6e5f-4442-89c1-e2f22bd9effd,Jakarta Cheese Factory,Ayam & Bebek,Jl. Raya No.160,Jakarta Pusat,jakarta,-6.141764,106.829968,082942016960,3.7,1,2022-11-05 23:14:05,2024-02-14 10:11:12,1
+ab8130c2-a738-47f7-80d1-59c251fb6f14,Kaka Udon,Burger & Sandwich,Jl. Raya No.197,Jakarta Utara,jakarta,-6.10209,106.866503,085732520277,4.4,1,2020-06-26 22:05:41,2024-10-29 01:32:44,1
+d9fcd8fe-1e5b-44af-87cc-4d261b1537d3,"KAMPUNG TELAGA,  Ciracas",Ayam & Bebek,Jl. Raya No.80,Jakarta Selatan,jakarta,-6.183528,106.798648,088360372847,4.1,1,2020-11-04 02:16:12,2024-01-30 12:20:18,1
+fab84ad8-28f6-47a4-a828-d4229a3f27ce,"Kancha, Duri Kosambi",Seafood,Jl. Raya No.179,Jakarta Utara,jakarta,-6.112375,106.882724,084890585882,4.7,1,2022-05-29 03:29:41,2024-10-30 22:41:24,1
+864f27c1-335e-4db6-8cf4-650e3a5ecfd0,"Kebab Asap, Sunter",Pizza,Jl. Raya No.18,Jakarta Pusat,jakarta,-6.162848,106.841419,087496911784,4.0,1,2021-10-14 12:55:29,2024-11-15 08:40:46,1
+52a52657-a120-4307-bc3f-9d7cd339a8b4,"Kebab Bosman, Ciputat",Sarapan,Jl. Raya No.118,Jakarta Timur,jakarta,-6.239446,106.975687,082968450095,3.8,1,2022-03-21 12:07:42,2024-09-09 14:42:09,1
+c2c0856a-ed9b-48f7-978d-141e2604ace3,"Kebab Bosman, Gandul",Western,Jl. Raya No.124,Jakarta Barat,jakarta,-6.149204,106.813569,086968461818,4.7,1,2022-07-09 09:03:17,2024-04-14 05:37:39,1
+ad5218f9-928a-47f3-a0c2-468a86793dfb,Kebab Lumer,Seafood,Jl. Raya No.72,Jakarta Barat,jakarta,-6.137414,106.806458,086742730796,4.6,1,2022-06-04 05:32:04,2024-08-25 00:42:13,1
+4f975eb6-fce2-4ece-b62a-e6a53a7eb5da,"Kebab Ngidam, Meruya",Pizza,Jl. Raya No.47,Jakarta Timur,jakarta,-6.21636,106.924374,087238470244,4.0,1,2021-02-05 08:04:33,2024-05-12 04:11:16,1
+6058cf43-6b5e-48d1-9b3c-e9c125e413f5,"Kebon Samping, Cibinong",Burger & Sandwich,Jl. Raya No.143,Jakarta Barat,jakarta,-6.135984,106.796095,081179340535,4.9,1,2020-05-12 23:52:57,2024-04-03 17:36:05,1
+bbb5c776-efed-41a2-ac4c-693ef2027c06,"Kebuli Jordan, Permata",Vegetarian,Jl. Raya No.122,Jakarta Timur,jakarta,-6.201142,106.953398,089275876924,4.2,1,2020-01-27 18:52:31,2024-02-06 03:19:12,1
+3e26e23d-01fa-401a-8e30-1eb67b3a2951,Kedai Coger Senayan,Burger & Sandwich,Jl. Raya No.170,Jakarta Barat,jakarta,-6.16892,106.795343,088459529086,4.2,1,2022-04-04 18:12:15,2024-05-13 12:03:04,1
+0117579e-dd0b-4f17-94a5-4f08143d32b4,Kedai Santai,Pizza,Jl. Raya No.180,Jakarta Timur,jakarta,-6.150337,106.930543,086846361787,4.0,1,2020-12-24 03:04:52,2024-02-16 20:35:39,1
+f1589684-c72c-497d-aa10-0975b8eb23dc,"Keikpop, Ciledug",Western,Jl. Raya No.177,Jakarta Selatan,jakarta,-6.248445,106.84943,083335708194,3.8,1,2022-01-22 04:13:54,2024-04-17 09:09:47,1
+d6e61b98-3bc7-4c2d-a471-8418021258e2,"Keikpop, Ciputat",Burger & Sandwich,Jl. Raya No.26,Jakarta Utara,jakarta,-6.100936,106.872464,083449761527,3.8,1,2020-10-05 18:03:56,2024-04-27 09:20:17,1
+2c2e2b58-6035-4f8b-94c8-901dc53b6b00,"Keikpop, Harapan Indah",Ayam & Bebek,Jl. Raya No.14,Jakarta Pusat,jakarta,-6.150219,106.826329,088049209916,4.5,1,2020-07-15 04:02:26,2024-09-04 17:22:33,1
+ab9ff587-dc0a-4594-936f-dfe735b4ac40,"Keikpop, Kebon Jeruk",Burger & Sandwich,Jl. Raya No.121,Jakarta Timur,jakarta,-6.239741,106.871349,087169118721,4.0,1,2020-03-20 19:27:46,2024-04-08 01:16:08,1
+a45d6946-2fe9-4088-a365-a9bb4bcd528a,"Keikpop, Mangga Besar",Korean Food,Jl. Raya No.19,Jakarta Timur,jakarta,-6.238591,106.877188,088394482772,4.5,1,2020-08-23 16:47:34,2024-02-27 22:37:20,1
+6dfa55f4-0d16-4690-8ccc-5068b3919575,"Keikpop, Pajajaran Bogor",Mie & Pasta,Jl. Raya No.31,Jakarta Utara,jakarta,-6.102035,106.828518,088165857931,4.4,1,2022-08-18 16:18:26,2024-03-28 15:33:23,1
+25b18672-d704-40f0-806f-38258e0d5e8a,"Keikpop, Radio Dalam",Burger & Sandwich,Jl. Raya No.151,Jakarta Utara,jakarta,-6.124785,106.91085,086450987442,4.4,1,2020-04-03 13:32:54,2024-08-24 18:10:18,1
+f4c6ae17-bcde-43cd-a027-fbf88ad85555,Kembang Bawang PIK,Mie & Pasta,Jl. Raya No.68,Jakarta Pusat,jakarta,-6.141834,106.830389,089420896797,3.7,1,2020-09-27 00:14:19,2024-08-02 08:56:26,1
+a056e99a-d31a-4a64-88ba-58ffa51cf864,Kemek Nyok,Vegetarian,Jl. Raya No.153,Jakarta Pusat,jakarta,-6.169521,106.840426,087049092160,3.5,1,2021-03-23 13:19:43,2024-10-01 13:18:21,1
+c64b94c4-6a13-4409-becc-814a89d43725,"Kenduricoffee, Patal Senayan",Sarapan,Jl. Raya No.60,Jakarta Barat,jakarta,-6.144851,106.776323,084393893865,4.4,1,2020-11-03 07:14:05,2024-06-14 02:34:56,1
+1c832960-cbf5-443a-a8a5-a1c93281520e,"KFC, Bintaro 9",Bakso & Soto,Jl. Raya No.69,Jakarta Pusat,jakarta,-6.15594,106.852382,082819584466,3.6,1,2021-04-22 20:35:58,2024-08-19 02:12:44,1
+0b8ed000-1274-47e6-9f97-0d2ce79c3613,"KFC, Ciputat Gaplek",Korean Food,Jl. Raya No.177,Jakarta Utara,jakarta,-6.103152,106.863915,084864023778,4.9,1,2022-02-16 10:57:18,2024-07-28 16:59:34,1
+c5e8db72-beb3-4768-9dc2-29918bad8cd0,"KFC, Kemang Timur",Bakso & Soto,Jl. Raya No.111,Jakarta Timur,jakarta,-6.206224,106.935784,085191029073,3.9,1,2020-05-21 20:54:47,2024-03-29 21:43:48,1
+1791f75e-ced5-4f67-a27d-6a96fd2c7a05,"KFC, Lokasari Plaza",Western,Jl. Raya No.173,Jakarta Utara,jakarta,-6.116515,106.822075,084487342561,3.6,1,2020-09-29 03:35:01,2024-07-01 17:23:07,1
+900cbad3-ac93-481a-8608-d5cc049f39d9,"KFC, Tugu Puncak",Nasi & Lauk,Jl. Raya No.150,Jakarta Utara,jakarta,-6.11394,106.911607,086595199362,4.7,1,2020-05-21 17:45:48,2024-07-01 12:48:51,1
+2d51f0ed-0073-45f7-85af-eb852089abba,Khasanah Sari Citayam,Seafood,Jl. Raya No.42,Jakarta Barat,jakarta,-6.159583,106.765685,085265250068,4.5,1,2021-03-23 17:32:17,2024-09-14 07:43:34,1
+0449f31b-d75f-4e3e-a5d0-e89b57450f66,"Kibo Cheese, Cibubur",Korean Food,Jl. Raya No.23,Jakarta Timur,jakarta,-6.168643,106.930511,085043876400,4.0,1,2021-09-19 20:44:17,2024-12-01 21:33:03,1
+0d820802-0237-4d49-9e54-1b1f21dbace4,"Kims Topokki, Bintara",Padang,Jl. Raya No.139,Jakarta Utara,jakarta,-6.107003,106.820115,086965465150,3.6,1,2022-03-16 08:49:17,2024-05-20 12:01:40,1
+c9d24e73-3a1a-4d5e-9726-4918f921bf4f,"Klenger Burger, Benhil",Western,Jl. Raya No.14,Jakarta Utara,jakarta,-6.109742,106.882541,083645843681,4.3,1,2021-03-23 10:30:17,2024-06-19 03:32:16,1
+d820d903-47c4-4642-8bb0-6fb5adaab6ee,"Kopi Chuseyo, Sukasari",Dessert & Snack,Jl. Raya No.62,Jakarta Timur,jakarta,-6.237857,106.977046,083051708177,4.3,1,2022-05-07 21:25:29,2024-06-07 10:44:55,1
+2cbd05d2-11f2-4f18-b18b-60bec6053b3a,"Kopi Dari Hati, Jatibening",Seafood,Jl. Raya No.119,Jakarta Pusat,jakarta,-6.167135,106.86207,082596934122,4.7,1,2022-02-13 04:47:07,2024-12-28 04:57:23,1
+7c9e39f7-239d-4b01-a942-b6f876dd6199,Kopi Kebun Bintaro,Padang,Jl. Raya No.124,Jakarta Barat,jakarta,-6.154556,106.761874,087042713008,4.2,1,2020-08-12 16:38:36,2024-05-28 23:16:50,1
+9fa6681a-b0dc-4986-8d98-8348dc23fed0,Kopi Nako Ciracas,Bakso & Soto,Jl. Raya No.35,Jakarta Selatan,jakarta,-6.187813,106.830659,081847077298,4.7,1,2021-10-06 14:10:29,2024-05-11 23:52:00,1
+32322d9f-df9f-4eab-9e8a-4ed8b5c1c589,KOPINYA KIMBOO,Vegetarian,Jl. Raya No.77,Jakarta Utara,jakarta,-6.129313,106.820257,088587835998,5.0,1,2022-01-30 15:06:54,2024-12-02 00:48:47,1
+80e3e01a-626d-4940-9855-60ee7512e04a,"Koteshu, Sukahati",Pizza,Jl. Raya No.142,Jakarta Selatan,jakarta,-6.235345,106.828747,087960628276,4.2,1,2021-05-14 20:43:44,2024-12-03 17:16:30,1
+ea3fed95-a5c1-4d96-a0d4-ddeef698688a,"Lawless Burgerbar, PIK",Sushi & Japanese,Jl. Raya No.60,Jakarta Selatan,jakarta,-6.181923,106.809104,086215858241,4.0,1,2022-01-04 17:49:57,2024-09-30 21:12:00,1
+075314ea-a341-4719-a912-62df58ac5016,"Lawless, Capsule Cibubur",Padang,Jl. Raya No.167,Jakarta Timur,jakarta,-6.211392,106.943006,082976481885,4.9,1,2020-07-15 02:48:07,2024-07-14 01:41:34,1
+575c26e2-f7a1-4f60-a552-5794581653ad,"Lawson, Akses UI",Padang,Jl. Raya No.113,Jakarta Utara,jakarta,-6.12672,106.830036,082280591959,4.9,1,2020-01-24 20:11:59,2024-10-07 13:39:52,1
+20f256a2-c8d9-4825-b377-21ff63ac0b88,"Lawson, Cempaka Mas",Nasi & Lauk,Jl. Raya No.20,Jakarta Selatan,jakarta,-6.239002,106.842383,087045570755,4.0,1,2022-12-12 01:53:57,2024-06-03 08:48:47,1
+0817bd66-5410-4b4f-9241-63d3167642d1,"Lawson, Cipete Raya",Padang,Jl. Raya No.137,Jakarta Pusat,jakarta,-6.145188,106.862617,085852501540,4.4,1,2022-01-28 00:00:02,2024-12-04 19:11:56,1
+f2cf86a0-320b-475c-ae83-1a38aba87934,"Lawson, Kemang Raya",Sarapan,Jl. Raya No.176,Jakarta Utara,jakarta,-6.138564,106.826842,084640532691,4.6,1,2021-11-05 03:37:44,2024-02-08 05:33:23,1
+2afcd0e0-4fc9-4694-bdab-b35d860cf9ba,"Lawson, Percetakan Negara",Bakso & Soto,Jl. Raya No.8,Jakarta Pusat,jakarta,-6.159471,106.8547,081553536830,4.7,1,2021-03-31 17:32:36,2024-05-19 05:07:13,1
+fe2bd577-9d01-4354-a976-a741e39ed068,"Lawson, Sunter Kirana",Sushi & Japanese,Jl. Raya No.145,Jakarta Barat,jakarta,-6.158466,106.759536,089734166826,3.8,1,2020-05-02 16:09:12,2024-08-24 16:52:30,1
+fc16f1a3-cad6-4488-9f65-00a3e64b5fc7,"Lawson, Syahdan",Bakso & Soto,Jl. Raya No.150,Jakarta Timur,jakarta,-6.188029,106.896491,082841163805,4.2,1,2021-01-29 12:57:41,2024-06-27 11:30:27,1
+8ba8ce1e-c4e2-4404-89d7-44097dc03c59,"Lawson, UIN Kertamukti",Korean Food,Jl. Raya No.74,Jakarta Barat,jakarta,-6.146658,106.811913,089683363160,3.7,1,2021-11-17 04:52:47,2024-05-14 04:54:18,1
+6f6300c3-f286-499a-acaf-36382c4937e6,LEPAS KOPI,Vegetarian,Jl. Raya No.65,Jakarta Utara,jakarta,-6.128034,106.916203,086850550084,3.8,1,2021-08-20 14:24:13,2024-11-27 09:39:46,1
+1b16a75e-69d8-442d-a157-35122611686a,"Longpan Pizza, Tugu",Pizza,Jl. Raya No.148,Jakarta Timur,jakarta,-6.239335,106.91195,084749625201,3.5,1,2022-10-19 12:35:10,2024-06-02 17:10:36,1
+51561b94-59b5-42ca-9342-d04eacdb9853,"MAB Toppoki, Jengki",Western,Jl. Raya No.191,Jakarta Barat,jakarta,-6.179595,106.809205,081691390501,4.6,1,2021-03-20 14:05:28,2024-10-28 06:25:47,1
+d60cf060-9b78-4185-81a8-dca88c23b8f8,"Mad Bagel, BSD",Sarapan,Jl. Raya No.49,Jakarta Selatan,jakarta,-6.219294,106.818186,088943638559,4.5,1,2022-10-21 00:04:08,2024-09-21 10:01:45,1
+e975c5e1-0565-4dc6-ad7a-1f9549887ef7,MAISON BUTTER,Sarapan,Jl. Raya No.11,Jakarta Selatan,jakarta,-6.217175,106.862272,084969166287,3.6,1,2021-07-20 19:00:45,2024-10-11 10:05:16,1
+72204662-3dd3-4c47-8f0d-8e3c7731cd96,Makema Coffee,Vegetarian,Jl. Raya No.107,Jakarta Selatan,jakarta,-6.270987,106.813609,083236950221,3.7,1,2022-04-17 22:34:43,2024-12-06 09:12:17,1
+34245654-be6b-49ac-ab71-48b65b3a4de8,"Markobar, Duren Sawit",Padang,Jl. Raya No.43,Jakarta Barat,jakarta,-6.153457,106.813079,084274672520,5.0,1,2021-04-03 11:40:14,2024-10-16 22:26:14,1
+69eed167-6850-4d20-8ebb-0b1ec602a64b,Martabak Acc,Seafood,Jl. Raya No.37,Jakarta Barat,jakarta,-6.139788,106.777467,083863339667,5.0,1,2022-05-15 18:07:13,2024-05-22 01:16:14,1
+04b21cb7-defe-41f2-b17e-d6f85839ece7,"Martabak Djuara, Cawang",Minuman & Jus,Jl. Raya No.32,Jakarta Pusat,jakarta,-6.147326,106.820696,086859470729,4.5,1,2022-11-10 10:40:54,2024-04-11 19:31:17,1
+5ce748ac-baac-41cf-ab25-8f3664a50631,martabak mapingkot,Pizza,Jl. Raya No.28,Jakarta Utara,jakarta,-6.124759,106.883855,089641383044,4.2,1,2022-08-20 10:22:52,2024-12-09 09:39:57,1
+3eb70f4a-1a59-4a35-846c-dd18b02849d2,"Maza Gelato, Bintaro",Sarapan,Jl. Raya No.17,Jakarta Utara,jakarta,-6.12688,106.881008,089172312933,4.9,1,2021-04-14 10:27:58,2024-09-09 03:21:00,1
+2f5afdb4-214d-480d-b546-0efdb05727c8,"McDonald's, Jatiwarna",Ayam & Bebek,Jl. Raya No.78,Jakarta Timur,jakarta,-6.238332,106.874988,087325585427,3.6,1,2022-04-15 01:11:24,2024-02-22 16:28:50,1
+11691484-3ea3-4097-8d2f-65b841024dfc,"McDonald's, Panjang",Vegetarian,Jl. Raya No.179,Jakarta Timur,jakarta,-6.204636,106.943753,087966254240,4.4,1,2020-08-28 01:01:52,2024-12-09 20:39:16,1
+c0a0336e-a1d2-4c39-bd53-0a51009c169c,"McDonald's, Pekayon",Dessert & Snack,Jl. Raya No.105,Jakarta Timur,jakarta,-6.184508,106.961706,084514391105,4.5,1,2020-12-03 12:24:03,2024-06-21 04:37:47,1
+d5b1394f-70a7-4597-8d83-f86b7d5c63a0,"McDonald's, Tambak",Seafood,Jl. Raya No.176,Jakarta Timur,jakarta,-6.154944,106.9641,085783076970,4.9,1,2022-09-28 16:53:09,2024-05-19 07:04:57,1
+e6d54c7a-0dde-446b-95ae-2fe56e9390d0,"Menantea, Epicentrum Walk",Seafood,Jl. Raya No.117,Jakarta Pusat,jakarta,-6.161065,106.82949,082198955314,3.8,1,2022-09-20 10:01:26,2024-08-19 21:48:13,1
+513fc3a2-b652-4c1e-8e74-f0220cc0982f,"Menantea, Jatiwaringin",Nasi & Lauk,Jl. Raya No.145,Jakarta Pusat,jakarta,-6.17323,106.836675,083619208698,4.7,1,2022-05-10 22:21:50,2024-03-21 10:50:47,1
+8c834c48-81b3-4614-a951-f9f035f1df7e,"Menantea, Pamulang Tangerang",Pizza,Jl. Raya No.199,Jakarta Utara,jakarta,-6.131362,106.90697,082889991301,3.5,1,2020-08-12 18:21:31,2024-02-20 11:36:52,1
+d43662da-0ce7-4561-bfcf-70e6743f6ff9,"Menantea, Panglima Polim",Sarapan,Jl. Raya No.7,Jakarta Utara,jakarta,-6.129974,106.83745,082611994519,4.0,1,2021-01-04 14:43:59,2024-08-16 16:30:25,1
+a2a9758b-003b-487f-8a3a-e73a94f59022,"Menantea, Pemda Cibinong",Nasi & Lauk,Jl. Raya No.190,Jakarta Barat,jakarta,-6.179211,106.761229,086380610004,3.7,1,2020-04-08 17:36:55,2024-07-03 22:56:02,1
+ba9dc1f5-dc22-4dce-baa4-74fc81688688,"Menantea, Tangcity",Seafood,Jl. Raya No.116,Jakarta Timur,jakarta,-6.172198,106.926456,087439735904,4.9,1,2020-03-08 08:45:56,2024-10-09 10:23:45,1
+eb4b68d1-7dee-4c90-a6a0-6a5a79118d48,"Menantea, Tanjung Duren",Ayam & Bebek,Jl. Raya No.16,Jakarta Utara,jakarta,-6.127935,106.884334,087163904155,4.1,1,2020-06-16 17:06:31,2024-07-09 09:38:12,1
+91d372f0-e555-4a4c-a51f-b5344645590b,"Michelle Bakery, Cimanggis",Dessert & Snack,Jl. Raya No.38,Jakarta Timur,jakarta,-6.242651,106.878887,081826937148,3.9,1,2022-09-10 10:48:39,2024-08-15 07:59:39,1
+57424872-0d63-4707-9607-bad411ab3685,Mie Aceh Abunawas,Dessert & Snack,Jl. Raya No.136,Jakarta Utara,jakarta,-6.111514,106.85809,084770896652,4.3,1,2021-10-30 06:59:36,2024-02-08 12:24:36,1
+5453b5af-2e04-413c-ac7b-eba12f25b4a3,Mie Ayam Jiddah,Western,Jl. Raya No.142,Jakarta Pusat,jakarta,-6.145152,106.852546,083767723010,4.2,1,2020-12-20 22:51:28,2024-06-09 17:01:19,1
+4b94241c-42bb-4265-983f-5753c091969d,"Mie Djoedes, Mojosari",Vegetarian,Jl. Raya No.25,Jakarta Barat,jakarta,-6.138629,106.771898,085067279295,4.0,1,2021-01-30 22:58:49,2024-05-25 08:44:18,1
+ab4ce1f3-7387-46e1-b05d-63f687650a00,"Mixue, Benhil",Seafood,Jl. Raya No.22,Jakarta Selatan,jakarta,-6.211318,106.827941,082167965485,3.6,1,2021-08-01 21:16:54,2024-11-11 06:14:17,1
+dcca3f68-cf9a-4275-af17-20f8f1009b7b,MIXUE CIKARANG,Minuman & Jus,Jl. Raya No.144,Jakarta Selatan,jakarta,-6.224363,106.836917,085299927658,3.7,1,2021-07-03 07:05:30,2024-12-05 06:36:39,1
+f8d4fe81-daeb-4f17-8a4c-f29acf398ac9,"Mixue, Harapan Indah",Burger & Sandwich,Jl. Raya No.154,Jakarta Timur,jakarta,-6.163191,106.949317,084957197152,3.7,1,2022-02-27 05:42:39,2024-03-23 14:52:09,1
+c5dec5ff-48b4-403a-9e70-3d1a855fe486,Mixue Summarecon Serpong,Seafood,Jl. Raya No.90,Jakarta Selatan,jakarta,-6.214326,106.80794,088159333209,3.7,1,2021-03-08 17:46:32,2024-08-10 22:59:59,1
+328c4247-e566-4d4e-bb2e-55c3764ffd6b,Moeda Coffee,Western,Jl. Raya No.160,Jakarta Selatan,jakarta,-6.199278,106.857612,088896261621,4.3,1,2022-08-04 00:58:33,2024-12-26 19:41:35,1
+c4393f80-9fc5-43e4-a2bd-de3abb7b71b1,"Moida , Gramapuri Persada",Western,Jl. Raya No.80,Jakarta Barat,jakarta,-6.178552,106.761862,085357113566,3.5,1,2020-08-10 12:48:09,2024-08-07 22:29:42,1
+34621b26-3a2e-4229-ac19-492024e5b43b,"Mokat, Megamendung",Ayam & Bebek,Jl. Raya No.24,Jakarta Timur,jakarta,-6.243041,106.951507,087738874646,4.1,1,2021-12-05 17:08:27,2024-05-12 09:22:51,1
+386addf1-d705-4a92-8180-d0354ba1fda9,"Mujigae, Aren Jaya",Western,Jl. Raya No.146,Jakarta Selatan,jakarta,-6.242995,106.847728,088621402740,4.8,1,2020-08-29 16:26:21,2024-03-02 03:09:59,1
+6cbad5b4-db97-4818-88cf-2c1732de0e12,"Murabae Bento, Palmerah",Korean Food,Jl. Raya No.170,Jakarta Utara,jakarta,-6.13801,106.828158,086475184410,4.4,1,2021-10-05 09:53:20,2024-04-16 02:05:58,1
+a0df400d-8dbf-4c19-831e-5fee2566f2af,"Niat NGOPI, Kalimalang",Sushi & Japanese,Jl. Raya No.29,Jakarta Selatan,jakarta,-6.204506,106.799105,084689609131,4.2,1,2022-11-02 08:30:16,2024-04-29 18:40:37,1
+61071234-92fe-42ea-be09-e1477119497a,Oguri Artisanal Cafe,Ayam & Bebek,Jl. Raya No.2,Jakarta Pusat,jakarta,-6.167282,106.869222,083650455821,4.9,1,2020-08-01 04:29:03,2024-10-23 18:29:44,1
+80201f50-fe6e-4d61-bffe-449574a1a2bb,Ottoke Kape,Korean Food,Jl. Raya No.192,Jakarta Barat,jakarta,-6.165528,106.749599,086533581357,3.7,1,2022-04-07 08:06:32,2024-09-30 06:41:29,1
+5bc9b0dc-aa12-49d9-b910-33c690905d28,Pancong Lumer,Western,Jl. Raya No.91,Jakarta Selatan,jakarta,-6.229974,106.856668,081963293990,4.8,1,2020-03-06 17:08:33,2024-06-18 09:51:40,1
+3318de10-55a3-48fa-ac77-0ec7d50cfb27,Pancong Pijay,Pizza,Jl. Raya No.148,Jakarta Pusat,jakarta,-6.158909,106.823893,086486960402,4.1,1,2022-09-21 10:12:40,2024-06-11 05:11:23,1
+52012a39-3191-47d4-9b33-3a120f3f32fe,"Panties Pizza, Pamulang",Pizza,Jl. Raya No.44,Jakarta Barat,jakarta,-6.174241,106.741669,088971753160,4.7,1,2021-07-16 02:50:46,2024-02-04 05:25:48,1
+03587445-39d5-4411-91f5-23e8cc901f15,"Pentol Seafood Korea, Pengantin Ali",Dessert & Snack,Jl. Raya No.103,Jakarta Timur,jakarta,-6.165552,106.896765,087720555833,4.1,1,2021-04-26 23:52:26,2024-10-16 15:24:17,1
+429feb4a-85b7-44f5-9cff-56a972797d68,Pita Cappucino Cincau,Seafood,Jl. Raya No.131,Jakarta Barat,jakarta,-6.168921,106.802329,089125304396,4.3,1,2020-10-28 05:15:14,2024-12-17 19:48:42,1
+d2639b04-221d-4078-91bd-4ab6016d1bfe,"Podomoro Bakso, Cibubur",Sarapan,Jl. Raya No.38,Jakarta Barat,jakarta,-6.162445,106.816658,084023798190,3.7,1,2020-11-02 10:49:33,2024-03-08 09:07:41,1
+94e18e4e-81e1-410a-982f-3368e49bb8e4,"Potato Potter, Pramuka",Seafood,Jl. Raya No.46,Jakarta Utara,jakarta,-6.133885,106.895915,089076319264,4.2,1,2022-05-25 17:34:55,2024-10-22 02:34:06,1
+75a6e7e0-927c-4e41-b0af-ebd1501e13e0,"Raindrunks, Bogor Timur",Dessert & Snack,Jl. Raya No.165,Jakarta Utara,jakarta,-6.122044,106.912415,089193821894,4.0,1,2022-09-01 08:21:35,2024-05-02 18:37:41,1
+df236bf1-a4e7-4d97-a1c7-3afbcb3256d2,"Ramen Giant, Bogor",Sarapan,Jl. Raya No.78,Jakarta Selatan,jakarta,-6.236024,106.827514,084589379016,3.6,1,2022-02-27 02:53:24,2024-01-29 19:30:25,1
+f31ef59a-1eb0-4821-b6fc-d4fc11b5c948,Resto Ayam Najeb,Pizza,Jl. Raya No.74,Jakarta Barat,jakarta,-6.156913,106.743009,081996525668,4.8,1,2020-05-20 06:29:51,2024-08-26 20:17:37,1
+0b7da287-7365-46b8-ba5f-db2a33362f0c,"Restoran Sederhana, Ampera",Minuman & Jus,Jl. Raya No.190,Jakarta Utara,jakarta,-6.119717,106.866271,081570362235,4.9,1,2022-06-07 00:54:21,2024-09-10 03:33:55,1
+a8e4e30d-322c-4972-861a-89b3747f26cc,"Restoran Sederhana, Caman",Nasi & Lauk,Jl. Raya No.16,Jakarta Selatan,jakarta,-6.247847,106.82805,086723891786,4.7,1,2021-06-17 12:17:17,2024-10-04 09:54:12,1
+dca2dfb1-4bc0-4153-8ce5-abaea303fad1,"Restoran, Telaga Sindur",Mie & Pasta,Jl. Raya No.182,Jakarta Pusat,jakarta,-6.157341,106.828628,086668978194,4.3,1,2022-08-05 07:11:36,2024-03-02 15:37:18,1
+8849cca6-7468-436e-8dc2-45b6904f1f1e,Rumah Pasta WiB,Sushi & Japanese,Jl. Raya No.199,Jakarta Barat,jakarta,-6.161357,106.762631,085390246882,3.6,1,2022-09-07 01:09:22,2024-09-08 09:19:23,1
+7c07e1d1-95d1-4597-b2d1-4f50395a6420,Sate Rembiga Racaca,Sarapan,Jl. Raya No.99,Jakarta Barat,jakarta,-6.176704,106.74756,084643822301,4.6,1,2022-10-16 22:28:59,2024-12-17 23:43:34,1
+528ad105-b58a-41bc-a833-472bbd79e2ba,"Seblak, Cibinong",Dessert & Snack,Jl. Raya No.170,Jakarta Utara,jakarta,-6.105069,106.853336,082856952151,4.0,1,2022-10-16 03:29:33,2024-09-28 06:18:18,1
+f91f3892-318c-4346-90f8-afdf8e33223c,"Seblak Nova, Cimanggis",Seafood,Jl. Raya No.80,Jakarta Timur,jakarta,-6.237105,106.947972,088160557040,4.5,1,2021-05-25 06:29:36,2024-11-11 19:25:53,1
+fc6d9216-1348-4d23-8a3c-ad2d96f8901c,Segilima Cafe,Vegetarian,Jl. Raya No.176,Jakarta Selatan,jakarta,-6.212988,106.856317,087722543044,4.5,1,2021-10-19 17:44:00,2024-07-16 11:27:22,1
+2a2d1249-2d5c-4636-82e0-930ad64f1f65,Sei dalam Bambu,Mie & Pasta,Jl. Raya No.88,Jakarta Barat,jakarta,-6.179088,106.764709,087235770506,3.8,1,2020-08-01 16:48:29,2024-03-01 04:11:37,1
+b2affcf0-929f-4e2e-a5e9-9e94ad874686,Seung Toppoki,Minuman & Jus,Jl. Raya No.198,Jakarta Pusat,jakarta,-6.164647,106.859406,087980669879,3.6,1,2021-06-07 03:29:08,2024-12-06 08:34:21,1
+b18cbb70-e374-4abe-9eaa-015a89dd124d,"Shabu Idasuki, Cikarang",Nasi & Lauk,Jl. Raya No.47,Jakarta Utara,jakarta,-6.134758,106.857672,089893851247,4.7,1,2020-09-14 03:44:50,2024-10-07 01:54:45,1
+51796def-2b84-438e-a256-876d34507a24,Shihlin Ciputra Cibubur,Vegetarian,Jl. Raya No.61,Jakarta Timur,jakarta,-6.245631,106.910073,086691952730,3.9,1,2021-11-28 09:14:51,2024-03-31 21:03:55,1
+2310f452-f102-4f75-ac66-c805586da6bf,"Slice Cake, Jagakarsa",Western,Jl. Raya No.121,Jakarta Utara,jakarta,-6.130433,106.91656,083459370777,4.5,1,2022-06-05 02:46:34,2024-06-20 02:39:55,1
+1c1f3f8e-fbc2-4908-927a-ac8c61bf6767,"Sliced Pizzeria, Bintaro",Minuman & Jus,Jl. Raya No.136,Jakarta Timur,jakarta,-6.173056,106.955594,086331751079,4.7,1,2022-07-28 07:29:14,2024-02-23 17:58:04,1
+c7668522-890a-4507-8a62-2cf741ba83a3,Sosis Bakar Gangan,Pizza,Jl. Raya No.142,Jakarta Barat,jakarta,-6.177391,106.778447,082379244185,4.8,1,2021-03-18 19:55:10,2024-02-02 13:46:22,1
+71d1cab7-82d1-4420-b996-aab89d989ba3,"Starbucks, Sudirman Bogor",Nasi & Lauk,Jl. Raya No.112,Jakarta Selatan,jakarta,-6.252721,106.862424,082139801436,4.7,1,2021-06-27 01:28:34,2024-12-27 08:37:37,1
+c6ac60bd-110f-48b6-a6c7-7dc25efe0900,Steaky Steak Cikarang,Pizza,Jl. Raya No.61,Jakarta Pusat,jakarta,-6.160479,106.839823,085920952896,4.1,1,2020-02-13 18:54:28,2024-05-03 18:21:29,1
+bdd7f9c4-3369-4900-bb01-1f1c251ab5b3,"SUMOYAKI, PADEMANGAN",Western,Jl. Raya No.38,Jakarta Pusat,jakarta,-6.145629,106.852498,082715140967,3.9,1,2022-01-03 22:23:47,2024-09-27 07:51:40,1
+29e99e43-a4ea-4520-b2e3-2e96d600f819,Sunday Fat Bowl,Dessert & Snack,Jl. Raya No.2,Jakarta Selatan,jakarta,-6.204116,106.827529,082012550658,3.9,1,2020-08-20 06:29:43,2024-08-01 03:13:34,1
+d252c5e9-225f-4530-9688-3cae938402e0,"Sushi Me, Slipi",Burger & Sandwich,Jl. Raya No.61,Jakarta Utara,jakarta,-6.118889,106.831119,084826354208,3.6,1,2021-10-14 04:13:50,2024-09-05 03:27:42,1
+e86eb92b-9fa6-4bd7-b86e-5cd654f25a9c,SYMAXTY NINE COFFEE,Bakso & Soto,Jl. Raya No.128,Jakarta Utara,jakarta,-6.121715,106.831086,088681947921,3.5,1,2022-03-11 14:35:59,2024-08-11 07:49:50,1
+49a4e2d9-b187-4481-81d2-1c27cb83ded2,"Takana Coffee, Rawamangun",Ayam & Bebek,Jl. Raya No.158,Jakarta Selatan,jakarta,-6.208146,106.813302,085542287985,4.4,1,2020-10-17 23:34:07,2024-09-15 00:23:21,1
+4682c343-ba93-4b27-8825-05dab1c4cb4b,Tao Cafe,Minuman & Jus,Jl. Raya No.140,Jakarta Pusat,jakarta,-6.156678,106.83803,087478131950,4.3,1,2021-08-29 13:10:12,2024-12-05 04:02:20,1
+1a759da9-accc-4286-b2dc-6c162591d60e,Tettakopi,Pizza,Jl. Raya No.65,Jakarta Timur,jakarta,-6.245647,106.912557,081257928328,4.7,1,2021-06-19 15:10:07,2024-04-03 15:27:23,1
+d322e8f1-784c-4772-a2b9-a409de435432,"The Acre, Menteng",Pizza,Jl. Raya No.35,Jakarta Pusat,jakarta,-6.147997,106.856759,081557284777,4.3,1,2022-09-25 13:09:27,2024-03-08 23:56:56,1
+ef6f3612-b655-42dc-a4d4-d4b2d2176b75,"The Garrison, Kemang",Nasi & Lauk,Jl. Raya No.35,Jakarta Timur,jakarta,-6.151918,106.922638,081871428713,3.6,1,2020-11-09 03:51:25,2024-01-18 00:18:14,1
+f3fc01dd-a46d-44e8-88e7-eccf72c007ed,Toko Kopi Bacarita,Burger & Sandwich,Jl. Raya No.132,Jakarta Selatan,jakarta,-6.191421,106.815248,086082884346,4.2,1,2020-02-26 21:19:16,2024-10-19 13:10:48,1
+53cfcbd6-8d82-46af-b1e1-b08a444e4373,"Toko Pizza, Limo",Ayam & Bebek,Jl. Raya No.168,Jakarta Selatan,jakarta,-6.251389,106.858971,085246670512,3.7,1,2021-07-25 16:44:57,2024-06-18 16:40:55,1
+763101d1-71a6-4a7e-865a-53cdab4dcb71,Tokyo Town Cafe,Sushi & Japanese,Jl. Raya No.87,Jakarta Timur,jakarta,-6.175669,106.96841,083376599269,4.5,1,2021-07-24 15:41:09,2024-12-24 23:11:52,1
+7e9674d1-245c-4a77-bfdb-a92a2e35c467,"Tomokofi, Cileungsi",Sushi & Japanese,Jl. Raya No.21,Jakarta Utara,jakarta,-6.129331,106.828261,086590859912,5.0,1,2020-10-07 07:54:19,2024-07-30 20:11:23,1
+9ccac676-7e73-47d1-a8be-d71da378fb2e,"Traffic Bun, Benhil",Sarapan,Jl. Raya No.76,Jakarta Barat,jakarta,-6.163939,106.746406,084969849800,4.4,1,2021-10-23 22:45:31,2024-03-05 17:14:30,1
+8c06eb34-466e-44b4-af5e-dedd299f13c2,"Traffic Bun, Buaran",Padang,Jl. Raya No.91,Jakarta Timur,jakarta,-6.214845,106.874659,088868376726,3.9,1,2020-03-30 02:27:49,2024-01-30 03:26:03,1
+0d826672-e22a-44c8-8126-3c9689d192b1,"Wahaha, Kelapa Gading",Sarapan,Jl. Raya No.41,Jakarta Timur,jakarta,-6.213669,106.958121,081329163535,4.8,1,2022-11-19 08:59:07,2024-10-30 10:21:19,1
+6561b9a8-a179-4331-be9d-e10b42e2b7ff,"Wanfan, Gunung Sahari",Western,Jl. Raya No.166,Jakarta Timur,jakarta,-6.24652,106.877396,085658607028,4.1,1,2022-05-31 04:24:47,2024-01-13 13:51:11,1
+0161e0a7-bb44-49b8-8891-8c8815b4abd6,Warung Babe,Pizza,Jl. Raya No.96,Jakarta Utara,jakarta,-6.133862,106.864992,086620319387,4.4,1,2022-04-02 11:41:42,2024-05-22 12:13:17,1
+b1e1e735-3857-4d8b-9cb3-4087f4c76443,"Warung Corndog, Sukaraja",Seafood,Jl. Raya No.7,Jakarta Timur,jakarta,-6.218561,106.900656,083376980546,4.3,1,2022-05-22 12:40:35,2024-02-15 17:36:43,1
+1ac76ac9-6ca9-45bb-b7d0-aa951845303f,Warung Jamet,Mie & Pasta,Jl. Raya No.157,Jakarta Barat,jakarta,-6.141252,106.796323,084675927774,3.8,1,2020-07-29 20:19:19,2024-11-27 04:55:01,1
+23c12562-6032-434b-a932-04116a4c8406,"XIBOBA, Bangbarung",Korean Food,Jl. Raya No.23,Jakarta Pusat,jakarta,-6.159179,106.864934,089752894344,4.5,1,2020-04-10 21:06:15,2024-08-01 14:20:41,1
+1df64da1-9eb5-487c-a494-7d2b047d75eb,"Xi Bo Ba, Ramayana Cileungsi",Nasi & Lauk,Jl. Raya No.183,Jakarta Utara,jakarta,-6.128386,106.849996,089995590648,3.8,1,2021-07-15 13:24:19,2024-07-16 13:56:50,1
+cdf1d590-0002-4429-995d-6da7f728cc85,"XIBOBA, Ramayana Parung",Nasi & Lauk,Jl. Raya No.61,Jakarta Selatan,jakarta,-6.267864,106.806078,087313527782,4.0,1,2022-06-08 00:02:53,2024-05-23 06:30:04,1
+8f7e0226-d4b2-45d0-b355-c2ff687fd1f9,"XIBOBA, Summarecon Bekasi",Dessert & Snack,Jl. Raya No.23,Jakarta Timur,jakarta,-6.169634,106.930681,081851512297,4.1,1,2022-01-13 13:55:43,2024-07-23 03:50:19,1
+1349adac-4728-4a70-bb3d-a78a5678a3a3,XO sushi Tebet,Seafood,Jl. Raya No.33,Jakarta Timur,jakarta,-6.173084,106.960567,085096213226,3.6,1,2021-12-24 15:31:13,2024-09-21 03:04:30,1
+94570fcd-6ef8-4c83-a918-61dee91ee000,"XXI Cafe, PGC",Western,Jl. Raya No.142,Jakarta Utara,jakarta,-6.126219,106.907796,089188891300,3.8,1,2020-07-19 10:41:50,2024-06-17 00:17:40,1
+bbf6a981-90c6-4b57-b640-4412f5e6cb36,"Ya'mbok, Jatimelati",Seafood,Jl. Raya No.133,Jakarta Utara,jakarta,-6.103572,106.825541,082950818905,3.7,1,2021-05-16 05:39:52,2024-12-29 00:23:17,1
+0da7a10d-c254-4e1b-8385-b628f73df5df,AHAN CHASIOPUI,Minuman & Jus,Jl. Raya No.73,Medan Timur,medan,3.595783,98.747374,082043635675,3.8,1,2022-05-05 16:51:23,2024-04-16 14:04:08,1
+bf3cc569-32ed-4e67-bfc1-588e75f525c4,Ahmeds Kitchen,Seafood,Jl. Raya No.129,Medan Kota,medan,3.593752,98.69301,089232633927,4.4,1,2022-06-21 00:04:14,2024-02-29 21:11:41,1
+90791e7f-ea47-48ee-baae-60b0d03d6610,Airo Kitchen,Dessert & Snack,Jl. Raya No.87,Medan Kota,medan,3.596111,98.700444,088215529005,4.7,1,2020-02-14 01:50:25,2024-02-01 13:03:06,1
+78f4e1fe-ebba-40d9-9c24-ae841c031391,"Amanda Brownies, Sunggal",Burger & Sandwich,Jl. Raya No.167,Medan Kota,medan,3.616398,98.703972,083686790955,4.1,1,2022-09-19 15:19:06,2024-01-12 18:17:06,1
+b1fd0953-4943-4fcb-85cb-ec9a87565122,"Arkana Cafe, Tuasan",Sarapan,Jl. Raya No.78,Medan Barat,medan,3.59445,98.657279,087142866956,4.7,1,2022-11-30 02:18:34,2024-06-06 17:03:24,1
+9f1e8145-1e45-4e88-937a-16f793ef184e,"Aromora Cafe, Medan Tembung",Nasi & Lauk,Jl. Raya No.113,Medan Barat,medan,3.572677,98.664431,086374995086,4.2,1,2021-06-12 11:17:53,2024-08-23 14:29:00,1
+47f9f042-f4b2-4595-8424-d0804d921710,Assalam Resto,Vegetarian,Jl. Raya No.89,Medan Kota,medan,3.571881,98.700285,086127551135,4.6,1,2022-03-10 23:51:03,2024-08-06 02:58:07,1
+b632d500-4e96-420f-9c12-09c5fb51c507,Baboi,Burger & Sandwich,Jl. Raya No.116,Medan Kota,medan,3.572338,98.682653,084128908276,3.6,1,2021-03-26 19:53:15,2024-05-29 04:32:09,1
+2663d89b-821e-4413-8e66-7e15fc38ef39,"Baked Well, Petula",Bakso & Soto,Jl. Raya No.41,Medan Timur,medan,3.609269,98.748134,085187535841,4.6,1,2020-10-21 21:31:41,2024-10-23 08:48:24,1
+ed0190bb-67ee-4b30-b9f1-e509595fe063,Bakmie Kembar Manurung,Korean Food,Jl. Raya No.79,Medan Kota,medan,3.584879,98.686031,087313110670,3.6,1,2021-09-02 21:07:52,2024-07-15 07:05:01,1
+7dda34fc-8a78-4b55-901f-26a23304f341,Bakmie Sedap Siantar,Pizza,Jl. Raya No.13,Medan Barat,medan,3.598334,98.640757,081647763008,4.2,1,2022-10-13 08:34:55,2024-09-18 04:20:46,1
+76bd350e-e152-41e2-94f9-7e54a284b05c,"Bakso Anggrek, Marelan",Seafood,Jl. Raya No.111,Medan Barat,medan,3.564287,98.630409,082745496951,4.6,1,2021-09-18 10:24:05,2024-05-22 02:47:00,1
+833d203b-a565-44c0-be8c-bae80c349a10,Bakso Bakar Hot,Mie & Pasta,Jl. Raya No.93,Medan Kota,medan,3.578041,98.68992,088048735464,3.6,1,2022-02-22 08:00:31,2024-06-23 21:36:25,1
+6d6a0486-0c4f-4633-a88d-fa582ab6bc2f,"Bakso Bola, STM",Sarapan,Jl. Raya No.157,Medan Timur,medan,3.59958,98.749455,082527268907,5.0,1,2021-09-03 21:47:41,2024-05-24 22:27:38,1
+d354fae5-3bc4-4f65-afb4-366674b1f8bb,Bakso Solo Kraton,Nasi & Lauk,Jl. Raya No.51,Medan Barat,medan,3.577892,98.64828,088778333267,4.1,1,2020-03-03 12:48:42,2024-01-18 14:15:28,1
+a20f5bd6-ac3e-49bc-81bb-e6ebd20802ca,"Basecamp Coffee, Medan Sunggal",Korean Food,Jl. Raya No.133,Medan Kota,medan,3.559593,98.673313,086829990477,4.4,1,2022-03-11 19:26:48,2024-02-24 06:51:11,1
+65902149-7a82-4ab2-9062-9b14879277aa,"Besty Cemilan, Kapten Sumarsono",Sushi & Japanese,Jl. Raya No.158,Medan Barat,medan,3.596568,98.645927,084889688374,4.0,1,2022-03-02 19:31:08,2024-07-25 17:46:00,1
+5e2dd73e-527b-433a-87f8-a69f36154c0e,Bihun Ikan Hongkong,Padang,Jl. Raya No.5,Medan Barat,medan,3.585437,98.64499,085754458225,4.5,1,2021-10-09 01:44:48,2024-08-14 16:29:53,1
+215bd9c2-65f2-4414-8ad3-ebc10408ab8a,Bika Ambon Ati,Vegetarian,Jl. Raya No.162,Medan Barat,medan,3.589838,98.666266,081390115852,4.2,1,2022-10-15 10:12:10,2024-10-31 01:11:38,1
+fdfe16bb-1e67-4a38-b72e-51137b30046e,Bika Ambon Zulaikha,Dessert & Snack,Jl. Raya No.123,Medan Timur,medan,3.620434,98.73607,083180361272,4.4,1,2022-08-20 17:25:31,2024-10-27 19:51:08,1
+4206a7a6-a046-428a-8e68-9fd1239b2d9c,"Boca, Dr Mansyur",Ayam & Bebek,Jl. Raya No.147,Medan Barat,medan,3.557389,98.664036,089924749927,3.8,1,2021-11-16 03:06:34,2024-05-01 19:49:33,1
+a7f48d55-0ac0-458d-89b4-8f2a8c9c0d46,Bolen Quemami Bakery,Sushi & Japanese,Jl. Raya No.129,Medan Barat,medan,3.557572,98.664525,088873297813,4.8,1,2020-04-06 18:00:52,2024-10-01 02:18:07,1
+f9f21996-ea9a-4992-b7b5-b5589ca2bc28,Bolu Susu Berastagi,Sarapan,Jl. Raya No.123,Medan Kota,medan,3.586308,98.689262,087760576565,4.0,1,2020-09-26 00:42:31,2024-06-27 12:22:28,1
+a5634571-b174-42fc-b071-8694fb936b16,Bou Bobalicious,Western,Jl. Raya No.185,Medan Timur,medan,3.603963,98.717714,089796343485,4.7,1,2021-02-14 16:08:11,2024-08-24 22:19:33,1
+6d514fee-1dcf-446f-bac2-ae9c746aa5df,Breadpop Medan,Minuman & Jus,Jl. Raya No.77,Medan Barat,medan,3.559613,98.642326,083849945150,4.7,1,2022-12-31 00:36:42,2024-03-21 11:58:08,1
+40f64e07-4e95-4ffd-997e-62dac35f6375,Brownies for ANGEL,Pizza,Jl. Raya No.144,Medan Timur,medan,3.629349,98.715852,084548626436,3.7,1,2022-11-17 02:18:20,2024-07-29 22:54:21,1
+4fbc3a04-94ea-42ba-b09d-dce016f6a802,"BS Coffee, Halat",Pizza,Jl. Raya No.198,Medan Barat,medan,3.594788,98.649727,082848983895,3.6,1,2020-05-02 18:25:51,2024-05-14 12:20:30,1
+07fb5fc4-4cda-46d7-92f0-07f22e83071b,"Bukit Kopi, Jurung",Mie & Pasta,Jl. Raya No.52,Medan Barat,medan,3.582799,98.667367,087846390817,4.9,1,2022-12-17 11:08:50,2024-04-15 11:41:44,1
+55ee58e6-d095-4558-a403-dfb172393c82,"Burger Bros, Medan Maimun",Mie & Pasta,Jl. Raya No.63,Medan Kota,medan,3.557646,98.701862,081699903592,4.9,1,2020-12-16 13:38:55,2024-09-04 18:04:27,1
+76dd9a0e-1366-4773-9063-9fe7f7f35241,Burger Gendon,Vegetarian,Jl. Raya No.121,Medan Kota,medan,3.553674,98.678931,082228450513,3.5,1,2022-05-04 22:37:50,2024-12-26 19:50:12,1
+ea4d2e92-9625-4fb5-b53b-176916d64337,"Burger King, Ring Road",Bakso & Soto,Jl. Raya No.122,Medan Kota,medan,3.578484,98.715452,087197313825,3.8,1,2021-03-22 05:16:16,2024-05-04 17:29:59,1
+7ad7d1ad-6166-438f-8c60-e0e2ec496e74,"Cafe City, Thamrin",Seafood,Jl. Raya No.167,Medan Barat,medan,3.582295,98.675397,088341168067,4.3,1,2020-02-27 22:34:45,2024-12-20 15:55:04,1
+bdd8fe9c-2942-4e61-ab09-05acdb8715a0,"Calmante, Cemara",Bakso & Soto,Jl. Raya No.10,Medan Kota,medan,3.579252,98.708632,086076489301,3.8,1,2021-03-25 16:06:39,2024-12-06 11:50:19,1
+c1f5332a-c93c-4126-8105-280a67ea7ed4,Cemilan Kenangan Tembung,Seafood,Jl. Raya No.86,Medan Kota,medan,3.550649,98.689757,084670981700,5.0,1,2022-04-23 23:42:36,2024-07-22 15:00:10,1
+3c9fb43a-6784-4a78-b3b0-8c85423d8d27,Cemilan Snack Medan,Minuman & Jus,Jl. Raya No.120,Medan Barat,medan,3.594463,98.63671,084435878707,4.7,1,2021-05-28 16:47:48,2024-03-04 02:33:22,1
+739119d9-a5a9-48d1-a38c-a19f363ccfe4,"Cent's, Sumatera",Nasi & Lauk,Jl. Raya No.4,Medan Timur,medan,3.612124,98.712863,085349597485,4.4,1,2020-10-27 01:34:29,2024-03-09 03:43:52,1
+49b1aa8e-74d5-4cb3-b282-0d49fe1e463e,"CGV, Focal Point",Padang,Jl. Raya No.110,Medan Timur,medan,3.63993,98.744852,087554013571,3.6,1,2022-11-05 15:40:00,2024-02-07 01:03:13,1
+39b94a10-1289-4e1f-9a4d-d0b5effa1e42,"Chatime, Binjai Supermall",Bakso & Soto,Jl. Raya No.64,Medan Kota,medan,3.618718,98.683422,081045002007,4.1,1,2021-11-24 23:30:26,2024-10-19 17:31:16,1
+3fd2a425-e290-4c0d-b434-c5584a0d7a36,"Chicken Crush, Delitua",Vegetarian,Jl. Raya No.147,Medan Barat,medan,3.597702,98.645097,081145105069,4.5,1,2022-12-12 04:17:06,2024-04-01 18:29:58,1
+1c434302-5ce7-4ea3-b842-7acba5c6862a,"Chicken Crush, Gaperta",Nasi & Lauk,Jl. Raya No.104,Medan Kota,medan,3.596745,98.682578,089777447155,4.9,1,2022-12-28 22:30:26,2024-10-25 23:26:19,1
+41c7c797-30ad-44b9-a578-0b3ed9e74c39,"Chicken Crush, Tuasan",Burger & Sandwich,Jl. Raya No.95,Medan Barat,medan,3.584515,98.661936,088839641883,3.8,1,2020-07-26 11:48:18,2024-07-04 16:58:42,1
+cb2347e9-806f-4d07-8bc2-436a289b6a98,"Chicken Inc, Medan",Pizza,Jl. Raya No.107,Medan Kota,medan,3.581849,98.719219,089983717007,4.9,1,2022-04-15 00:06:42,2024-11-07 11:08:06,1
+f9ef82af-c774-4dcb-a8c0-45af9c69a863,"Choco Bakery, Karya",Sarapan,Jl. Raya No.194,Medan Timur,medan,3.637792,98.738093,088620988446,4.3,1,2022-03-31 11:43:16,2024-09-30 07:34:32,1
+3b4c0ce4-8edc-4c44-baa1-0f1ea82187c2,"Choco Bakery, Marelan",Ayam & Bebek,Jl. Raya No.141,Medan Barat,medan,3.553905,98.658208,087437133023,4.4,1,2020-08-20 18:54:06,2024-03-04 21:35:50,1
+8866c846-748b-42a2-b7de-5849bd6c030e,Clouds Coffee,Sarapan,Jl. Raya No.53,Medan Barat,medan,3.592724,98.652092,088475609379,3.6,1,2022-03-03 20:10:20,2024-06-22 00:11:58,1
+8b9afef0-ff50-4d0e-8e7a-b9e87a77f98d,Copa Coffee,Korean Food,Jl. Raya No.145,Medan Kota,medan,3.58174,98.685927,081785000490,4.2,1,2021-04-23 17:23:38,2024-10-07 21:27:32,1
+747e3349-45cd-40c9-8de0-6588b7827f14,Corndog Mozarella Bites,Vegetarian,Jl. Raya No.56,Medan Kota,medan,3.577716,98.707152,088419801857,3.6,1,2021-06-19 04:58:01,2024-09-29 00:03:36,1
+5bac8fb5-3911-4437-880e-c868faa93a3d,Dapoer Sedap Wangi,Bakso & Soto,Jl. Raya No.18,Medan Kota,medan,3.587881,98.654218,087014259382,3.9,1,2020-10-06 14:11:24,2024-10-25 15:20:20,1
+cc8ccf74-bba6-4402-a289-6bce5eb0e521,"Dapurnyonyabinjai, Binjai Timur",Sarapan,Jl. Raya No.108,Medan Kota,medan,3.603608,98.718483,085761335545,4.2,1,2021-08-09 10:05:02,2024-05-25 21:16:12,1
+e73ca1e4-c7a2-4d61-a35b-ebc49f1686a1,"D'Conrad, Mojopahit",Minuman & Jus,Jl. Raya No.35,Medan Kota,medan,3.597791,98.696325,089356676884,3.7,1,2022-04-14 14:26:53,2024-06-01 15:34:19,1
+1732daba-0c76-4a5d-b1f8-acf990be2107,"Dcrepes, Ruko Setia Budi",Padang,Jl. Raya No.1,Medan Timur,medan,3.588914,98.748936,081250045602,4.2,1,2022-04-25 18:23:36,2024-06-13 17:09:35,1
+955083f3-5bb5-4b72-b5eb-172fc44501d7,Dear Butter,Korean Food,Jl. Raya No.89,Medan Timur,medan,3.606549,98.711483,082946997080,3.8,1,2020-06-24 07:09:11,2024-01-13 12:17:13,1
+64bfedf2-d5c6-4fc1-8bca-de7693ade1ca,DeFroggy,Bakso & Soto,Jl. Raya No.5,Medan Timur,medan,3.609347,98.738303,084037659807,3.6,1,2022-07-11 15:50:34,2024-01-14 00:57:12,1
+400d7a55-812c-4fb2-8f4f-c70b862ff96f,Depan Gang Coffee,Ayam & Bebek,Jl. Raya No.63,Medan Barat,medan,3.579889,98.665164,081563991141,4.2,1,2022-04-18 11:42:15,2024-03-25 09:05:44,1
+29e7726c-2dae-47aa-ac6a-8bd59dc9e26e,"Dooduck, Thamrin Plaza",Mie & Pasta,Jl. Raya No.188,Medan Kota,medan,3.559809,98.719544,088352802529,4.4,1,2022-11-10 17:48:23,2024-11-13 19:52:39,1
+463a82f9-5b99-42fb-82db-8dc32cc414d4,"Dunkin' Donuts, Ringroad",Sarapan,Jl. Raya No.134,Medan Barat,medan,3.561845,98.673813,083865507111,4.0,1,2020-04-04 16:39:55,2024-08-04 04:59:20,1
+4a94fe04-bf0f-4c7a-a29d-2030077f1a81,"Durian House, Sekip",Sarapan,Jl. Raya No.174,Medan Timur,medan,3.64158,98.745579,086484605013,4.2,1,2021-06-19 00:42:55,2024-09-06 20:08:25,1
+71632a7c-1c2a-4e35-8181-86e31dd21f38,"Eatboss, Ring Road",Vegetarian,Jl. Raya No.107,Medan Timur,medan,3.606681,98.726223,086230027648,3.9,1,2020-10-12 15:30:18,2024-10-19 23:40:03,1
+1beb0aab-9906-42aa-8449-e1c37a52d61e,"Eat Toast, Medan",Burger & Sandwich,Jl. Raya No.182,Medan Timur,medan,3.613146,98.742467,082872146184,4.9,1,2022-05-23 15:16:04,2024-06-09 06:25:58,1
+e58897b6-d3d7-4831-90c3-59933c1f130e,Ejaz Biryani,Mie & Pasta,Jl. Raya No.66,Medan Barat,medan,3.577864,98.636705,083654327148,4.5,1,2021-11-29 17:16:05,2024-11-24 23:51:19,1
+4bf3dbcf-37f7-44a0-ba47-01998c02d24d,FatFoodMeli,Mie & Pasta,Jl. Raya No.14,Medan Barat,medan,3.554623,98.666229,084460622628,4.5,1,2022-07-25 14:33:47,2024-01-16 08:36:35,1
+eea06c89-d154-487a-b72e-33e423bc007c,"France Bakery, Bambu",Vegetarian,Jl. Raya No.172,Medan Kota,medan,3.563171,98.703319,088139127464,4.2,1,2021-06-01 05:48:33,2024-04-27 17:55:01,1
+b4bc1ea8-178a-46f1-ab3b-a3f13c9ec72e,"Fritto Chicken, Sudarso",Vegetarian,Jl. Raya No.31,Medan Kota,medan,3.564827,98.663302,087142560305,4.5,1,2022-12-29 06:23:40,2024-03-20 10:12:02,1
+371d47de-61fe-4e0a-b49e-293a2676a278,"Fritto Chicken, TVRI",Western,Jl. Raya No.73,Medan Barat,medan,3.595756,98.657604,085872579077,4.3,1,2021-07-12 02:10:01,2024-04-29 18:42:14,1
+7c7dd3f9-5dd5-41e0-9416-f4d2f86af0fd,Garis Cafe,Korean Food,Jl. Raya No.26,Medan Barat,medan,3.567982,98.674141,087052980983,4.9,1,2021-07-29 20:52:52,2024-05-01 12:38:40,1
+0e568186-dd7f-432f-ad37-d17431d33bb9,Gocha Gocha,Vegetarian,Jl. Raya No.38,Medan Barat,medan,3.552286,98.673204,081245000508,4.3,1,2022-06-26 06:17:14,2024-08-12 22:00:11,1
+c777e3b6-345d-44d0-bc35-60e041f99f29,Gorengan Bu Aidah,Pizza,Jl. Raya No.59,Medan Timur,medan,3.60923,98.707621,085886475853,4.8,1,2022-02-14 15:18:30,2024-08-01 20:21:37,1
+feccbc15-18c1-41f8-b77f-f6c151cbdea1,Grand Liberty Restaurant,Western,Jl. Raya No.126,Medan Timur,medan,3.646043,98.716878,089275846624,4.2,1,2021-07-01 02:04:45,2024-03-06 17:40:14,1
+10aa8fc5-b657-4f58-9e65-8c9e309096de,"Great Cafe Medan, Katamso",Bakso & Soto,Jl. Raya No.139,Medan Kota,medan,3.600422,98.684182,089217882882,4.3,1,2020-04-25 11:14:18,2024-11-13 16:16:28,1
+7cd4dfc2-d2bc-47da-baaa-6191ceb56b8d,Guzva Coffee & Resto,Nasi & Lauk,Jl. Raya No.162,Medan Timur,medan,3.583396,98.700319,083919122502,4.6,1,2020-01-15 04:49:06,2024-03-25 22:36:54,1
+38dfb82f-5da3-4864-a27b-e7ac2693d7c2,"Heysteak, Medan Johor",Sarapan,Jl. Raya No.171,Medan Timur,medan,3.611921,98.703023,088874854563,4.5,1,2020-01-25 10:31:22,2024-01-03 13:37:53,1
+b303fab3-081c-4c4c-830e-8078d50e7975,Hoffen milk bar,Minuman & Jus,Jl. Raya No.185,Medan Timur,medan,3.618615,98.700593,084581905550,5.0,1,2020-01-27 15:07:20,2024-07-14 00:59:33,1
+564f3b25-c647-4e62-ae3a-465088c896a1,"Hola Crabs, Abadi",Bakso & Soto,Jl. Raya No.46,Medan Timur,medan,3.627182,98.740308,082322927031,4.3,1,2021-01-09 07:58:09,2024-03-15 12:56:11,1
+bb44bb68-d306-4922-815d-f604ec23d1d9,"Holywings, Medan",Burger & Sandwich,Jl. Raya No.102,Medan Timur,medan,3.616852,98.740761,082060070135,4.9,1,2021-12-14 00:40:34,2024-08-07 10:12:07,1
+ca0cad4f-6aad-45f9-b2c2-b9e4765d5e11,Hot Buns Bakery,Sarapan,Jl. Raya No.21,Medan Kota,medan,3.619316,98.66581,089397227356,4.6,1,2020-05-25 05:57:05,2024-06-06 09:28:03,1
+4f0617cd-5849-4ca6-8add-a7ad2f383af6,HRD COFFEE SHOP,Sarapan,Jl. Raya No.3,Medan Barat,medan,3.568858,98.6538,089933002714,3.6,1,2021-11-05 01:19:27,2024-09-07 10:58:16,1
+66173801-c6c3-4173-9ba3-e4bc130b8aa5,Hungrypedia Mustika,Seafood,Jl. Raya No.136,Medan Barat,medan,3.578293,98.672898,081540838737,3.8,1,2022-12-11 10:21:23,2024-12-10 16:36:20,1
+6c631bf1-3f7e-4598-8517-1b20eca81a0d,i CLAZ,Seafood,Jl. Raya No.176,Medan Timur,medan,3.613285,98.702328,084582884346,4.3,1,2020-02-21 02:40:02,2024-03-10 15:42:18,1
+99644435-1f5e-4c77-b49f-45577cbf1b65,IO.INOUT,Nasi & Lauk,Jl. Raya No.193,Medan Barat,medan,3.550783,98.640358,086020326375,3.9,1,2022-05-26 01:53:08,2024-04-03 09:21:47,1
+9a5a0470-2707-4585-a2e0-b34f4b7cb978,Istanbul Kebab,Bakso & Soto,Jl. Raya No.139,Medan Timur,medan,3.638426,98.719458,085261518966,4.6,1,2020-08-05 09:44:10,2024-11-02 23:58:34,1
+8d8ba8b3-d478-4fb6-be96-a9c82fc28673,JAMU RAHMAN,Pizza,Jl. Raya No.14,Medan Timur,medan,3.630691,98.72504,082268664992,3.8,1,2020-04-28 02:09:56,2024-05-12 06:33:16,1
+15a92e3a-e01f-4a5f-89d5-7e311b25489c,"Jelly Potter, Sikambing",Sushi & Japanese,Jl. Raya No.199,Medan Timur,medan,3.63383,98.747743,085113976288,4.5,1,2021-11-30 21:43:43,2024-07-09 12:45:20,1
+8b11706c-b5c8-4c21-9345-26c465d4c3f6,Joglo Sewu Roso,Sushi & Japanese,Jl. Raya No.48,Medan Kota,medan,3.574907,98.71588,089788634827,4.5,1,2020-05-13 02:54:29,2024-10-26 21:07:18,1
+e60a383c-b494-4c68-8ac8-162142907e48,Jp Coffee,Seafood,Jl. Raya No.22,Medan Timur,medan,3.600677,98.712322,084430699187,4.1,1,2022-09-11 17:32:16,2024-02-29 21:57:53,1
+60b7a8cf-d238-4db7-8fec-fa8213f543b0,"K3 Mart, Ayahanda",Seafood,Jl. Raya No.2,Medan Timur,medan,3.607274,98.718035,084969691437,4.0,1,2021-02-23 01:37:19,2024-02-09 16:51:57,1
+b94cd11e-13f0-4771-997d-fdb4c6fb36f0,"K3 Mart, Sumatera",Minuman & Jus,Jl. Raya No.143,Medan Kota,medan,3.556111,98.680169,087564766762,3.7,1,2020-05-19 05:13:57,2024-05-17 10:43:12,1
+241e1333-22ab-466a-acec-95d2d3a17370,Kabayan Seafood Bandung,Pizza,Jl. Raya No.99,Medan Timur,medan,3.586514,98.729902,081149171088,4.1,1,2020-05-11 13:49:36,2024-10-08 12:02:03,1
+2e3a0536-8c06-4180-b363-5edda4ed7c71,Kai Xing Pao,Dessert & Snack,Jl. Raya No.134,Medan Timur,medan,3.643365,98.748909,083161100987,3.8,1,2021-02-21 18:01:32,2024-04-26 22:44:48,1
+3bdc16a6-f9ef-4a34-a72f-ffd270e3e11f,"Kantor Kupie, Stabat",Sushi & Japanese,Jl. Raya No.71,Medan Barat,medan,3.574656,98.633163,086350232066,4.2,1,2020-04-29 11:50:10,2024-05-20 05:55:41,1
+787a5994-de33-40ed-b0cf-f0397d0ff551,"Kedai Kopi Kulo, Setiabudi",Korean Food,Jl. Raya No.153,Medan Barat,medan,3.597211,98.666045,088836246038,4.2,1,2020-07-29 11:24:56,2024-04-28 07:37:06,1
+1c734bc9-4c8d-4705-9d95-2d97901397f9,"Kedans, Stabat",Dessert & Snack,Jl. Raya No.98,Medan Kota,medan,3.616418,98.673255,085269085720,4.0,1,2022-10-08 08:24:47,2024-08-18 20:08:36,1
+ce0f844e-a58a-44cc-bed8-479c15ba3405,KENZO BOBA,Vegetarian,Jl. Raya No.52,Medan Kota,medan,3.57103,98.692225,087152168966,3.8,1,2021-09-10 15:26:51,2024-05-03 22:34:43,1
+2998627a-0046-43bc-826b-a8b0a9975cc7,Kerang Pink,Dessert & Snack,Jl. Raya No.63,Medan Barat,medan,3.586744,98.661645,085160473288,3.9,1,2021-09-02 09:41:00,2024-05-21 18:11:29,1
+5cd8af6b-bffa-4be8-a27c-cff42dd406c9,Kerang Rebus Sumatra,Minuman & Jus,Jl. Raya No.47,Medan Kota,medan,3.615245,98.663986,089783833059,3.5,1,2021-12-18 02:31:25,2024-10-02 02:27:34,1
+f2e34283-3f40-4fa1-aed3-647876e0ef41,"KFC, Home Centra",Vegetarian,Jl. Raya No.18,Medan Kota,medan,3.580692,98.670393,086277015343,3.7,1,2021-04-15 10:25:09,2024-04-03 23:48:02,1
+93ba0943-d814-4b35-b28c-87fd7bc38541,"KFC, Marelan Raya Medan",Western,Jl. Raya No.97,Medan Barat,medan,3.582933,98.665762,081970272714,5.0,1,2022-01-14 11:09:52,2024-08-14 02:54:27,1
+bf85e15a-34e5-476a-80c5-1bfbf0ed7360,"KFC, Medan Fair",Padang,Jl. Raya No.178,Medan Barat,medan,3.576718,98.676175,086382966824,3.6,1,2021-07-12 12:13:51,2024-09-29 11:42:19,1
+0d956028-9d7a-4069-95fa-9b0a485d1f6f,"KFC, Suzuya Medan",Seafood,Jl. Raya No.197,Medan Timur,medan,3.621567,98.74572,084198261798,4.5,1,2020-09-15 09:32:54,2024-09-08 06:28:32,1
+e07b8ab4-4af1-4968-aff9-74590776e2ba,"Killiney, DI Panjaitan",Sarapan,Jl. Raya No.166,Medan Timur,medan,3.583101,98.74918,086154506155,4.9,1,2021-10-30 16:32:45,2024-02-11 03:28:29,1
+34bbebcb-46a2-4de2-aa0a-e7c13bb49d00,"Koboi Cafe, Bromo",Vegetarian,Jl. Raya No.133,Medan Kota,medan,3.556902,98.66554,088187915846,4.5,1,2020-12-09 08:39:37,2024-06-22 02:57:26,1
+8fca66fb-7673-4278-9ec7-124b2973bf91,"Kokumi, Sun Plaza",Dessert & Snack,Jl. Raya No.177,Medan Barat,medan,3.569557,98.668617,087430232642,4.0,1,2020-02-08 03:45:43,2024-07-06 11:45:09,1
+734ed821-4557-429d-9ee8-837d9f7e9615,"Kopi Broo, STM",Seafood,Jl. Raya No.30,Medan Kota,medan,3.57068,98.714438,082856751880,4.0,1,2021-12-08 08:01:51,2024-10-31 13:55:34,1
+df5ba6f5-b57c-48f6-949c-b421ff0f4aae,Kopi Garasi Tua,Seafood,Jl. Raya No.113,Medan Kota,medan,3.586478,98.674381,089970726434,4.0,1,2021-04-11 10:39:23,2024-01-18 08:28:34,1
+04961d11-03a9-4270-90b6-e8c5e86a7390,"Kopi Sadis, Tembung",Sarapan,Jl. Raya No.28,Medan Timur,medan,3.588056,98.742459,089632059232,4.9,1,2021-01-13 21:44:01,2024-07-19 09:24:42,1
+46484929-8e8e-430d-8d94-7ae18468fbff,"Kopi Yor, Medan",Sushi & Japanese,Jl. Raya No.119,Medan Kota,medan,3.588634,98.673169,083964364546,4.4,1,2020-10-16 13:00:29,2024-09-05 17:41:44,1
+9c9b3493-7fde-4d25-b420-c35da34d7671,Koppitomi Coffee 2,Dessert & Snack,Jl. Raya No.51,Medan Timur,medan,3.610249,98.70146,086789484162,4.1,1,2020-01-07 21:54:34,2024-09-30 16:36:43,1
+e33d9c24-1e06-48e7-8c7e-66d3586a6fdb,"LImasari, S. Parman",Western,Jl. Raya No.17,Medan Kota,medan,3.564405,98.702663,088323656928,4.7,1,2022-04-14 00:40:23,2024-03-13 14:35:31,1
+02322961-e478-489d-bc5a-582b78f823eb,"Lina Cafe, Tembung",Burger & Sandwich,Jl. Raya No.172,Medan Barat,medan,3.566299,98.652878,087280828710,4.9,1,2021-05-01 20:33:07,2024-08-19 20:10:17,1
+76ddffaf-8731-4d49-b899-6414dfb1931d,Locabite Burgerbox Johor,Pizza,Jl. Raya No.91,Medan Barat,medan,3.580565,98.65935,086892861016,3.8,1,2022-11-12 09:12:46,2024-10-01 04:17:18,1
+1fe86170-1473-4083-98e3-cd8d6d74e6a8,Lontong Stasiun,Sarapan,Jl. Raya No.35,Medan Barat,medan,3.595934,98.659508,085025819123,3.9,1,2020-06-30 16:10:16,2024-03-12 02:05:54,1
+8a6ad270-60fd-4166-a097-ce2171212569,"Luigi Gelato, S Parman",Sushi & Japanese,Jl. Raya No.153,Medan Barat,medan,3.584672,98.655541,082787149161,4.1,1,2020-10-15 13:23:59,2024-07-08 00:05:42,1
+a444e535-3824-49d2-b16f-3396615b78c9,Marina Bay Seafood,Bakso & Soto,Jl. Raya No.45,Medan Timur,medan,3.617617,98.745958,088132396311,4.2,1,2020-08-05 22:38:02,2024-03-13 15:53:06,1
+01cf889c-39df-4aa2-8447-ac52d04999a8,Martabak Bollywood Medan,Padang,Jl. Raya No.92,Medan Barat,medan,3.592099,98.66097,081175043108,3.7,1,2021-08-19 10:28:34,2024-08-06 02:19:27,1
+f794e9f4-6f24-4a7b-8215-b743b0bc3ea4,"Martabak Djuara, Pulo Brayan",Korean Food,Jl. Raya No.107,Medan Timur,medan,3.625715,98.720457,086675592138,3.8,1,2022-05-28 07:33:28,2024-01-12 23:38:33,1
+0a63bf1f-1088-448f-9844-f6406fda2eb5,"McDonald's, Binjai",Minuman & Jus,Jl. Raya No.74,Medan Kota,medan,3.570446,98.66924,083171380637,4.3,1,2022-02-08 10:37:11,2024-08-01 11:49:09,1
+af4eac58-4648-4994-b013-b298e4f4f2ad,Meja Coffee & Space,Western,Jl. Raya No.140,Medan Timur,medan,3.587925,98.70571,085682751830,4.7,1,2020-03-05 15:21:09,2024-10-22 03:45:06,1
+7f9a22d6-a465-4820-94c9-cad1349372af,"Menantea, Ringroad Medan",Sushi & Japanese,Jl. Raya No.27,Medan Timur,medan,3.610896,98.710927,089343223132,3.9,1,2020-02-20 01:38:10,2024-06-23 15:48:33,1
+76b59b4a-8e2f-4d82-ad1e-dd292dc0493a,Mie Aceh Jal,Korean Food,Jl. Raya No.31,Medan Barat,medan,3.567429,98.670836,084038169370,4.7,1,2022-07-02 07:23:29,2024-09-24 15:11:26,1
+ef6e6aad-e72d-4a51-9990-791bda053f78,Mie Balap Seafood 77,Sushi & Japanese,Jl. Raya No.43,Medan Barat,medan,3.593052,98.660513,088828687800,4.7,1,2020-11-17 11:23:01,2024-11-08 19:14:58,1
+225adfa2-dc6b-4899-b410-92d5ed1ab857,Monokrom Binjai,Dessert & Snack,Jl. Raya No.138,Medan Kota,medan,3.589905,98.68726,083153440052,5.0,1,2021-03-30 14:12:44,2024-04-22 08:46:52,1
+9ef35a61-858a-42aa-93f4-560092a3c5f8,"Moo Ngemil Corndog, Marelan 5",Bakso & Soto,Jl. Raya No.174,Medan Timur,medan,3.598714,98.742901,082228198434,4.9,1,2021-10-01 09:25:09,2024-12-22 19:32:42,1
+dd56d7aa-492f-414e-9d9d-bad2b74da05d,Mr. Prawns,Nasi & Lauk,Jl. Raya No.180,Medan Kota,medan,3.619474,98.710693,082643511112,3.7,1,2021-05-15 08:38:08,2024-11-17 18:00:36,1
+69f9de52-06ad-4ee4-9a4a-0afd200dc3a7,"Muda Burgerbar, Binjai",Korean Food,Jl. Raya No.37,Medan Kota,medan,3.603303,98.697336,088394879557,3.9,1,2021-10-05 11:25:50,2024-05-25 16:51:34,1
+23449536-434f-4127-88a6-627b572eccd5,MY Drink 21,Western,Jl. Raya No.24,Medan Barat,medan,3.553776,98.66973,086179204468,4.6,1,2022-12-15 04:25:40,2024-12-29 15:17:06,1
+25c48d5c-5505-4251-8054-cedc84dcc040,Nasgor Tiarbah,Dessert & Snack,Jl. Raya No.1,Medan Barat,medan,3.572735,98.654402,082171532017,4.5,1,2022-12-19 04:49:02,2024-05-19 02:52:40,1
+4b5a94bc-28c1-41e3-9b8a-72037a48054a,"Nomi, Multatuli",Sushi & Japanese,Jl. Raya No.55,Medan Kota,medan,3.605697,98.67784,087346042404,4.0,1,2021-03-16 13:06:58,2024-05-11 04:06:22,1
+fe82c1b0-e860-4493-bce3-3b84ab00f624,Nongki Square,Korean Food,Jl. Raya No.88,Medan Timur,medan,3.620455,98.728307,089716497381,3.6,1,2022-08-30 17:39:52,2024-10-31 10:22:55,1
+7d4b6fb4-9c2a-489f-aa2f-f4f0a17204ec,Odette Vegetarian,Nasi & Lauk,Jl. Raya No.113,Medan Barat,medan,3.550814,98.676472,086810090721,5.0,1,2021-10-26 13:30:50,2024-03-19 13:44:32,1
+7d6c1fc7-078b-42df-ade2-9ea2295a57ae,"Offle, Medan Mall",Burger & Sandwich,Jl. Raya No.41,Medan Timur,medan,3.643659,98.744107,084522527880,4.5,1,2021-01-23 23:11:20,2024-02-02 00:12:54,1
+d3a92c02-2bc1-4fb3-ac4a-b935be4dc986,OluOlu Korean food,Ayam & Bebek,Jl. Raya No.102,Medan Barat,medan,3.583225,98.662446,089051004756,4.6,1,2020-12-29 17:30:54,2024-06-15 16:43:20,1
+524451ef-20e5-47ed-bf25-a01485cb8e35,Ome Crepes Johor,Mie & Pasta,Jl. Raya No.123,Medan Timur,medan,3.586384,98.704759,081927810664,4.4,1,2022-03-17 22:17:07,2024-09-21 01:53:54,1
+5faea530-2f76-4c82-8611-5f3b8af30351,OPPA OPPA TOKPOKKI,Padang,Jl. Raya No.31,Medan Barat,medan,3.550464,98.66478,086427740248,4.2,1,2020-12-21 15:45:28,2024-05-28 18:28:13,1
+4ed7378d-f0ba-470b-a62c-352fbedacb9a,"Padamu Negeri, Delipark",Pizza,Jl. Raya No.95,Medan Kota,medan,3.601153,98.65717,084828405182,4.1,1,2020-07-25 20:03:04,2024-09-06 03:55:23,1
+a8b19f41-2747-4e3c-a875-3b51344e8e66,Pak Tong Kuphi,Ayam & Bebek,Jl. Raya No.157,Medan Timur,medan,3.59,98.726525,089332027350,4.2,1,2020-11-26 23:16:58,2024-08-31 22:07:48,1
+d176dbc7-8ef0-473e-8b91-3b0caf3a5673,"Patbingsoo, Multatuli",Sarapan,Jl. Raya No.114,Medan Timur,medan,3.590596,98.720585,083721635070,4.8,1,2020-08-05 12:04:05,2024-10-19 05:18:06,1
+dbd866ab-1bee-4ffe-991d-e968c253edea,PECAL BERKAH 89,Sushi & Japanese,Jl. Raya No.81,Medan Kota,medan,3.59127,98.676882,082743257324,3.9,1,2020-05-10 21:01:11,2024-04-06 09:05:03,1
+bc298a56-371f-4b31-9f02-bfd526b88476,Pia Tamiang,Burger & Sandwich,Jl. Raya No.200,Medan Timur,medan,3.62207,98.736059,089813600310,4.8,1,2022-10-19 19:07:52,2024-12-06 03:18:03,1
+266f37a3-b7db-45da-b9a9-01f74da5c271,PIPETZ,Mie & Pasta,Jl. Raya No.192,Medan Barat,medan,3.560272,98.660346,086049666982,4.5,1,2021-01-06 19:16:55,2024-07-11 04:41:16,1
+ce4c5f77-0503-483d-9545-7f8499890885,"Piutime,  Veteran",Dessert & Snack,Jl. Raya No.19,Medan Barat,medan,3.555637,98.654979,087711619606,5.0,1,2021-05-06 14:57:20,2024-02-21 06:10:10,1
+7415b437-e937-46bb-9eb1-16a35df93454,"Pizza Roemah Enak, Stabat",Pizza,Jl. Raya No.140,Medan Barat,medan,3.593041,98.658419,089733188838,4.6,1,2020-04-23 09:19:59,2024-01-07 11:33:23,1
+2fb28de4-0129-40ff-adda-28e9d0f6b316,"Pokpia 88, Wahidin",Ayam & Bebek,Jl. Raya No.16,Medan Timur,medan,3.584727,98.713109,086077996124,3.9,1,2022-02-17 08:27:33,2024-10-24 21:59:00,1
+49005c39-d5c2-42e5-b970-fcc77fa02fbe,Pondok Punokawan,Sarapan,Jl. Raya No.138,Medan Barat,medan,3.571179,98.650114,087892684436,3.7,1,2020-05-09 20:43:29,2024-04-30 08:32:29,1
+836fecd1-0f7d-4a2b-be51-af8704de2242,POST DUA CAFE,Western,Jl. Raya No.40,Medan Kota,medan,3.585791,98.664224,087853855682,4.1,1,2022-09-12 08:12:12,2024-10-23 09:45:52,1
+7c2c7a3f-1e9d-4199-96fa-bffa18e11543,"POTTE Cafe & All Day Dining, Medan Selayang",Vegetarian,Jl. Raya No.112,Medan Timur,medan,3.627674,98.703306,084017772004,3.9,1,2021-11-05 22:43:20,2024-02-15 01:04:23,1
+eefff28f-b93e-4959-8cff-2987e5178492,Pulut Durian Rahmadsyah,Sarapan,Jl. Raya No.190,Medan Barat,medan,3.580615,98.632751,089433574794,3.7,1,2020-08-01 03:37:35,2024-09-29 10:27:01,1
+c229d97f-c555-4c33-a5da-e773633f75f3,"PunyaAyee Medan, Cemara",Minuman & Jus,Jl. Raya No.133,Medan Kota,medan,3.561468,98.716711,084332409388,4.1,1,2021-02-21 12:15:58,2024-10-11 15:27:25,1
+e8342022-ae9d-4bea-9b5a-e064b2149752,"Putra Dimsum, Purwo",Western,Jl. Raya No.110,Medan Kota,medan,3.604,98.652055,084480310522,3.6,1,2022-06-14 19:07:57,2024-08-31 17:01:47,1
+bc11db6c-6e89-4403-92cf-7a2a06bacbe3,"QiuQiunian, Medan Marelan",Ayam & Bebek,Jl. Raya No.128,Medan Kota,medan,3.58473,98.685755,088232398441,4.1,1,2021-01-31 07:25:00,2024-10-27 07:56:53,1
+4421ec5e-4ce0-419f-816f-820f1f62333b,"QiuQiuNian, Medan Marendal",Seafood,Jl. Raya No.59,Medan Kota,medan,3.612599,98.697188,087510344739,3.6,1,2020-01-20 02:07:57,2024-04-04 23:23:05,1
+1054c180-628a-474a-be48-335142b518f2,"Qiuqiunian, Merci",Nasi & Lauk,Jl. Raya No.46,Medan Kota,medan,3.583024,98.676809,081484204255,4.7,1,2022-10-15 14:23:26,2024-06-11 20:48:18,1
+45ac40c2-14ee-46eb-9c40-d0647e76064d,"Raihan Bakery, Denai",Vegetarian,Jl. Raya No.82,Medan Kota,medan,3.572526,98.679138,084420453825,4.4,1,2020-07-04 11:35:21,2024-07-13 23:21:38,1
+7b342ebd-dc70-4ff2-bad2-057b4d903d69,"Raihan Bakery, Tembung",Western,Jl. Raya No.133,Medan Timur,medan,3.643136,98.708967,081563811222,3.6,1,2021-12-23 11:58:03,2024-12-02 08:00:19,1
+96849356-c776-4f31-995e-100dd24e3d6e,"Rajanya Taichan, Multatuli",Seafood,Jl. Raya No.142,Medan Barat,medan,3.588676,98.645535,086811069604,4.1,1,2021-03-28 23:27:10,2024-08-06 23:03:34,1
+81f402ff-d5ad-40f9-8b94-3feef86c2315,"Ram Kopi, Merak",Pizza,Jl. Raya No.152,Medan Barat,medan,3.586979,98.642129,087336229153,4.6,1,2022-04-29 01:12:19,2024-10-22 08:12:28,1
+014115e1-a7db-4724-9011-ae02a1422ad0,"Restaurant Miramar, Pemuda",Ayam & Bebek,Jl. Raya No.60,Medan Kota,medan,3.56054,98.715268,087956496201,4.5,1,2022-12-13 06:05:33,2024-12-06 16:05:01,1
+f728cb9e-c490-4256-a9f1-28913d5a6e83,"Restoran Berjaya, Marelan",Sarapan,Jl. Raya No.97,Medan Kota,medan,3.616569,98.650102,084923951801,3.8,1,2021-01-04 23:31:53,2024-06-12 00:58:02,1
+207cab7f-3052-4225-8bae-db51230190ad,"Restoran Berjaya, Setiabudi",Nasi & Lauk,Jl. Raya No.183,Medan Barat,medan,3.598059,98.678628,084522485824,3.6,1,2020-12-25 13:55:22,2024-12-14 11:19:31,1
+94093bcb-2211-4719-b384-d6e2c75cb80e,"Richeese Factory, Binjai",Korean Food,Jl. Raya No.192,Medan Timur,medan,3.608914,98.744779,082087949714,3.6,1,2020-07-26 09:45:25,2024-09-04 11:16:50,1
+bbc2210e-27ad-41c8-9d5d-9d47364e1287,"Ridho Burger, Binjai",Sushi & Japanese,Jl. Raya No.170,Medan Barat,medan,3.553742,98.658391,082641778964,3.9,1,2021-05-04 08:23:00,2024-12-25 15:20:11,1
+d53d30ec-2aff-4497-9644-f3f20dd6a8a6,RM. Jenar,Pizza,Jl. Raya No.116,Medan Barat,medan,3.585036,98.666768,084441354768,3.6,1,2020-11-10 21:40:28,2024-02-22 20:39:15,1
+456efef9-0a8c-4e36-97a0-b96ad6bd8d68,Ruang Sarca,Korean Food,Jl. Raya No.120,Medan Timur,medan,3.587628,98.705283,085064561191,3.7,1,2021-07-10 13:55:26,2024-10-26 04:03:32,1
+34707348-dd9e-4fd7-a1e1-b8b02992406a,Rumah Ide Coffee,Padang,Jl. Raya No.31,Medan Kota,medan,3.581634,98.682434,082131154777,4.7,1,2021-04-17 13:57:23,2024-11-16 22:28:55,1
+52e38a53-cf96-466b-a36d-82a86d12fd85,Salad Buah Tuasan,Padang,Jl. Raya No.84,Medan Timur,medan,3.628781,98.702016,082822242388,4.6,1,2021-07-06 15:03:04,2024-06-02 21:15:57,1
+2483d520-6121-4369-89d7-cbd923f90292,"Sari Roti, Sunggal",Padang,Jl. Raya No.45,Medan Timur,medan,3.583427,98.714942,081364276605,4.8,1,2022-05-13 15:27:30,2024-10-17 12:35:47,1
+47fd84ca-4e88-4b88-8eec-36a1e57186bf,Sate Kuda Sumbawa,Western,Jl. Raya No.36,Medan Timur,medan,3.59749,98.723102,082511604831,3.6,1,2020-12-11 07:30:08,2024-02-20 18:21:15,1
+c4a5a229-980f-4334-92cb-3a7e13e4c0f5,"Seafood 2000, Krakatau",Sarapan,Jl. Raya No.166,Medan Kota,medan,3.607657,98.676057,082088158177,4.4,1,2020-04-26 11:43:29,2024-01-09 11:11:32,1
+4a7df65c-ef06-4883-bfe3-1623f52cb11a,"Seafood 88, Sunggal",Western,Jl. Raya No.33,Medan Kota,medan,3.563843,98.695219,082154499873,3.7,1,2021-12-17 03:08:11,2024-01-20 15:58:39,1
+1635161d-39ed-42be-aaee-e2524a9b3eff,"Seger, Tembung",Vegetarian,Jl. Raya No.102,Medan Kota,medan,3.614689,98.680321,087313957046,4.1,1,2021-10-24 19:11:15,2024-03-08 02:40:47,1
+3c48baba-95db-4722-ba54-20ad4b44209f,Segi Coffee,Burger & Sandwich,Jl. Raya No.115,Medan Barat,medan,3.560736,98.639358,082914650569,4.4,1,2022-08-16 10:34:33,2024-04-05 10:52:48,1
+2b2d3976-bf6f-42b3-a953-edbe6e768451,"Sejiwa Cafe, Tuamang",Minuman & Jus,Jl. Raya No.123,Medan Timur,medan,3.600657,98.7206,081721773787,3.9,1,2020-08-01 04:31:46,2024-06-11 19:33:06,1
+9ae4f930-b2c2-4912-acec-4b39c51761c0,Sekata Kopi,Mie & Pasta,Jl. Raya No.162,Medan Kota,medan,3.594986,98.705804,087912621269,5.0,1,2021-07-11 20:40:11,2024-07-05 06:58:58,1
+f89a277e-fef2-4b30-a0e3-4323eba37a12,"Serambi Kuphi, Ksatria",Dessert & Snack,Jl. Raya No.129,Medan Timur,medan,3.6347,98.717202,085162127652,3.9,1,2020-02-10 11:41:52,2024-05-03 20:09:15,1
+0a2c4bfa-6064-4763-b5a3-25540ef8f3a1,"Shawarma Sultan, Setiabudi",Western,Jl. Raya No.72,Medan Timur,medan,3.595331,98.744788,081773308406,4.3,1,2022-06-26 04:41:05,2024-03-31 09:30:00,1
+b7b1a600-4ebb-4d37-90fb-6cb58f0729a2,Simhae Medan,Burger & Sandwich,Jl. Raya No.137,Medan Kota,medan,3.557009,98.695981,081739448924,4.4,1,2021-08-26 09:26:28,2024-05-17 19:01:07,1
+1a8d91b1-fd07-4322-b7c0-117d2fcef094,Simpost Cafe,Western,Jl. Raya No.189,Medan Kota,medan,3.562327,98.691476,089958155056,4.9,1,2020-02-13 19:37:01,2024-09-30 04:39:21,1
+d6215ffc-4c71-47a3-a58c-cf60d249b6fa,"Siomay Podomoro, Polonia",Nasi & Lauk,Jl. Raya No.145,Medan Timur,medan,3.604618,98.728383,083476065552,4.3,1,2020-09-29 17:13:50,2024-07-09 11:11:55,1
+d6de886b-6318-4753-99c3-89393ef73339,"Sippin, Medan Selayang",Mie & Pasta,Jl. Raya No.6,Medan Kota,medan,3.556318,98.666284,087774154596,3.5,1,2022-08-12 00:36:13,2024-03-19 05:47:02,1
+b1eef85a-450e-4e8a-b340-dc5f356cef78,"SIPPIN, MMTC",Western,Jl. Raya No.83,Medan Kota,medan,3.573853,98.662422,081712941099,3.7,1,2022-12-30 16:59:01,2024-12-22 05:08:55,1
+55bc4370-a4c0-442a-9a04-db56b282e302,"SIPPIN, Tembung",Padang,Jl. Raya No.94,Medan Kota,medan,3.604206,98.709254,081960142505,4.6,1,2022-10-25 14:21:06,2024-06-02 15:13:04,1
+9d71c091-19ff-442a-ab9f-a30e17c61bd8,Slice Coffee,Nasi & Lauk,Jl. Raya No.41,Medan Timur,medan,3.587072,98.715088,086595800828,4.9,1,2022-10-05 11:11:40,2024-05-03 05:17:44,1
+4e65c3a9-1b6a-4292-a3d8-bcabfa3af5fb,"Sobat, Ring Road",Bakso & Soto,Jl. Raya No.158,Medan Kota,medan,3.599503,98.689338,085539962391,4.5,1,2020-09-29 09:34:57,2024-05-26 22:47:43,1
+e15f42b0-79df-4818-8071-c19912362ae5,SOHA Coffee,Nasi & Lauk,Jl. Raya No.187,Medan Barat,medan,3.5867,98.644726,081086884584,4.1,1,2022-05-31 13:17:26,2024-01-13 13:49:44,1
+4b010733-4a7a-4204-93df-32b409a76d5f,"Starbucks, Multatuli Medan",Dessert & Snack,Jl. Raya No.57,Medan Kota,medan,3.592167,98.714473,089185906869,3.7,1,2022-02-09 19:07:11,2024-02-24 14:53:28,1
+f181e259-0061-4731-9400-6ee8deefc097,Suans Bakery,Pizza,Jl. Raya No.43,Medan Barat,medan,3.587267,98.6419,089121908603,4.7,1,2022-11-06 20:19:35,2024-09-05 04:52:07,1
+881f3626-aab9-4bc2-950d-a77aee2438e4,Sultan Cafe,Burger & Sandwich,Jl. Raya No.54,Medan Timur,medan,3.642066,98.722331,084119099261,4.0,1,2020-06-16 19:49:18,2024-10-06 18:44:28,1
+3c2734ee-8ba4-4108-aee0-4465e4153d86,"Sushi Mentai, Medan",Sushi & Japanese,Jl. Raya No.43,Medan Kota,medan,3.55337,98.680675,086276180344,4.8,1,2021-06-29 14:50:49,2024-07-31 01:18:44,1
+b80f6185-dfc6-4a2c-b10e-04346d0725f0,"Sushi Yay, Medan Setiabudi",Padang,Jl. Raya No.148,Medan Barat,medan,3.555071,98.653974,089340277201,3.7,1,2020-04-24 12:05:06,2024-11-06 09:01:59,1
+e28017ea-b5c8-47f9-9d07-b03c0f2a928d,"Tahiti Bakery, Taruma",Seafood,Jl. Raya No.19,Medan Kota,medan,3.570644,98.67231,085332831133,4.8,1,2020-09-06 22:57:15,2024-10-11 06:35:43,1
+e043a11a-4333-4ff9-9c49-315c820a265f,Takoyaki Genki,Seafood,Jl. Raya No.87,Medan Kota,medan,3.588293,98.712869,088692362000,4.8,1,2022-12-30 09:50:13,2024-01-13 00:52:39,1
+a0d8139e-f410-4176-89d9-2976d988d2bd,"Takoyaki Kansai, Medan",Bakso & Soto,Jl. Raya No.112,Medan Barat,medan,3.597122,98.63825,083017188130,3.7,1,2020-11-15 07:28:37,2024-03-14 18:46:53,1
+7e949f33-bbf5-4034-94a7-460325d63df1,"Takoyaki Kansai, Turi",Vegetarian,Jl. Raya No.139,Medan Barat,medan,3.58486,98.666102,084398663948,3.9,1,2021-01-04 00:26:31,2024-02-07 06:00:04,1
+333cf062-0300-4011-9f37-237f57283dfd,TAMAN BAKSO DANGDUT,Korean Food,Jl. Raya No.40,Medan Kota,medan,3.577503,98.688476,081658429638,3.5,1,2020-05-16 03:01:19,2024-04-24 09:23:59,1
+49b7edc4-7ab6-4014-afe4-127b9f36b4ab,"Taman.Co, Medan Tuntungan",Seafood,Jl. Raya No.7,Medan Timur,medan,3.623756,98.724016,083632928708,4.5,1,2020-05-07 06:47:56,2024-07-02 21:59:54,1
+6032c37c-215e-449d-a734-813ad4827e5e,Taman Kopi,Korean Food,Jl. Raya No.170,Medan Kota,medan,3.571585,98.677823,084322232184,4.5,1,2021-08-25 00:03:29,2024-03-12 19:13:04,1
+3fb14f2d-b901-4c09-bf7a-028ee8e99bf9,"Tamoe Coffee, Medan Polonia",Korean Food,Jl. Raya No.12,Medan Barat,medan,3.594275,98.64847,084369020960,4.2,1,2020-12-17 10:55:24,2024-11-21 02:08:22,1
+81e6c7cf-899b-485b-871f-7a655c566c7f,"Tea Car, Diponegoro",Vegetarian,Jl. Raya No.171,Medan Barat,medan,3.578212,98.637557,082221503440,4.5,1,2022-04-21 02:40:55,2024-06-09 18:38:06,1
+f07adeb9-d3e0-402d-9239-dc780fdb7dae,TEH NYAWANG,Sushi & Japanese,Jl. Raya No.134,Medan Timur,medan,3.595926,98.703049,086381875527,4.5,1,2022-01-07 14:44:10,2024-08-10 10:05:02,1
+db81bc0c-6b71-48cd-a185-d4c035c53cbc,"Texas Chicken, Binjai Supermall",Bakso & Soto,Jl. Raya No.183,Medan Kota,medan,3.583338,98.655527,081477390918,4.4,1,2022-03-13 20:20:56,2024-11-06 20:44:16,1
+aa52b1cf-03a3-4b1c-a71c-75f27196f4a0,"The Cups, Bandung",Seafood,Jl. Raya No.194,Medan Timur,medan,3.627427,98.731014,086733203422,4.9,1,2020-09-16 16:21:17,2024-03-23 06:57:33,1
+901bb611-ace6-4aca-a718-0aa9f2841664,"Tokebi Binjai, Bengam",Sarapan,Jl. Raya No.112,Medan Kota,medan,3.558833,98.679636,083594184877,3.7,1,2022-07-13 08:59:04,2024-04-10 03:40:30,1
+922ce65b-315f-412c-a64f-c90b55c9a165,"Wajir Seafood, Sugiono",Seafood,Jl. Raya No.23,Medan Barat,medan,3.59554,98.675709,085984673939,4.1,1,2021-05-21 14:53:18,2024-11-28 16:18:57,1
+d2de4039-b08e-4a67-b37b-cafc5bc99bb3,"Warung 2R, Ismaliyah",Ayam & Bebek,Jl. Raya No.180,Medan Barat,medan,3.575984,98.675858,088988863127,4.3,1,2021-10-13 19:35:31,2024-02-13 16:45:05,1
+2bbc0a1a-e1ed-4363-8ccb-e9f3e018b65a,"Warung Jivano, Marelan",Dessert & Snack,Jl. Raya No.195,Medan Barat,medan,3.557482,98.65833,082224178065,4.3,1,2020-06-05 21:11:47,2024-11-01 03:40:48,1
+8b2e2539-a7d8-4401-a5d8-24406626fce0,"Warung Nyam Nyam, Pasundan",Bakso & Soto,Jl. Raya No.106,Medan Barat,medan,3.593374,98.674007,084361411224,4.5,1,2022-06-07 14:34:19,2024-08-24 11:56:19,1
+849ff9c4-ece6-4740-a6d8-6c69f4dce584,"Warung Seblaku, Marelan",Nasi & Lauk,Jl. Raya No.159,Medan Barat,medan,3.551873,98.643771,088763917932,3.6,1,2021-05-29 22:59:41,2024-09-25 04:03:16,1
+2d873d15-5a97-4117-97ca-3763b622f173,Warung Teguh,Burger & Sandwich,Jl. Raya No.96,Medan Kota,medan,3.55345,98.683265,081255347617,4.7,1,2021-04-15 18:42:27,2024-04-30 18:15:27,1
+577f6bdd-0c0a-403a-8dc8-ffdf3273d9d1,"Xi Bo Ba, Medan Gaperta",Sarapan,Jl. Raya No.26,Medan Barat,medan,3.592142,98.672912,083928036919,4.0,1,2021-11-19 08:21:39,2024-10-27 14:29:27,1
+cba1f8d6-f729-4a90-9eca-8ee0e7660cac,"Xiji, Jcity Medan",Sarapan,Jl. Raya No.23,Medan Barat,medan,3.563471,98.650839,083469286198,3.8,1,2021-09-24 12:24:40,2024-10-14 18:06:21,1
+d443b63f-dd26-4bd3-ad97-fccc0685f236,XO Coffee Space,Padang,Jl. Raya No.15,Medan Barat,medan,3.587975,98.673359,087531336920,3.6,1,2022-02-26 06:41:50,2024-06-05 15:49:19,1
+6b31966c-a3c5-4945-a0c3-def3a0065d25,"YES248, Cemara Asri",Dessert & Snack,Jl. Raya No.8,Medan Kota,medan,3.604636,98.6867,083235872271,4.8,1,2020-11-07 19:38:11,2024-11-21 01:11:17,1
+00c99f88-6e37-459b-9ae0-eaf2452a8b42,"YES248, MMTC",Bakso & Soto,Jl. Raya No.93,Medan Kota,medan,3.567464,98.681951,083546772637,4.1,1,2021-12-22 03:19:07,2024-07-15 04:07:08,1
+1ce0a0ee-2938-4bf8-9d22-0cf0f5ea1b90,"Zenbu, Sun Plaza",Ayam & Bebek,Jl. Raya No.62,Medan Barat,medan,3.58177,98.636194,085775603845,4.4,1,2020-10-02 20:47:59,2024-12-04 01:28:07,1
+facb37ad-060d-4303-bb7a-fe0145271b57,"Zeribowl, Delipark",Nasi & Lauk,Jl. Raya No.67,Medan Barat,medan,3.579344,98.647488,089822132198,3.9,1,2021-08-23 12:12:46,2024-01-20 06:46:52,1
+0726b6ec-bef0-4bd8-9b28-343217fa83f7,"Zeribowl, J City",Mie & Pasta,Jl. Raya No.57,Medan Kota,medan,3.609767,98.704588,089240214026,4.5,1,2021-02-22 00:09:46,2024-09-10 01:14:02,1
+66aab173-0659-4c40-b1e2-2fd450a978a5,"Zeribowl, Sun Plaza",Western,Jl. Raya No.175,Medan Barat,medan,3.575664,98.673231,081173632249,4.9,1,2022-10-02 15:45:39,2024-03-08 06:20:49,1
+b9557ef2-9d25-463c-b8a2-52b6d7352eb3,"369 Shanghai, Jemursari",Dessert & Snack,Jl. Raya No.79,Surabaya Timur,surabaya,-7.219914,112.761189,089246960684,4.1,1,2021-08-07 20:01:19,2024-11-26 17:21:30,1
+68de991d-0f98-4879-923d-61117dbd92f2,AHA by Kudos,Burger & Sandwich,Jl. Raya No.174,Surabaya Barat,surabaya,-7.27705,112.665275,087693698993,4.1,1,2020-06-07 22:28:18,2024-01-03 20:29:03,1
+a9f5041a-be25-4178-a938-50f03e3f31da,"Aiciro, BG Junction",Padang,Jl. Raya No.96,Surabaya Timur,surabaya,-7.200057,112.798324,088196884788,4.4,1,2021-03-15 02:57:28,2024-04-25 21:59:50,1
+cfad868f-a68d-4534-b3b1-fe2877590118,Order Sekaligus - Aiola Canteen Merr,Burger & Sandwich,Jl. Raya No.164,Surabaya Timur,surabaya,-7.28919,112.753192,085147162866,3.9,1,2022-10-09 00:25:49,2024-04-26 00:56:06,1
+23e36858-8275-4473-86ea-f27f738be09c,"Amalia Cake, Wringinanom",Bakso & Soto,Jl. Raya No.15,Surabaya Pusat,surabaya,-7.264003,112.745309,088664237172,4.5,1,2022-11-23 12:24:50,2024-02-24 08:14:15,1
+882d8601-0118-427c-8357-25cd0e1a2296,"Amanda Brownies, Tegalsari",Burger & Sandwich,Jl. Raya No.67,Surabaya Timur,surabaya,-7.297454,112.774869,086364304344,4.1,1,2020-02-24 20:47:16,2024-08-14 10:10:29,1
+c4178905-60ad-49be-8bc6-0366c916bcf0,"AMPM SDA, Buduran",Pizza,Jl. Raya No.186,Surabaya Timur,surabaya,-7.200525,112.790801,083881757508,4.5,1,2022-01-09 00:41:37,2024-12-18 01:26:21,1
+01e585ca-76f6-452d-8c9e-25426e50d619,"Aneka Bothok, Sukolilo",Nasi & Lauk,Jl. Raya No.169,Surabaya Timur,surabaya,-7.26415,112.76501,088134311643,3.9,1,2022-01-01 07:58:59,2024-02-19 16:31:32,1
+00d9a01a-89e8-43b2-9c7c-93879d5e7f4b,Aneka Seblak Endull,Western,Jl. Raya No.47,Surabaya Timur,surabaya,-7.274135,112.790417,089755047826,4.5,1,2020-12-11 06:12:41,2024-05-17 23:28:52,1
+f42b2921-2f74-4ace-91d1-33ab4dee17b0,Angkringan Abas Krian,Western,Jl. Raya No.85,Surabaya Pusat,surabaya,-7.240232,112.736142,085744971668,4.4,1,2021-12-21 10:14:57,2024-11-26 13:53:18,1
+aa55b282-e2c1-4fa5-aa84-20c03192cdc9,"Ayam Gacoan,Waru",Dessert & Snack,Jl. Raya No.149,Surabaya Pusat,surabaya,-7.251179,112.747328,088919558414,4.2,1,2020-10-29 05:07:07,2024-07-13 08:47:14,1
+e34f65a2-9ffa-494d-ae9d-3043b8d9dcc3,Ayu Frozen Food,Burger & Sandwich,Jl. Raya No.106,Surabaya Pusat,surabaya,-7.2353,112.737633,081630237141,3.7,1,2020-11-07 03:35:53,2024-05-13 01:54:53,1
+bc24d3ca-a946-47d0-81e9-52580927893e,"Bakso Biru, Sidoarjo",Korean Food,Jl. Raya No.37,Surabaya Barat,surabaya,-7.25064,112.712499,085034207075,4.7,1,2022-01-27 10:19:53,2024-05-09 04:19:52,1
+a5bcc91b-c292-4d18-8642-16c16fc83dbc,Bakso Kenari,Ayam & Bebek,Jl. Raya No.2,Surabaya Timur,surabaya,-7.201336,112.765671,086746712288,3.8,1,2020-09-18 22:04:41,2024-08-11 19:18:31,1
+94fc458c-1801-4aac-8b59-e9a8648aa2c0,Bakso Lava,Seafood,Jl. Raya No.34,Surabaya Pusat,surabaya,-7.250417,112.745271,088868211760,4.5,1,2021-09-18 15:35:56,2024-06-15 14:48:25,1
+2d7042fe-72ca-4c3c-8080-5b5690fde39d,Bakso Tutus,Mie & Pasta,Jl. Raya No.188,Surabaya Barat,surabaya,-7.280834,112.652641,085711889398,4.8,1,2022-04-04 22:22:28,2024-03-15 00:18:13,1
+80140766-21d1-4fc7-8573-3f7d22821141,BANANESH,Mie & Pasta,Jl. Raya No.58,Surabaya Pusat,surabaya,-7.24293,112.742534,089856217844,4.0,1,2020-06-08 13:14:24,2024-05-28 22:56:58,1
+93b3cb61-2c91-48c6-a757-6030fb00de17,Bandeng Karimanasi,Padang,Jl. Raya No.12,Surabaya Timur,surabaya,-7.241133,112.758351,084849034245,4.2,1,2022-03-19 05:45:28,2024-08-19 14:34:13,1
+6a28060e-6770-477e-8cee-148193817154,"Baraccung, Ambengan",Nasi & Lauk,Jl. Raya No.88,Surabaya Timur,surabaya,-7.266216,112.794399,087258217837,4.6,1,2020-09-13 03:18:09,2024-12-18 04:52:00,1
+4404dbdb-8097-4dff-ab2c-7cb5b882cc1b,BasrenG GonjrenG,Nasi & Lauk,Jl. Raya No.55,Surabaya Barat,surabaya,-7.299044,112.665702,081289147232,4.3,1,2020-07-10 07:48:41,2024-05-22 08:52:47,1
+a3ac5cfd-9fa1-4f2d-b19d-6b5838514fc4,bebek canggih,Bakso & Soto,Jl. Raya No.164,Surabaya Timur,surabaya,-7.234946,112.751868,084281770706,4.4,1,2022-07-11 15:05:38,2024-01-19 15:01:23,1
+1524c050-6e8c-41bc-be10-09fdcaf74c62,Bebek NdoWer,Ayam & Bebek,Jl. Raya No.177,Surabaya Timur,surabaya,-7.289189,112.791806,082465938669,4.2,1,2020-07-10 23:57:28,2024-07-31 13:02:29,1
+b5cc003f-e889-4997-81ec-0f6e9f984b60,BEBEK SIMAYAKHO SURABAYA,Vegetarian,Jl. Raya No.176,Surabaya Barat,surabaya,-7.27628,112.660719,089011248835,4.0,1,2022-10-24 20:38:36,2024-02-09 05:12:01,1
+881439ba-dfe9-4b6c-848b-b6136527b42c,"Belikopi, Ketintang",Vegetarian,Jl. Raya No.36,Surabaya Timur,surabaya,-7.247969,112.78114,086324081350,4.3,1,2022-08-17 13:26:56,2024-02-15 17:21:56,1
+f7c76047-9e6e-4272-af55-27e8ee16baf7,Belikopi. Ponti,Mie & Pasta,Jl. Raya No.156,Surabaya Barat,surabaya,-7.294299,112.657438,083545298445,4.7,1,2020-11-09 06:55:17,2024-05-19 00:04:23,1
+525c989f-f4d4-4477-b639-76ec04357922,BICOPI GUNUNGANYAR,Minuman & Jus,Jl. Raya No.128,Surabaya Timur,surabaya,-7.259024,112.758019,083674513622,4.0,1,2020-01-05 06:04:48,2024-01-05 22:49:58,1
+ee3cc4cf-db3f-419c-992a-bcbbe39f5575,"Big Bananas, Siwalankerto",Dessert & Snack,Jl. Raya No.172,Surabaya Timur,surabaya,-7.2911,112.755522,087330017834,4.9,1,2022-03-05 21:45:29,2024-01-30 03:30:00,1
+74dbdb55-9975-418a-92b2-9c480dc04b0c,"Bing-Go, Wiyung",Sarapan,Jl. Raya No.60,Surabaya Timur,surabaya,-7.227642,112.795239,086849731424,3.9,1,2020-03-18 19:07:30,2024-02-08 18:17:11,1
+5385d5a4-fe63-4b63-b028-d0cd147775c3,Bitten Coffee / Kopi,Pizza,Jl. Raya No.174,Surabaya Pusat,surabaya,-7.235034,112.747045,085067176108,4.6,1,2020-05-27 13:47:58,2024-11-26 14:11:12,1
+5e8a0c5f-8a02-472e-bc2c-58581b3ac1e0,Bluder Cokro Gwalk,Sarapan,Jl. Raya No.44,Surabaya Pusat,surabaya,-7.269613,112.732768,085257986515,4.8,1,2022-08-23 22:38:47,2024-04-14 04:49:29,1
+a5861dee-039d-4226-a959-9cd88e6078a8,Bluder Cokro Sidoarjo,Nasi & Lauk,Jl. Raya No.30,Surabaya Timur,surabaya,-7.290705,112.790748,086163720675,4.9,1,2021-02-26 06:40:19,2024-11-20 13:21:58,1
+94dde830-d697-4c54-b510-c96a8dbd9e32,"Boga Kitchen, Surabaya",Sushi & Japanese,Jl. Raya No.167,Surabaya Barat,surabaya,-7.265505,112.683477,083125174194,3.7,1,2020-04-01 02:29:45,2024-11-23 21:54:39,1
+89b140fd-8278-48de-8b00-0272420426d9,"Bourda Bakery, Perak",Korean Food,Jl. Raya No.146,Surabaya Pusat,surabaya,-7.265851,112.748225,089668809216,3.8,1,2021-08-12 22:08:06,2024-10-29 14:20:15,1
+5fe8ca77-1678-4c20-b1b0-f6f5c49b7fb9,"Break Cafe, Sedati",Bakso & Soto,Jl. Raya No.187,Surabaya Barat,surabaya,-7.269432,112.71038,082674837853,4.9,1,2020-06-24 10:36:51,2024-12-10 16:58:30,1
+89c2b596-0a90-4989-9d9c-fc1c2d0130c8,Buba Caramelized,Sarapan,Jl. Raya No.81,Surabaya Barat,surabaya,-7.277966,112.654434,081180439867,4.7,1,2022-06-14 19:01:59,2024-10-08 02:03:30,1
+9fef4250-72c1-4960-ba45-6d334d3a0e2a,Bubur Punokawan,Padang,Jl. Raya No.87,Surabaya Timur,surabaya,-7.277602,112.797788,087680209719,4.5,1,2022-08-18 09:37:16,2024-02-06 23:43:15,1
+49efdedb-d3f0-4a25-9afb-f544568becaf,"Burger Bros, Genteng",Pizza,Jl. Raya No.170,Surabaya Barat,surabaya,-7.266914,112.6674,089696087848,4.1,1,2022-05-17 08:34:54,2024-12-12 10:37:09,1
+c620dd43-0516-401d-bac7-fbe6917ff8c7,Burger Kalap,Nasi & Lauk,Jl. Raya No.130,Surabaya Timur,surabaya,-7.294543,112.78217,087076549837,4.8,1,2020-04-26 07:10:42,2024-10-18 19:50:06,1
+64153c86-8c0a-4f58-8213-680b06227854,"Burger King, Sidoarjo",Burger & Sandwich,Jl. Raya No.13,Surabaya Barat,surabaya,-7.283968,112.673163,087439891163,4.3,1,2021-08-11 04:37:57,2024-06-05 14:48:50,1
+55d9f702-30d6-4385-8e86-392fe4a0a3c5,"Burger Shot, Wiyung",Dessert & Snack,Jl. Raya No.115,Surabaya Pusat,surabaya,-7.266847,112.738884,082176901651,4.2,1,2020-07-03 09:42:43,2024-07-12 03:51:20,1
+880f4ab3-1df1-4364-8653-077e9875e253,Cafelar Coffee & Eatery,Sushi & Japanese,Jl. Raya No.10,Surabaya Timur,surabaya,-7.234663,112.755132,088183698792,3.5,1,2020-05-21 04:49:53,2024-11-03 11:57:18,1
+81be077a-cdf2-49a5-a319-048a965c52cb,"Cendrawasih Kopi, Rest Area Aloha",Bakso & Soto,Jl. Raya No.131,Surabaya Timur,surabaya,-7.203683,112.781877,088137763104,4.5,1,2021-12-09 16:39:50,2024-05-12 08:59:29,1
+57da5428-3f95-479e-b923-642b39d94bdd,"Chaophraya, Tegalsari",Padang,Jl. Raya No.117,Surabaya Barat,surabaya,-7.258734,112.707161,085285182173,4.7,1,2022-07-20 23:48:00,2024-07-02 17:55:31,1
+87e631c9-496b-4a2f-a99e-ae55a24d2586,"ChatThai, Rungkut",Seafood,Jl. Raya No.25,Surabaya Timur,surabaya,-7.234283,112.785796,089439762393,3.5,1,2021-07-05 16:32:26,2024-11-18 07:04:42,1
+cc0547e0-e5bc-4cb1-9f76-9714361ae655,"Cheskee, Pakuwon Mall",Minuman & Jus,Jl. Raya No.96,Surabaya Timur,surabaya,-7.203557,112.764599,089924270328,3.6,1,2020-09-12 00:09:20,2024-07-10 05:42:25,1
+6311cda7-1eb0-4d3d-8cf9-a285b196c80d,"Chi Fry, Wiyung",Sushi & Japanese,Jl. Raya No.28,Surabaya Pusat,surabaya,-7.237126,112.74485,084291987136,3.8,1,2020-07-06 13:43:47,2024-12-27 06:14:38,1
+3748a069-6021-44fd-b438-fc31eb529f5d,"Cibcib Annyeong, Warkop Seket Limo",Mie & Pasta,Jl. Raya No.184,Surabaya Barat,surabaya,-7.289221,112.707719,085324464073,4.6,1,2020-03-13 05:39:32,2024-12-25 20:47:06,1
+6c7dfba9-64b6-4869-87b3-78e6a633c09c,"COCO, Gwalk Citraland",Western,Jl. Raya No.116,Surabaya Timur,surabaya,-7.216253,112.779441,086898376561,4.4,1,2022-02-22 05:50:53,2024-02-22 06:53:54,1
+bf95cc39-d2a0-4b93-9cbc-5eca89736a3e,"Colours Cafe (CC), Domas",Minuman & Jus,Jl. Raya No.111,Surabaya Barat,surabaya,-7.299783,112.701535,088474818030,4.9,1,2020-10-02 06:35:08,2024-09-25 16:12:30,1
+e1f826fc-be60-439a-b8eb-fb11af72b9e0,"Corica, Biliton",Seafood,Jl. Raya No.100,Surabaya Timur,surabaya,-7.282635,112.790762,089490603922,4.4,1,2021-05-14 23:12:18,2024-07-14 18:38:48,1
+4516978f-1f8f-43ba-bad3-47c3aace7568,"Cosmic Coffee, Tulangan",Vegetarian,Jl. Raya No.196,Surabaya Barat,surabaya,-7.279067,112.69263,084146721417,4.1,1,2021-06-16 14:42:09,2024-04-24 05:53:46,1
+12005e43-6ced-47ab-8609-95fb5e65bb0d,Creme Croffle,Dessert & Snack,Jl. Raya No.180,Surabaya Barat,surabaya,-7.25976,112.659673,087550119441,4.8,1,2022-04-30 23:41:12,2024-11-30 06:22:32,1
+5114f3a8-142d-4a7d-a1a6-82f024bbcaf4,"Dailybox, Kutisari",Sarapan,Jl. Raya No.56,Surabaya Barat,surabaya,-7.264406,112.715486,083538147161,4.4,1,2021-03-27 09:35:19,2024-09-23 15:40:52,1
+12c37c25-45c8-40e7-b3d7-d8baa62ec786,"Dapur 99, Sedati",Vegetarian,Jl. Raya No.167,Surabaya Barat,surabaya,-7.25394,112.659287,083277631432,4.3,1,2022-09-16 08:30:42,2024-05-05 04:48:44,1
+a93e312a-815e-4984-9514-481da0bbbc58,Dapur Mama Ketrin,Korean Food,Jl. Raya No.150,Surabaya Timur,surabaya,-7.288459,112.767612,088399544328,4.6,1,2022-11-13 09:37:08,2024-10-17 10:38:30,1
+aa53c77e-468c-41bb-8eb2-592676c86f96,Dapur Pancali,Western,Jl. Raya No.4,Surabaya Timur,surabaya,-7.271407,112.792365,087624290224,3.5,1,2020-08-13 18:10:21,2024-01-21 14:36:05,1
+8553a5da-9e1e-41b0-a76f-fae996ae0fe2,"D'BestO, Wonokusumo",Western,Jl. Raya No.42,Surabaya Timur,surabaya,-7.29434,112.763349,084643629729,3.7,1,2020-04-06 08:45:04,2024-09-25 04:48:37,1
+82e85663-5ee6-43cf-ab99-369549e7766d,"Dear Butter, Sidoarjo",Pizza,Jl. Raya No.116,Surabaya Barat,surabaya,-7.2898,112.687882,082392692727,4.8,1,2022-05-22 20:35:25,2024-12-01 20:54:24,1
+e336c87a-b113-4dbe-b054-5b8bab8615c6,"Depot Bamara, Purwodadi",Mie & Pasta,Jl. Raya No.131,Surabaya Pusat,surabaya,-7.240303,112.741225,089948606206,4.5,1,2020-03-13 23:32:12,2024-12-25 19:27:51,1
+65dda243-96ac-462e-81b4-609793ba0f17,Depot BERKAH JAYA,Sarapan,Jl. Raya No.81,Surabaya Barat,surabaya,-7.280622,112.716969,088017221208,3.5,1,2021-01-25 10:40:35,2024-03-19 20:54:36,1
+537a5d5a-7bfd-4143-8c65-30381563efbd,"Depot Kartika, Ketajen",Korean Food,Jl. Raya No.58,Surabaya Timur,surabaya,-7.213115,112.793022,089196923747,4.1,1,2022-07-03 00:35:43,2024-07-31 06:49:20,1
+8c727182-ac35-4fb3-b2d3-9bea29c9d765,"Depot Manganokene, Pasar Buah 36",Mie & Pasta,Jl. Raya No.76,Surabaya Timur,surabaya,-7.239661,112.788807,086733813700,5.0,1,2020-04-25 16:24:19,2024-03-13 14:44:52,1
+25eb4fc2-b0ab-4bd3-bc28-b2673be94690,"Depot Slamet, Dharmawangsa",Ayam & Bebek,Jl. Raya No.110,Surabaya Pusat,surabaya,-7.240597,112.732387,084584705402,3.9,1,2020-09-06 23:51:44,2024-08-14 19:08:40,1
+c83a4842-a6b0-4509-abb1-335ef4905145,"Depot Slamet, Kedungdoro",Bakso & Soto,Jl. Raya No.40,Surabaya Barat,surabaya,-7.299718,112.682643,081530629718,4.9,1,2022-07-16 05:18:42,2024-01-20 18:00:25,1
+2e749094-e022-4590-99fc-93526f23a47e,"Depot Wijaya, Demak",Korean Food,Jl. Raya No.147,Surabaya Timur,surabaya,-7.238439,112.783095,088058061434,3.6,1,2021-05-08 18:38:33,2024-07-23 01:02:13,1
+a08c6482-9b68-4c7e-ad9b-007a56faf245,DEPOT XIWANG,Western,Jl. Raya No.130,Surabaya Pusat,surabaya,-7.23172,112.740412,083065825346,4.3,1,2021-09-18 16:28:42,2024-02-05 16:59:40,1
+c1dbc505-d277-4395-aefa-274fff9df68e,"Cemilan Dewa, Pandean",Pizza,Jl. Raya No.85,Surabaya Barat,surabaya,-7.28894,112.664935,085649402883,3.8,1,2022-08-18 11:10:17,2024-07-25 00:36:29,1
+020a50af-bdd6-4558-b56b-079cc56365b8,Doe Sun Bakery,Sarapan,Jl. Raya No.3,Surabaya Barat,surabaya,-7.250168,112.707658,082499783401,4.0,1,2021-01-08 08:49:05,2024-12-17 06:31:04,1
+69f59987-9d23-400c-a55b-5187bb4582ab,"Donuthing GKB, Manyar",Ayam & Bebek,Jl. Raya No.175,Surabaya Timur,surabaya,-7.23863,112.781057,085161186964,4.9,1,2020-06-25 02:53:24,2024-05-29 20:37:27,1
+97029a5b-6eb2-48b8-93af-b77d4292a912,"Dopota, Pucang",Bakso & Soto,Jl. Raya No.133,Surabaya Barat,surabaya,-7.272988,112.669798,085779029393,4.7,1,2021-11-23 03:33:54,2024-07-08 01:20:55,1
+2049e2c9-5418-4b73-91d3-db341704e369,Dprapatan,Pizza,Jl. Raya No.132,Surabaya Pusat,surabaya,-7.258143,112.743031,082022879054,3.8,1,2022-04-15 17:09:19,2024-07-26 01:50:18,1
+7b354e86-f2a1-4dce-a9e1-0145bd0cbf84,Eat Toast Surabaya,Sarapan,Jl. Raya No.199,Surabaya Pusat,surabaya,-7.244923,112.734216,083766936428,4.8,1,2020-11-15 08:33:42,2024-07-27 20:13:57,1
+3f6c8e96-2f16-475e-891c-04e49ee9041d,"Esteh Indonesia, Gwalk",Sushi & Japanese,Jl. Raya No.166,Surabaya Timur,surabaya,-7.212136,112.787069,081930636590,3.5,1,2021-05-30 07:14:44,2024-01-15 17:07:33,1
+7095cc78-a68b-4728-ad28-b16acc1919cb,"Esteh Indonesia, Sidoarjo",Burger & Sandwich,Jl. Raya No.143,Surabaya Pusat,surabaya,-7.26707,112.73356,081987170132,4.7,1,2021-02-05 19:05:41,2024-06-07 07:24:46,1
+d2de81c5-f4cf-4c72-aa5f-352eaec579a1,"Es Teh Indonesia ,Sukolilo",Pizza,Jl. Raya No.5,Surabaya Barat,surabaya,-7.277444,112.678311,085925878730,4.3,1,2022-09-23 09:58:23,2024-10-06 17:32:56,1
+1a41db8f-a8c2-4fae-a277-0a72fa37625f,"Fat Daddy, Sedati",Ayam & Bebek,Jl. Raya No.180,Surabaya Timur,surabaya,-7.293676,112.787298,081958009699,4.9,1,2020-06-13 21:01:11,2024-04-22 13:28:22,1
+1b6b9a86-3a5e-4256-a41f-653a77758a6b,Father Kafe,Western,Jl. Raya No.113,Surabaya Timur,surabaya,-7.269865,112.754325,085863031203,4.7,1,2020-02-17 21:01:16,2024-07-03 01:53:07,1
+54fda3e0-4472-40e9-a584-0178bca56719,Fire Wok Kitchen,Sushi & Japanese,Jl. Raya No.140,Surabaya Pusat,surabaya,-7.248661,112.732728,084795100169,3.7,1,2022-11-18 03:09:56,2024-12-10 11:14:06,1
+34bb5229-c388-4709-b319-4f93901fb828,Flossy Croffle,Ayam & Bebek,Jl. Raya No.142,Surabaya Timur,surabaya,-7.235206,112.79787,088128974879,3.7,1,2020-01-08 19:31:33,2024-08-10 10:07:27,1
+48c5f1d1-8c20-42bc-8e28-64dd680a4ab3,"Fresh Boba, Tandes",Seafood,Jl. Raya No.79,Surabaya Timur,surabaya,-7.260592,112.777376,083656150987,3.8,1,2022-09-30 10:04:18,2024-11-26 16:10:18,1
+b8eb33dc-fc66-4061-b692-ab4c914367ce,Garden Food Festival,Dessert & Snack,Jl. Raya No.65,Surabaya Timur,surabaya,-7.285754,112.7592,083425384377,3.8,1,2022-05-31 06:12:09,2024-11-26 23:33:22,1
+fa008184-74d9-445a-b76c-760fda20a954,"Geprek Mms, Gedangan",Minuman & Jus,Jl. Raya No.119,Surabaya Pusat,surabaya,-7.235944,112.748647,089283774735,3.6,1,2022-11-09 10:14:28,2024-01-27 03:51:59,1
+ae2504f5-2f4e-4acf-8e3d-ca178ac06528,"Gildak, Tunjungan",Korean Food,Jl. Raya No.85,Surabaya Barat,surabaya,-7.29509,112.700791,085527208745,4.5,1,2020-12-30 08:01:06,2024-02-08 20:29:15,1
+dfdeda44-318e-47d7-a546-211b32f02b06,"Glek, Ketintang 157",Pizza,Jl. Raya No.125,Surabaya Barat,surabaya,-7.269024,112.713008,086754069864,4.4,1,2021-04-19 20:24:29,2024-09-26 07:29:53,1
+053eec68-75a5-4e5c-bbb5-fe768b3471c5,"Go Kage, Mulyosari",Western,Jl. Raya No.81,Surabaya Timur,surabaya,-7.284761,112.778343,086432634412,3.5,1,2021-01-17 10:04:27,2024-11-01 02:52:58,1
+d371f4c1-bfae-4cd3-861c-9d76aa0bd270,Goorengan Indonesia,Burger & Sandwich,Jl. Raya No.93,Surabaya Pusat,surabaya,-7.241512,112.742817,082754501625,4.8,1,2021-12-20 00:14:17,2024-06-21 23:02:13,1
+94960fa5-6a2c-4312-b533-bd94306647b3,"Greenly, Darmo Permai",Seafood,Jl. Raya No.45,Surabaya Barat,surabaya,-7.261262,112.684088,089291420187,3.6,1,2021-03-11 22:07:13,2024-11-29 11:47:28,1
+56fb6265-9019-40f4-b72d-d3e8f4d57647,Gultik Merdeka,Vegetarian,Jl. Raya No.161,Surabaya Pusat,surabaya,-7.234348,112.733929,081920120010,4.8,1,2022-02-26 20:58:40,2024-09-02 07:11:08,1
+7fa148e3-5b8b-46bc-b338-f9ec6dcde585,Gurami Bakar Surabaya,Western,Jl. Raya No.152,Surabaya Pusat,surabaya,-7.237494,112.741578,083714919926,4.3,1,2022-04-24 06:00:17,2024-12-13 04:33:10,1
+c04e2e6f-858d-489c-8634-b1f69af611d3,"Guri Ramen, Mulyosari",Pizza,Jl. Raya No.101,Surabaya Timur,surabaya,-7.25279,112.78876,083889134873,4.6,1,2021-03-28 01:14:06,2024-02-21 23:51:49,1
+75bdc9a2-352d-48d1-ad8d-62e55713b4b4,"Hai Steak House, kingsquare Driyorejo",Pizza,Jl. Raya No.129,Surabaya Barat,surabaya,-7.274944,112.656339,081198943201,3.9,1,2022-08-11 20:55:13,2024-09-22 16:50:55,1
+f27892da-3c72-4063-8309-fefdd7be9226,HALAL BOSS,Nasi & Lauk,Jl. Raya No.46,Surabaya Pusat,surabaya,-7.239712,112.732807,088285942072,4.5,1,2020-08-15 02:41:44,2024-10-12 19:16:11,1
+920aacd5-1e9a-492a-b73f-872618d6db61,"Haus!, Delta Sari",Mie & Pasta,Jl. Raya No.195,Surabaya Timur,surabaya,-7.25165,112.76794,087241104946,3.6,1,2021-07-27 21:32:31,2024-03-31 21:12:43,1
+01f18e00-dc78-4f82-81ae-aa4fc5cce62e,"Haus!, Manukan",Western,Jl. Raya No.93,Surabaya Pusat,surabaya,-7.243257,112.740358,085973038607,4.9,1,2020-03-13 03:18:50,2024-01-16 11:56:19,1
+2f8d2537-884b-4bbb-8cc0-59ea2433c167,"Haus!, Siwalankerto",Minuman & Jus,Jl. Raya No.163,Surabaya Timur,surabaya,-7.267593,112.785187,084545341684,4.4,1,2022-06-04 17:06:40,2024-03-08 12:23:51,1
+34ea3019-faf9-4b16-b91c-ceb19f84b03d,"Hayaku Sidoarjo, Citra Harmoni",Sarapan,Jl. Raya No.20,Surabaya Barat,surabaya,-7.267316,112.675571,087643767356,4.1,1,2020-12-12 06:17:11,2024-07-19 12:56:01,1
+57c9bd6a-8819-4948-a984-722e4a67b92d,"HokBen, Suncity Sidoarjo",Korean Food,Jl. Raya No.124,Surabaya Barat,surabaya,-7.282355,112.71074,088710885526,4.3,1,2020-08-03 21:06:50,2024-06-19 20:09:11,1
+e55a62c3-a75c-42d5-a1c4-316c3fe01dbc,Holland Bakery Indrapura,Burger & Sandwich,Jl. Raya No.55,Surabaya Pusat,surabaya,-7.2608,112.740291,082935086055,3.7,1,2022-07-24 04:56:33,2024-10-05 13:44:44,1
+f6c4ad1e-fc94-48a7-8d38-9ad71f539513,"Holland Bakery, Thamrin",Pizza,Jl. Raya No.185,Surabaya Pusat,surabaya,-7.243556,112.738292,082474628070,4.5,1,2022-01-14 03:12:12,2024-03-22 19:54:11,1
+77c2722e-27f2-4ba7-bf28-1a6b00d212dc,"Holland Bakery, Tropodo",Ayam & Bebek,Jl. Raya No.63,Surabaya Timur,surabaya,-7.283875,112.791668,081527164449,4.4,1,2020-09-07 07:19:47,2024-02-22 07:43:08,1
+720b7703-6f5c-4a7a-97c5-5cac3b6fb271,Holywings Gold Basra,Nasi & Lauk,Jl. Raya No.15,Surabaya Timur,surabaya,-7.248736,112.79454,083144663022,4.9,1,2022-03-13 13:45:39,2024-06-06 11:07:36,1
+016b50dc-e95f-425e-aa70-a8cc8b6972e9,"Holywings, Kertajaya",Bakso & Soto,Jl. Raya No.185,Surabaya Timur,surabaya,-7.203076,112.781881,089448044635,4.9,1,2020-12-02 11:11:16,2024-06-23 10:52:43,1
+da87d276-2fff-4f11-8bf9-d583a3aedd26,"Iconic Jajanan, Sambikerep",Nasi & Lauk,Jl. Raya No.57,Surabaya Timur,surabaya,-7.200722,112.793365,086290643207,3.7,1,2022-06-24 02:37:20,2024-11-14 15:10:40,1
+3df66d23-c5bd-4e08-8b98-b8c0935a126e,Ikan Bakar Dewata,Nasi & Lauk,Jl. Raya No.186,Surabaya Pusat,surabaya,-7.245072,112.740216,089755992559,4.9,1,2022-07-15 16:22:32,2024-08-17 08:45:13,1
+6a749fe8-884e-43ad-b059-6d504a7bcd64,Ikon,Seafood,Jl. Raya No.5,Surabaya Pusat,surabaya,-7.260807,112.737709,083580157128,4.8,1,2022-02-22 11:53:09,2024-09-22 18:46:13,1
+9a06b3cd-9fa7-4334-a543-78d9bf883559,"Inna Roti, Jambangan",Nasi & Lauk,Jl. Raya No.122,Surabaya Barat,surabaya,-7.258674,112.692386,088890505645,3.6,1,2022-04-05 13:08:40,2024-07-14 11:22:05,1
+e208591a-575d-437e-acba-b9540a94a5ea,IZZA kitchen,Bakso & Soto,Jl. Raya No.155,Surabaya Pusat,surabaya,-7.266272,112.743188,087910161088,4.8,1,2022-11-20 02:31:35,2024-09-09 03:16:42,1
+421b3334-1d02-4024-abe5-dbabd3e16029,Jajan Toast,Ayam & Bebek,Jl. Raya No.179,Surabaya Barat,surabaya,-7.273898,112.675926,087767573535,3.8,1,2022-01-18 22:51:53,2024-11-02 15:11:29,1
+1149e990-f5e0-4e9b-8928-e950a49cc1d1,"Jiegwan Penyetan, Candi",Bakso & Soto,Jl. Raya No.195,Surabaya Barat,surabaya,-7.282474,112.706323,089987325627,3.6,1,2020-07-26 23:31:26,2024-04-08 20:16:47,1
+4068bf16-28c4-4d0a-a6c5-b82e904695cb,"Jokopi, Dinoyo",Seafood,Jl. Raya No.73,Surabaya Barat,surabaya,-7.261707,112.713706,088682978342,4.1,1,2020-10-20 15:12:51,2024-01-03 02:58:44,1
+cdaaafba-b2f6-40ac-acf9-e9393929b2fa,"Jokopi, Gwalk",Minuman & Jus,Jl. Raya No.31,Surabaya Timur,surabaya,-7.225635,112.750356,087610965569,4.1,1,2020-11-15 02:33:50,2024-09-24 02:27:02,1
+1bbb42a4-1929-4541-b5ba-e37326ff77a7,"Joomba, Gwalk",Sushi & Japanese,Jl. Raya No.167,Surabaya Barat,surabaya,-7.279558,112.657461,088444042008,3.9,1,2022-04-12 19:26:20,2024-06-13 11:52:47,1
+04d896b0-cffe-4ea4-aeaf-8cdceff63a29,"Joomba, Manyar Kertoarjo",Sarapan,Jl. Raya No.102,Surabaya Timur,surabaya,-7.263436,112.763778,083665462544,4.3,1,2022-05-16 03:26:35,2024-07-06 08:55:31,1
+f87c0dd0-abb5-41dc-8b1d-d88f262d33c2,"Jus Buah, Umma",Burger & Sandwich,Jl. Raya No.79,Surabaya Pusat,surabaya,-7.255191,112.741098,088356218720,4.7,1,2021-09-10 11:21:10,2024-10-12 17:59:21,1
+1dfa4990-b413-4d96-bdb1-75318369430a,KAFE ASIA KRIAN,Vegetarian,Jl. Raya No.59,Surabaya Pusat,surabaya,-7.2358,112.743186,086731715773,3.7,1,2022-02-28 16:25:15,2024-06-04 13:29:53,1
+ba8627f6-f1c4-4801-9eb5-d2b34bf0e5fe,"Kampoeng Roti, Manukan",Sarapan,Jl. Raya No.181,Surabaya Barat,surabaya,-7.259957,112.692982,081631573890,4.1,1,2022-09-14 19:11:55,2024-01-03 01:18:44,1
+4b3a57b3-522c-47ed-afc0-9eede0a5e1c3,"Kampoeng Roti, Wiyung",Dessert & Snack,Jl. Raya No.112,Surabaya Pusat,surabaya,-7.23707,112.739433,082118600733,3.9,1,2021-07-30 01:44:08,2024-02-01 02:01:27,1
+3f9164dc-ad39-493b-8773-532e86039852,"Kampoeng Roti, Wonosari",Sushi & Japanese,Jl. Raya No.158,Surabaya Timur,surabaya,-7.296224,112.769216,089379928180,3.9,1,2022-07-17 03:23:30,2024-01-23 07:35:39,1
+5af215e2-aa6b-4f24-ada2-cb36f0fd48fd,"Kampoeng Steak, Rungkut",Mie & Pasta,Jl. Raya No.169,Surabaya Pusat,surabaya,-7.244388,112.738779,087648387144,3.8,1,2022-07-20 07:32:09,2024-07-17 06:39:03,1
+98349e18-e58d-4bfa-9d8c-64120eff7022,K'bon Cafe,Sarapan,Jl. Raya No.10,Surabaya Timur,surabaya,-7.230155,112.780759,085642112480,4.5,1,2020-09-01 13:57:58,2024-02-03 17:26:01,1
+791fa713-3812-4bed-8aa5-9673366f0663,"Kebab Bosman, Kenjeran",Sushi & Japanese,Jl. Raya No.104,Surabaya Barat,surabaya,-7.261016,112.674719,088536885204,4.3,1,2022-12-29 00:55:36,2024-01-27 15:33:30,1
+fcfc8f7a-8685-4caf-a087-e52193b28330,"Kebab Bosman, Ngagel",Minuman & Jus,Jl. Raya No.150,Surabaya Pusat,surabaya,-7.248016,112.744523,085456637316,4.9,1,2021-03-05 12:57:35,2024-03-28 21:13:37,1
+1f252f66-6a62-4ebb-85f8-bde1ab3de994,KEBULI JORDAN SURABAYA,Sushi & Japanese,Jl. Raya No.148,Surabaya Timur,surabaya,-7.203694,112.772738,081045045256,3.8,1,2022-02-25 09:55:27,2024-02-11 08:19:31,1
+7b695283-6d8f-4af7-8bf7-2b4c014da96a,"Kedai Budget, Dharmawangsa",Seafood,Jl. Raya No.132,Surabaya Timur,surabaya,-7.292761,112.764713,084282196170,4.7,1,2022-06-12 01:35:50,2024-04-07 03:29:15,1
+2f5a70c4-4a94-4eca-8c70-9fc649994bf2,Kedai Es Juragan,Korean Food,Jl. Raya No.198,Surabaya Timur,surabaya,-7.255723,112.768854,084155588495,4.9,1,2021-12-13 19:06:33,2024-09-21 16:55:22,1
+f8524b52-e0c7-4071-8834-fda829462d87,Kedai Kopi Kakak,Korean Food,Jl. Raya No.30,Surabaya Barat,surabaya,-7.255174,112.710342,084319066979,4.1,1,2020-12-08 08:26:54,2024-09-19 21:17:10,1
+157e4104-df1f-43fb-9da2-1c7cfde75577,Kedai Mama AL,Pizza,Jl. Raya No.133,Surabaya Timur,surabaya,-7.277007,112.765787,087811305024,4.6,1,2021-02-13 02:23:17,2024-04-06 09:55:43,1
+596044e8-454d-47b3-9408-e5ffa983e05a,Kedai MAREM JOYO,Padang,Jl. Raya No.88,Surabaya Barat,surabaya,-7.29535,112.697159,081984430642,4.9,1,2022-01-10 07:16:30,2024-05-01 21:30:22,1
+6958979a-8e9f-4073-9229-f048f5a1ec0d,Kedai ReffTwo,Nasi & Lauk,Jl. Raya No.192,Surabaya Barat,surabaya,-7.289072,112.69016,089735523849,4.2,1,2020-11-06 04:06:29,2024-04-01 05:03:59,1
+4ba920b7-6044-4722-872f-9518c1434f7b,Kedai Teh Poci,Mie & Pasta,Jl. Raya No.52,Surabaya Timur,surabaya,-7.275794,112.76327,084193026670,4.0,1,2020-06-14 17:39:54,2024-02-16 13:20:54,1
+cda7767a-be75-427c-a7e3-e8234814dbf3,"Kedai Toelis, Prambon",Dessert & Snack,Jl. Raya No.2,Surabaya Pusat,surabaya,-7.242968,112.743268,087915672460,4.8,1,2021-07-30 15:12:35,2024-08-29 01:02:24,1
+e9500c68-7453-44d9-9b1e-6bddf6eac6fc,"Keikpop, Bengawan",Bakso & Soto,Jl. Raya No.148,Surabaya Barat,surabaya,-7.275383,112.718975,084575874779,3.8,1,2022-03-05 00:26:35,2024-04-18 20:16:27,1
+29b9d642-6182-48e7-9829-d4e37ef9b078,"KFC, Gempol City",Ayam & Bebek,Jl. Raya No.135,Surabaya Barat,surabaya,-7.288895,112.690367,086474199033,4.9,1,2020-02-20 14:01:24,2024-07-14 03:24:30,1
+82a1b0a6-479a-460f-960f-59ec8ce5c2d1,"Kim Boba Sidoarjo & My Croffle, Sidoarjo",Nasi & Lauk,Jl. Raya No.118,Surabaya Barat,surabaya,-7.280314,112.698044,082579552316,4.2,1,2022-12-06 15:37:54,2024-01-04 06:28:01,1
+3cf65b99-55e7-4451-96e2-501baaa894c4,KIMMIE LOK-LOK,Seafood,Jl. Raya No.84,Surabaya Pusat,surabaya,-7.243036,112.737589,085692245683,4.8,1,2020-10-17 17:32:55,2024-08-01 00:58:53,1
+e837bc57-6784-4d6e-82c3-75573aa5b4c0,"KOKUMI, Tunjungan Plaza",Dessert & Snack,Jl. Raya No.88,Surabaya Barat,surabaya,-7.288143,112.682994,085634684475,4.2,1,2020-11-23 01:13:11,2024-06-11 18:13:45,1
+bc2243f2-df9b-42ec-bdee-e1838e148e87,"KOMOREBI, GWalk Citraland",Sushi & Japanese,Jl. Raya No.72,Surabaya Timur,surabaya,-7.22478,112.768254,086734144323,4.4,1,2022-06-13 14:50:13,2024-09-23 10:05:40,1
+57079164-7cf7-40c9-a6f3-29504bc7f3df,"KONOTORI, Manyar",Western,Jl. Raya No.61,Surabaya Pusat,surabaya,-7.237432,112.744416,088168011418,4.8,1,2020-10-31 13:45:59,2024-02-26 15:21:43,1
+bfea5d6e-7215-44c2-ab7e-3b2b5e1f855e,Kopi Baik,Nasi & Lauk,Jl. Raya No.108,Surabaya Timur,surabaya,-7.285045,112.790283,087328048483,5.0,1,2022-09-06 16:24:36,2024-07-19 18:51:15,1
+8c36c683-cdc2-4bf2-a0f9-5885a5247817,"Kopi Panggang, Manyar",Burger & Sandwich,Jl. Raya No.65,Surabaya Timur,surabaya,-7.227944,112.789267,088186213459,3.6,1,2020-06-02 18:02:52,2024-09-25 04:19:44,1
+32f651b9-be0e-435d-b1c5-bf2af1b1bbd8,"Seblak Dan Mie Ayam Kopi Santai Gkb, Jl Kalimantan 103 Gkb",Korean Food,Jl. Raya No.162,Surabaya Pusat,surabaya,-7.267599,112.746276,082270378491,4.6,1,2021-02-07 12:53:41,2024-05-20 04:24:35,1
+895be093-0632-4ca2-a414-786aa71194f1,Lanuli Mocktail,Burger & Sandwich,Jl. Raya No.89,Surabaya Barat,surabaya,-7.271982,112.715229,081265265613,3.7,1,2022-11-21 16:47:48,2024-08-23 04:22:39,1
+ca24e543-3eec-43e5-9d37-9a0e4a5905e5,Lapis Srikandi,Minuman & Jus,Jl. Raya No.45,Surabaya Pusat,surabaya,-7.246926,112.742997,084657661928,4.0,1,2022-03-03 22:45:04,2024-07-08 07:46:15,1
+6bf5f567-d85c-4337-9dbf-a5caae0a65b5,Larissa Bakery,Dessert & Snack,Jl. Raya No.74,Surabaya Timur,surabaya,-7.255307,112.75392,086994786974,4.9,1,2020-09-17 07:40:07,2024-09-05 18:38:39,1
+300ae0bd-363e-42ce-af4d-6b964d5a0d7e,"Laritta Bakery, Manukan",Sushi & Japanese,Jl. Raya No.19,Surabaya Barat,surabaya,-7.278909,112.692862,082031743203,4.0,1,2021-05-01 23:27:30,2024-05-03 01:31:09,1
+59118b34-81d8-42e3-be53-19b15f64610c,"Lazizaa, Kemangsen Krian",Sarapan,Jl. Raya No.102,Surabaya Timur,surabaya,-7.270864,112.763374,084469713250,4.7,1,2021-07-18 03:45:59,2024-10-17 10:53:28,1
+a42407f6-87bd-41db-867b-a99cfc028928,"Lesehan 8000, Panjunan Raya",Nasi & Lauk,Jl. Raya No.48,Surabaya Timur,surabaya,-7.247906,112.772514,081226782572,4.6,1,2022-10-25 09:59:22,2024-04-07 17:31:12,1
+40a52180-00ec-4a22-902b-89ede1c2c5e0,"Lukumades, Pakuwon Mall",Nasi & Lauk,Jl. Raya No.102,Surabaya Timur,surabaya,-7.22993,112.754003,082322825003,3.6,1,2022-01-05 01:38:42,2024-07-31 23:46:22,1
+ce7cb9f9-ea7c-4e89-854d-2cbb9a62f6a2,Lumpia Pisang Kaget,Western,Jl. Raya No.22,Surabaya Pusat,surabaya,-7.268945,112.73794,082345225746,4.4,1,2020-05-10 23:21:06,2024-09-11 07:28:58,1
+e83e592e-180d-48c2-82fa-4e65e67dd94d,"M2M, Mojosari",Burger & Sandwich,Jl. Raya No.114,Surabaya Barat,surabaya,-7.284531,112.667318,089026966692,3.7,1,2020-09-22 00:43:36,2024-01-12 02:18:13,1
+240b1390-80ca-450c-a1a9-a4cce28d2061,"Macaroni Cuck, Siwalankerto",Pizza,Jl. Raya No.122,Surabaya Pusat,surabaya,-7.243458,112.747207,086982555977,4.9,1,2022-05-02 03:15:00,2024-06-21 18:15:19,1
+2d74a538-35a1-4814-9377-fb6b2824b22a,Mafia Gedang,Nasi & Lauk,Jl. Raya No.152,Surabaya Pusat,surabaya,-7.231218,112.743952,088671276220,4.4,1,2022-09-14 18:14:54,2024-12-06 16:58:12,1
+b626fff7-eb12-4057-9dbc-d90653948711,"Mai Pizza, Mojosari",Minuman & Jus,Jl. Raya No.80,Surabaya Timur,surabaya,-7.256502,112.781989,085474646194,4.3,1,2020-05-19 02:48:57,2024-06-20 14:26:11,1
+f8a5ac8a-5fe4-4e89-8da8-0b7cb072e045,"Mak Ciem, Pandaan",Burger & Sandwich,Jl. Raya No.3,Surabaya Barat,surabaya,-7.281711,112.668186,081080238316,4.7,1,2020-07-30 17:38:57,2024-05-13 13:14:23,1
+cb545168-a412-4145-bef7-bf2920ffea61,"Mangkokku, Tenggilis",Bakso & Soto,Jl. Raya No.126,Surabaya Barat,surabaya,-7.27654,112.650582,087150213043,3.5,1,2021-10-30 15:47:29,2024-11-05 21:34:14,1
+9a16c910-8b55-4f65-9bb1-5c3cd553f038,"Markas Ranjau, Mojosari",Minuman & Jus,Jl. Raya No.96,Surabaya Barat,surabaya,-7.27015,112.705774,083465262252,4.8,1,2021-11-10 00:30:23,2024-06-02 07:21:21,1
+83835dbc-e60e-46dc-afb5-46866c34b562,MARTABAK CHEF PLUTO,Sushi & Japanese,Jl. Raya No.97,Surabaya Pusat,surabaya,-7.263469,112.744742,083845296615,3.6,1,2022-08-29 09:43:54,2024-04-03 00:52:40,1
+c2def049-4d03-4a90-84ca-e21e68669a88,"Martabak Hawaii, Gedangan",Western,Jl. Raya No.178,Surabaya Timur,surabaya,-7.223546,112.795498,089746489118,3.9,1,2022-04-06 08:19:10,2024-11-10 02:38:34,1
+d8146c44-84df-4216-861c-fc5d7e7a7b37,"Martabak Hollene, Sawotratap",Nasi & Lauk,Jl. Raya No.35,Surabaya Barat,surabaya,-7.279355,112.709744,084724811778,4.5,1,2022-08-17 14:37:18,2024-06-24 20:05:47,1
+f9837c7d-217a-4d7b-ae9a-852989588fa7,"McDonald's, Merr Surabaya",Pizza,Jl. Raya No.5,Surabaya Barat,surabaya,-7.264976,112.68444,082916661503,5.0,1,2020-02-04 09:05:57,2024-03-13 05:03:50,1
+c95c5ae6-a38c-46e9-a86c-3eb1fefe5605,Mejishi Sushi,Korean Food,Jl. Raya No.187,Surabaya Pusat,surabaya,-7.258715,112.732501,081141247296,3.6,1,2020-01-23 20:58:55,2024-07-10 16:29:41,1
+d493c410-fa6f-496b-8c99-f0f937d1a0b3,"Menantea, Gwalk Surabaya",Western,Jl. Raya No.128,Surabaya Pusat,surabaya,-7.256323,112.736232,085772234675,4.5,1,2020-02-19 07:14:44,2024-05-08 06:08:25,1
+d45f00d2-d0de-4310-afdc-af2782b18199,"Menantea, Waru",Ayam & Bebek,Jl. Raya No.69,Surabaya Pusat,surabaya,-7.236258,112.749033,086019581091,4.3,1,2020-10-09 02:40:41,2024-03-15 15:21:43,1
+b717ae3b-d84f-4d4a-874c-efa9a84f203b,"Mie Gacoan, Sidoarjo",Seafood,Jl. Raya No.197,Surabaya Barat,surabaya,-7.259137,112.707978,084161646699,4.7,1,2021-11-19 02:46:51,2024-04-05 23:43:06,1
+de66ffbb-6303-452a-b443-d1453fab29ec,Mie Gragas Sidoarjo,Vegetarian,Jl. Raya No.198,Surabaya Timur,surabaya,-7.200546,112.759959,082279946108,4.5,1,2020-11-19 19:28:20,2024-07-02 15:03:12,1
+8dc3895a-2c6e-43a0-985c-8c45e58388c0,Mie Jeder,Pizza,Jl. Raya No.41,Surabaya Barat,surabaya,-7.265928,112.671848,089015662097,4.6,1,2022-05-03 17:49:31,2024-07-21 07:23:04,1
+44e0988e-338d-401f-9c93-45478502796d,"Mie Kane, Mojosari",Mie & Pasta,Jl. Raya No.93,Surabaya Pusat,surabaya,-7.259867,112.74277,081699482259,3.8,1,2020-06-24 10:16:41,2024-04-01 15:21:39,1
+fd461cb6-82c9-4d1f-822b-c7dbda82e2f3,"Mie Mapan, Sepanjang",Western,Jl. Raya No.71,Surabaya Timur,surabaya,-7.256584,112.750753,088426059096,4.1,1,2021-01-12 15:01:38,2024-01-04 11:13:56,1
+e749e318-c151-4697-a111-7c977bc8f61a,"Mie Njerit, Krembung",Vegetarian,Jl. Raya No.153,Surabaya Pusat,surabaya,-7.246757,112.743815,082959848284,4.7,1,2021-01-21 09:02:16,2024-03-02 05:51:22,1
+7545c23c-efea-4d9c-9ef1-2528c020e75c,Mimi Donat Kentang,Bakso & Soto,Jl. Raya No.195,Surabaya Barat,surabaya,-7.29543,112.693305,089018060088,3.6,1,2022-09-28 07:29:38,2024-02-29 18:37:25,1
+8b7cc1a3-7f8a-48ed-9933-a41564828303,"Molen Molek, Rungkut",Korean Food,Jl. Raya No.60,Surabaya Timur,surabaya,-7.246365,112.75537,085084940527,4.7,1,2021-06-23 12:56:37,2024-11-08 20:02:26,1
+e070ee42-3a3c-43e1-80ed-ee6257a23619,"Momoiro, Pakuwon Mall",Sushi & Japanese,Jl. Raya No.92,Surabaya Barat,surabaya,-7.263341,112.651495,082743647879,4.8,1,2022-01-23 21:22:29,2024-10-01 10:13:53,1
+74e8f99e-a66f-40a8-9f7c-e69522a8ef95,"Mr Seafood, Sedati",Korean Food,Jl. Raya No.49,Surabaya Barat,surabaya,-7.272049,112.687991,088235048615,4.3,1,2021-05-17 19:41:51,2024-10-11 10:29:06,1
+b861419e-0212-43d9-afde-fd97670d78fa,My Bakery,Bakso & Soto,Jl. Raya No.142,Surabaya Barat,surabaya,-7.286234,112.708194,083019244458,4.3,1,2021-11-29 02:15:26,2024-04-24 19:52:08,1
+a6ac7f9b-128c-4dd9-9355-5b7f5ea58510,Nakama Bento,Western,Jl. Raya No.164,Surabaya Barat,surabaya,-7.27292,112.681786,087460874366,4.6,1,2020-01-30 01:55:36,2024-08-28 16:20:42,1
+64bc8e08-6f67-45ca-88de-456e376e6716,Ndalem Prabu,Vegetarian,Jl. Raya No.17,Surabaya Barat,surabaya,-7.261199,112.666715,089482337519,4.7,1,2020-10-21 22:50:46,2024-07-22 12:41:03,1
+c1984edf-d632-451d-9787-d069a126450c,"Ngastina, Bawean",Dessert & Snack,Jl. Raya No.73,Surabaya Timur,surabaya,-7.250245,112.777573,085165003032,4.5,1,2020-06-20 14:24:05,2024-02-07 09:10:25,1
+1f26978a-4452-4832-8ee9-388f6bb8facd,"Ngasyapp!!, Gress Mall",Nasi & Lauk,Jl. Raya No.46,Surabaya Timur,surabaya,-7.234111,112.752189,081437122588,3.7,1,2020-10-24 15:59:10,2024-02-08 08:27:00,1
+90f9d5e5-fb0c-45b4-8a2a-2c8d5e9748cc,"Ngasyapp!!, Plaza Surabaya",Sarapan,Jl. Raya No.126,Surabaya Pusat,surabaya,-7.24716,112.746726,087793747900,4.6,1,2021-02-01 14:04:48,2024-01-20 01:30:40,1
+e61cfe12-4ad7-4a6a-af15-bb6bc4cac525,"Noodle Bar, Mojopahit",Ayam & Bebek,Jl. Raya No.54,Surabaya Barat,surabaya,-7.288964,112.700249,089375955329,4.9,1,2020-05-04 05:00:20,2024-06-30 18:37:38,1
+2c0f710a-8bdd-4bb0-b86e-2202746c2f71,"Nyayap, Metropolis Tenggilis",Bakso & Soto,Jl. Raya No.107,Surabaya Timur,surabaya,-7.29393,112.777901,085717824896,4.7,1,2021-02-16 22:19:30,2024-07-24 10:49:53,1
+05f21e89-ad17-4c21-9701-7f3b4518b373,"Pabrik Kopi, Sukomanunggal",Seafood,Jl. Raya No.56,Surabaya Pusat,surabaya,-7.240628,112.746689,087623035125,3.7,1,2020-12-24 20:58:31,2024-07-25 11:26:24,1
+ebf1678a-9e0a-47fb-a5f3-e887195fc010,PANCONG PANTURA SURABAYA,Mie & Pasta,Jl. Raya No.146,Surabaya Barat,surabaya,-7.290527,112.686833,089034011268,4.3,1,2022-05-17 01:01:38,2024-06-10 05:48:03,1
+34dfceeb-3e4e-44b0-90a9-c6f0e02a0a0b,"Pancong Pocong, Menganti",Pizza,Jl. Raya No.173,Surabaya Timur,surabaya,-7.289449,112.781931,086899287317,4.1,1,2020-06-10 17:13:07,2024-03-05 18:46:31,1
+6dfc7b11-ca24-479f-a334-efac8b8ea7a4,"Pentol Gilaaa, Rungkut",Sarapan,Jl. Raya No.41,Surabaya Pusat,surabaya,-7.248001,112.740094,087890519326,4.2,1,2021-07-01 07:35:36,2024-12-16 11:46:10,1
+e383beca-6e8b-4877-b9de-4241826a6707,"Pentol Gilaaa, Sidoarjo",Padang,Jl. Raya No.96,Surabaya Barat,surabaya,-7.272496,112.71978,086294992144,4.1,1,2021-05-17 11:07:27,2024-08-24 06:49:25,1
+46f8fa53-c7f2-4d6b-8053-4ce9eac48bcc,Penyetan Queen,Western,Jl. Raya No.141,Surabaya Pusat,surabaya,-7.247474,112.734279,084258319528,4.9,1,2021-11-26 04:00:04,2024-06-03 05:09:08,1
+61fa402a-e1a1-4411-8e46-b5b7779493cc,Pizza Mabruk,Dessert & Snack,Jl. Raya No.5,Surabaya Pusat,surabaya,-7.240947,112.749659,087628130896,5.0,1,2021-04-13 21:28:21,2024-01-03 13:13:33,1
+9e1f3a9a-a5aa-475f-8ab9-92ff50d8e2c3,"Pizza Place, Tegalsari",Pizza,Jl. Raya No.6,Surabaya Barat,surabaya,-7.25078,112.665038,089847038339,4.9,1,2022-03-05 05:34:57,2024-08-04 01:18:25,1
+267a7d37-6397-4e7d-838c-87f22e8ea9cc,Pocong Pancong Gayungsari,Ayam & Bebek,Jl. Raya No.118,Surabaya Timur,surabaya,-7.207408,112.757736,085530952341,3.7,1,2021-07-24 05:50:31,2024-12-11 11:54:33,1
+8eaaa7a8-9a17-427e-8a19-3856339bbf94,Pocong Pancong Wage,Burger & Sandwich,Jl. Raya No.24,Surabaya Timur,surabaya,-7.275014,112.762812,088363660012,4.4,1,2020-12-03 18:38:57,2024-10-12 03:51:17,1
+60e693bd-f48a-442c-9b96-64c77fd41f83,Poke LILY,Nasi & Lauk,Jl. Raya No.125,Surabaya Pusat,surabaya,-7.241057,112.745858,089887340611,4.7,1,2020-05-28 03:25:46,2024-08-19 03:57:24,1
+d5c5deac-90c9-46a6-ae5a-90da959b55c1,"Pomello, Rangkah",Dessert & Snack,Jl. Raya No.98,Surabaya Timur,surabaya,-7.269961,112.786539,082017505818,4.9,1,2021-06-03 10:56:58,2024-05-15 02:56:40,1
+b0510c37-8a0d-4782-bc7b-82914e865b1b,"Post Kuliner, Mojosari",Padang,Jl. Raya No.198,Surabaya Barat,surabaya,-7.279174,112.710748,083997614538,4.8,1,2020-01-18 18:18:16,2024-09-03 04:15:21,1
+d282e151-e02e-4518-8869-d2ca97e2c926,"Q5 Steak, Krian",Ayam & Bebek,Jl. Raya No.82,Surabaya Timur,surabaya,-7.261751,112.765239,087985821325,3.7,1,2022-02-19 10:53:22,2024-09-27 23:40:30,1
+900b2835-63c8-4708-88a4-d4d6fe21de68,Quita Cafe,Sushi & Japanese,Jl. Raya No.115,Surabaya Pusat,surabaya,-7.263872,112.743473,088687209399,4.3,1,2020-12-10 23:57:08,2024-06-16 17:55:56,1
+5206caaa-4e6f-487b-b84d-2f909dfba345,"Raja Bebek, Arjuna",Pizza,Jl. Raya No.22,Surabaya Barat,surabaya,-7.260682,112.660361,087086697457,4.6,1,2022-05-01 12:36:10,2024-06-04 00:43:57,1
+ce2f0b97-de04-439c-9274-cb4be89c4083,Rakoes Mulyorejo,Western,Jl. Raya No.179,Surabaya Barat,surabaya,-7.295746,112.685128,082628102047,4.2,1,2020-11-03 18:01:16,2024-07-08 11:11:42,1
+06476899-1403-4f2e-bf2e-4f29ebec2452,Robakus Pahlawan,Dessert & Snack,Jl. Raya No.189,Surabaya Barat,surabaya,-7.267388,112.663727,087743050557,3.9,1,2021-02-17 14:47:01,2024-10-28 16:02:19,1
+fd4984d2-4716-412e-876b-ef19851ef494,"Rocket Chicken, Gresik",Seafood,Jl. Raya No.29,Surabaya Barat,surabaya,-7.283829,112.71469,089565510043,4.1,1,2021-06-25 01:51:29,2024-03-14 23:29:35,1
+a8ffc8d1-e528-483c-ad1e-096a7b58c7be,"Sang Pisang, Surabaya",Western,Jl. Raya No.79,Surabaya Barat,surabaya,-7.282774,112.695879,083156938140,4.4,1,2021-11-17 22:47:15,2024-08-30 00:28:43,1
+ae2ca69a-3464-4a2c-b4d4-cd0d872cef1f,"Sari Rasa, Mojosari",Mie & Pasta,Jl. Raya No.52,Surabaya Pusat,surabaya,-7.252381,112.748484,089760173377,3.7,1,2020-05-13 07:23:39,2024-02-13 15:22:49,1
+3eefafee-6375-484e-98ca-b3bb03f5301e,"Satria Roti, Kartini",Bakso & Soto,Jl. Raya No.38,Surabaya Timur,surabaya,-7.294546,112.797447,084611843251,4.0,1,2020-06-21 20:44:39,2024-04-28 11:54:22,1
+b1f77f30-8443-4bb4-a2a0-6cd68efe4ede,"Satria Roti, Wiyung",Vegetarian,Jl. Raya No.138,Surabaya Barat,surabaya,-7.27644,112.673231,083737353754,4.3,1,2021-02-05 19:28:09,2024-08-01 03:11:14,1
+9922a0ea-1717-4bb3-aabe-372574ee27a9,"Seafood Narako, Gubeng",Vegetarian,Jl. Raya No.179,Surabaya Barat,surabaya,-7.268848,112.719461,089512468064,4.1,1,2022-10-27 18:07:46,2024-07-23 14:07:24,1
+17e41dc5-60d0-40bd-8f5c-6db208576adb,SEBLAK BANDUNG 86,Mie & Pasta,Jl. Raya No.179,Surabaya Pusat,surabaya,-7.259782,112.731202,088946410780,3.6,1,2022-10-14 03:08:33,2024-01-04 05:40:48,1
+4be313f2-a50d-4cf1-80ec-57c01f322d09,SEBLAK BANDUNG NETIZEN,Padang,Jl. Raya No.169,Surabaya Pusat,surabaya,-7.254454,112.735426,085624480943,3.5,1,2022-10-05 19:48:08,2024-05-30 02:39:27,1
+9164db21-bbe0-4335-adb7-d07a6957d8da,"Seblak Bundaa, Wonoayu",Vegetarian,Jl. Raya No.26,Surabaya Pusat,surabaya,-7.230808,112.740171,085075050252,4.8,1,2022-04-05 18:01:02,2024-02-04 04:24:43,1
+9af039e3-6d56-41eb-be86-c79275595097,SEBLAK GACOR,Minuman & Jus,Jl. Raya No.183,Surabaya Pusat,surabaya,-7.262045,112.749336,081215335477,3.9,1,2022-04-02 10:02:07,2024-04-28 10:07:49,1
+a8c1a701-3d1d-46f1-b51f-ced900455921,"Seblak Gobyos, Jemursari",Ayam & Bebek,Jl. Raya No.89,Surabaya Barat,surabaya,-7.275503,112.702107,089757232974,4.0,1,2021-04-14 15:32:17,2024-04-01 17:35:16,1
+daf42eff-8b2f-4612-874a-eb10b448d2e3,"Seblak Gobyos, Sedati",Burger & Sandwich,Jl. Raya No.100,Surabaya Timur,surabaya,-7.272412,112.7531,081384482698,4.9,1,2020-12-16 10:19:57,2024-02-28 22:01:21,1
+e3c87339-5acf-4bbc-ba39-0d87e18577ea,Seblak Radja Sukodono,Seafood,Jl. Raya No.187,Surabaya Barat,surabaya,-7.255141,112.695985,085879889565,4.9,1,2022-08-09 09:43:51,2024-12-04 22:10:02,1
+2f7a181c-c47f-4991-a73c-64d329d6ff06,Semangkok Rempah,Dessert & Snack,Jl. Raya No.40,Surabaya Timur,surabaya,-7.231348,112.770867,086451927304,4.9,1,2021-05-26 12:37:29,2024-06-23 10:33:36,1
+b12af06e-9f4b-4b19-b868-c8fd331e56e2,"SEPASI CAFE, Gayungan",Dessert & Snack,Jl. Raya No.139,Surabaya Timur,surabaya,-7.286823,112.782624,089737153619,4.8,1,2021-04-25 00:17:42,2024-09-24 09:35:03,1
+71a6c00f-58c4-440d-8dab-2fffe0105fcd,Signora Pasta,Sushi & Japanese,Jl. Raya No.198,Surabaya Timur,surabaya,-7.210136,112.795478,082898077934,4.9,1,2020-09-02 12:27:12,2024-05-03 07:16:45,1
+fc3eb3bf-9532-4e66-a897-f27ea596777d,Sinbad Kebab & Burger,Seafood,Jl. Raya No.48,Surabaya Pusat,surabaya,-7.247706,112.748972,085029531743,4.6,1,2021-05-10 01:31:44,2024-12-07 19:25:25,1
+5e1120a9-fc7d-4b72-9d64-eae51e362939,Sioke Siobak ADAM,Vegetarian,Jl. Raya No.164,Surabaya Barat,surabaya,-7.25194,112.671234,084530395330,4.7,1,2020-06-14 20:43:39,2024-02-21 02:05:47,1
+a332c890-f82c-4305-bddf-2a7587586345,"Sistersfood, Purworejo",Dessert & Snack,Jl. Raya No.69,Surabaya Pusat,surabaya,-7.268952,112.749719,088786107235,4.4,1,2022-07-15 09:56:17,2024-03-31 04:05:53,1
+6b6c0e79-7952-49aa-a726-1fcedf930a32,Slea Kitchen,Vegetarian,Jl. Raya No.200,Surabaya Pusat,surabaya,-7.242505,112.737185,087127996802,4.3,1,2022-07-28 09:17:18,2024-07-01 01:11:32,1
+fb600075-f033-40d6-9dbc-801dc60b5e37,Sosis Bakar KN,Sushi & Japanese,Jl. Raya No.126,Surabaya Timur,surabaya,-7.235043,112.759199,087028456645,3.7,1,2020-12-17 12:04:16,2024-01-13 12:24:04,1
+c2da9bd0-8bb9-4b30-832e-4b7d613bbb77,"So Young, Sambikerep",Burger & Sandwich,Jl. Raya No.106,Surabaya Barat,surabaya,-7.261773,112.651051,083837223861,4.6,1,2020-04-12 17:44:27,2024-03-09 18:29:18,1
+b0cc67b1-2bcb-46ea-a180-5c3bd575ae0a,"Spikoe Lusiana, Rungkut",Pizza,Jl. Raya No.118,Surabaya Barat,surabaya,-7.256644,112.684296,084167385552,4.1,1,2020-03-05 23:23:47,2024-08-24 02:19:04,1
+b170999c-b176-4531-92aa-dd1ecd6d2e4f,"StepUp Donut, Mulyorejo",Sushi & Japanese,Jl. Raya No.157,Surabaya Timur,surabaya,-7.217567,112.78601,088389699265,4.3,1,2022-09-23 08:53:41,2024-12-06 02:53:20,1
+d16ee98f-d155-46fc-a4ae-a1d544eb4493,"Street Food, Deltasari",Korean Food,Jl. Raya No.117,Surabaya Timur,surabaya,-7.221308,112.776032,081542980201,4.3,1,2021-09-06 13:27:15,2024-10-12 12:16:54,1
+1c5ca881-336f-45cf-bb6f-5f5fec1aa6c1,Subsidi,Sarapan,Jl. Raya No.13,Surabaya Pusat,surabaya,-7.247692,112.740323,083449081432,4.2,1,2021-04-18 02:36:05,2024-10-27 11:11:32,1
+1c5886cd-ca90-4bfe-bba9-411e0669c4d6,Suka Kepiting,Dessert & Snack,Jl. Raya No.14,Surabaya Barat,surabaya,-7.276933,112.679572,089879386491,4.9,1,2021-12-21 03:28:33,2024-11-18 07:10:05,1
+cf9b33de-affc-4bd8-a497-6eb9a1818a01,"Sushikun, BG Junction",Seafood,Jl. Raya No.47,Surabaya Timur,surabaya,-7.25483,112.786132,088483337520,3.7,1,2021-10-04 10:36:30,2024-05-05 14:52:27,1
+8fbc3dfe-7cd3-48d7-b115-118c06121a71,"Sushikun, Royal Plaza",Bakso & Soto,Jl. Raya No.183,Surabaya Barat,surabaya,-7.298754,112.681758,083571026547,3.6,1,2021-05-18 10:23:00,2024-09-25 15:16:25,1
+eb053f11-c5fe-435f-a4d6-e6c79e947175,Susu Kocok Kita,Vegetarian,Jl. Raya No.188,Surabaya Timur,surabaya,-7.209284,112.789824,082522239481,3.7,1,2021-11-29 02:47:14,2024-09-03 05:58:59,1
+3568996b-ad82-4c84-b243-8531874d4630,"Suweger, Ngelom",Vegetarian,Jl. Raya No.131,Surabaya Barat,surabaya,-7.295735,112.69951,088831461370,4.1,1,2021-08-14 06:03:28,2024-01-18 01:14:03,1
+a8c794ea-7250-4d91-853b-70ceba3bdb46,"Suweger, Tropodo",Sarapan,Jl. Raya No.39,Surabaya Pusat,surabaya,-7.23351,112.74131,083029408873,3.8,1,2020-03-20 16:59:37,2024-06-11 22:47:05,1
+c56d8871-35cd-437b-8981-22e4e621dd5c,"Suweger, Wiyung",Korean Food,Jl. Raya No.74,Surabaya Barat,surabaya,-7.284524,112.703804,089034252610,3.7,1,2020-07-23 09:19:24,2024-03-19 18:42:53,1
+42fd2af6-b9b2-4b02-a9d7-8bbfc102fb9c,Tahu Go! Manyar,Korean Food,Jl. Raya No.128,Surabaya Pusat,surabaya,-7.245098,112.735062,087382947490,4.7,1,2022-08-02 11:17:01,2024-12-08 19:23:15,1
+51c0af83-db4a-4078-8f6d-d9c7afd72b30,Talk Kopi Kalasan,Korean Food,Jl. Raya No.117,Surabaya Barat,surabaya,-7.288106,112.69122,086269307507,3.6,1,2022-07-21 05:25:41,2024-01-03 13:15:54,1
+0089fd14-54c1-4bf7-85b7-fdf8601127de,"Tea Break, Tambaksari",Sarapan,Jl. Raya No.143,Surabaya Pusat,surabaya,-7.234713,112.735562,083616565770,3.8,1,2020-03-26 12:55:56,2024-09-10 16:58:54,1
+f146a4d4-9c9a-49b0-a5e2-4987844fbb61,"Tea Break, Tenggilis",Sarapan,Jl. Raya No.148,Surabaya Barat,surabaya,-7.298164,112.709768,088750056146,4.0,1,2020-05-16 05:47:35,2024-01-20 01:00:19,1
+e2d884f5-f2bb-4fa1-8b1c-1907269fb48e,"TEH OCA, Jedong Cangring",Sarapan,Jl. Raya No.73,Surabaya Pusat,surabaya,-7.253322,112.733565,088898707799,4.5,1,2022-07-13 06:03:05,2024-08-10 06:03:37,1
+d4403d9c-26f2-48b1-9178-f50c32a6616b,THESTOCKSHOP,Dessert & Snack,Jl. Raya No.93,Surabaya Timur,surabaya,-7.282258,112.772767,081422499198,4.7,1,2021-05-16 11:40:15,2024-05-23 03:18:57,1
+fe249dd4-ec27-4dba-a4bd-355a9468b154,"Toby's, Tenggilis",Padang,Jl. Raya No.141,Surabaya Barat,surabaya,-7.258987,112.703091,081849303341,4.2,1,2020-07-08 13:21:20,2024-09-26 18:19:20,1
+a11e535c-12b3-4ffb-9c00-088894cbf9ba,"Toby's, Wiyung",Mie & Pasta,Jl. Raya No.179,Surabaya Barat,surabaya,-7.28354,112.678963,083692148463,3.6,1,2022-06-06 14:06:30,2024-10-10 09:33:45,1
+c994e8ef-ef9e-4a40-a17b-7f4577b96e46,"Traffic Bun, Bawean",Vegetarian,Jl. Raya No.177,Surabaya Timur,surabaya,-7.247105,112.754383,088748545627,4.1,1,2021-05-06 15:32:55,2024-04-10 20:12:25,1
+3c844e21-8c5d-4745-83d5-db8c688b7c10,"Tritara Coffee, Gubeng",Bakso & Soto,Jl. Raya No.34,Surabaya Timur,surabaya,-7.242486,112.781162,088885515502,4.2,1,2022-09-08 13:21:32,2024-07-12 07:17:00,1
+e10a39e7-237a-411f-bcae-ebacc2ef45e4,"Truffle Belly, Gwalk",Mie & Pasta,Jl. Raya No.182,Surabaya Barat,surabaya,-7.259601,112.711856,084735978571,3.5,1,2020-02-07 06:17:33,2024-06-29 13:02:53,1
+eecc20d3-1261-4fdc-862e-a5a7a3facfb3,Truffle Belly Metropolis,Mie & Pasta,Jl. Raya No.158,Surabaya Timur,surabaya,-7.220327,112.786873,086365571661,3.6,1,2021-06-27 03:53:54,2024-08-05 15:27:03,1
+0f4f00d1-7b1a-4479-8d0a-7fa81bdd1bd1,Warkop 4D Qyuuu,Vegetarian,Jl. Raya No.73,Surabaya Timur,surabaya,-7.278766,112.782031,084219104802,4.0,1,2022-02-26 02:45:30,2024-08-01 14:18:42,1
+3dc9ddeb-aa55-44f3-9158-aacb33b47190,WARMINDO CJDW,Pizza,Jl. Raya No.88,Surabaya Barat,surabaya,-7.261648,112.657969,086086359356,4.4,1,2020-02-15 05:34:28,2024-11-19 03:12:02,1
+77cf537a-9c75-4e75-887e-5c17a428bfff,"Waroeng Redjo, Sidoarjo",Bakso & Soto,Jl. Raya No.173,Surabaya Pusat,surabaya,-7.262239,112.746677,087173686372,4.7,1,2022-09-29 23:39:34,2024-02-22 17:19:04,1
+14a207df-b9a1-48bb-8807-36ab7101b915,"WarPAS, Comunale",Padang,Jl. Raya No.138,Surabaya Barat,surabaya,-7.292231,112.682243,085272071682,4.7,1,2021-10-05 01:17:19,2024-12-26 07:37:45,1
+00f38802-4d1e-4dc1-83c0-78c77ddd1c54,"Warung Barokah, Gubeng",Dessert & Snack,Jl. Raya No.186,Surabaya Timur,surabaya,-7.294398,112.776054,089652346074,4.3,1,2020-01-30 01:52:25,2024-03-21 21:08:48,1
+512dc4d6-53c2-4103-8d71-45752e77bebb,"Warung Kongdhe, Bubutan",Bakso & Soto,Jl. Raya No.91,Surabaya Timur,surabaya,-7.231451,112.789977,081830039365,3.9,1,2020-02-18 10:13:11,2024-05-11 17:07:46,1
+ef65da3f-4144-4ace-8abb-95790e60dffa,WARUNG MBAKNET,Dessert & Snack,Jl. Raya No.156,Surabaya Barat,surabaya,-7.268674,112.708968,085935149571,4.4,1,2021-04-23 21:33:51,2024-09-30 21:33:26,1
+ec075eff-1686-4d2b-be04-86a8108c2eec,"Warung Mentok, Gayungsari",Seafood,Jl. Raya No.128,Surabaya Barat,surabaya,-7.264508,112.669005,084059873103,4.2,1,2021-04-15 02:48:57,2024-03-24 22:34:10,1
+0a6692da-4fa7-4340-82b4-aaf3a08148a0,Warung Pindo,Western,Jl. Raya No.10,Surabaya Timur,surabaya,-7.269768,112.755612,083522429114,4.2,1,2020-02-08 17:38:08,2024-11-06 07:27:19,1
+96c83519-eaad-463a-88ec-e45c2438649b,Warung Sego BHS,Pizza,Jl. Raya No.124,Surabaya Barat,surabaya,-7.254752,112.660785,087751655640,4.7,1,2020-08-10 14:25:35,2024-10-25 20:05:11,1
+0cdfd3de-fa44-405f-b2cd-4d17d0fb9f5c,"Warung Wader, Pahlawan",Sarapan,Jl. Raya No.34,Surabaya Pusat,surabaya,-7.237114,112.74876,083614905998,4.2,1,2022-03-22 10:25:42,2024-02-14 23:40:10,1
+a321ad27-c219-49e6-8eed-09f01f9ada48,"Wingstop, Jemursari",Padang,Jl. Raya No.153,Surabaya Pusat,surabaya,-7.257561,112.730881,082154733393,4.2,1,2020-03-12 16:12:55,2024-02-10 00:59:16,1
+0768797c-9c74-40b5-bf74-8618a4a50a21,"Wong Soeroboyo, PTC",Ayam & Bebek,Jl. Raya No.148,Surabaya Timur,surabaya,-7.223382,112.787278,084995745109,4.8,1,2021-05-13 11:17:14,2024-03-18 21:18:46,1
+45b17200-a4df-468a-bb8c-9f2de5958d42,"XIBOBA, SDO Gedangan",Western,Jl. Raya No.113,Surabaya Pusat,surabaya,-7.258537,112.740646,089525790828,3.9,1,2020-09-01 15:52:37,2024-04-16 06:28:50,1
+61477564-7e5f-4e4a-aaa6-dbb2494b4ac0,"XIBOBA, Tenggilis Surabaya",Minuman & Jus,Jl. Raya No.27,Surabaya Pusat,surabaya,-7.26939,112.742459,083682816971,4.0,1,2021-05-09 17:58:41,2024-04-15 06:23:19,1
+ba05423f-023a-4d02-959e-b22fab7e1956,"XIBOBA, Tunjungan Plaza",Dessert & Snack,Jl. Raya No.63,Surabaya Pusat,surabaya,-7.232269,112.74608,083119562056,4.0,1,2021-06-10 05:06:04,2024-07-28 22:32:37,1
+2a0bbe16-2139-440f-b0b2-bf652f087185,"Yasaka Fried Chicken, Sukolegok",Bakso & Soto,Jl. Raya No.173,Surabaya Barat,surabaya,-7.297464,112.652029,081624217270,4.1,1,2020-05-13 18:46:14,2024-06-14 14:56:55,1
+57476974-dc6a-4808-b759-9bff6f4f1e41,"Yakini, Krian",Dessert & Snack,Jl. Raya No.162,Surabaya Barat,surabaya,-7.291051,112.691728,089869839130,4.4,1,2021-04-30 08:37:54,2024-05-09 01:33:34,1
+154843c2-d2a7-4eeb-bd3f-e1aed41ee2b2,"Zeger!, Sidoarjo",Minuman & Jus,Jl. Raya No.21,Surabaya Pusat,surabaya,-7.241484,112.743417,086986207390,3.7,1,2022-12-21 05:40:25,2024-06-30 20:38:52,1
