@@ -1,0 +1,21 @@
+product_id,merchant_id,product_name,product_category,price,is_available
+a9582efa-e226-4df4-bf0d-4e01be1b55e2,2d1cb63a-058f-43be-aae1-d0021c70bd29,Hot Almara Kopi (kopi Susu Gula Aren),Minuman & Jus,20000,1
+4a4131ed-0695-4edc-b1e8-a38de6c2349d,2d1cb63a-058f-43be-aae1-d0021c70bd29,Ice Almara Kopi (kopi Susu Gula Aren),Minuman & Jus,22000,1
+3820e737-eb8a-4c70-9551-a29a222f88aa,2d1cb63a-058f-43be-aae1-d0021c70bd29,Hot Millsis,Minuman & Jus,20000,1
+4e8acc30-5647-4275-92a2-bcb68d724075,2d1cb63a-058f-43be-aae1-d0021c70bd29,Ice Millsis,Minuman & Jus,20000,1
+1b0d285a-3a42-4b4c-81fe-2549ba6ab59b,2d1cb63a-058f-43be-aae1-d0021c70bd29,Hot Millbro,Minuman & Jus,22000,1
+0a46f8f8-f9f6-47bc-81ff-b797fa5e945c,2d1cb63a-058f-43be-aae1-d0021c70bd29,Ice Millbro,Minuman & Jus,22000,1
+caa9adbe-cff6-40f2-8ecf-75d6578cc6e8,2d1cb63a-058f-43be-aae1-d0021c70bd29,Hot 330 Helateh,Minuman & Jus,15000,1
+80c94e53-4d0f-481c-9b6c-6b0e4ba6f61d,2d1cb63a-058f-43be-aae1-d0021c70bd29,Ice 330 Helateh,Minuman & Jus,18000,1
+bec4e39f-191f-49df-9717-63b8ef635054,2d1cb63a-058f-43be-aae1-d0021c70bd29,Hot Ilusi Kopi,Minuman & Jus,23000,1
+ee1b5474-9be6-4ce1-99c6-8b76d31c562a,2d1cb63a-058f-43be-aae1-d0021c70bd29,Ice Ilusi Kopi,Minuman & Jus,25000,1
+c8a6042e-4086-4e56-ac66-42dec07a0dc6,2d1cb63a-058f-43be-aae1-d0021c70bd29,Kopi Jelly,Minuman & Jus,20000,1
+9e8a2f40-9bf6-4565-b486-12c9b3eec60d,2d1cb63a-058f-43be-aae1-d0021c70bd29,Hot Americano,Minuman & Jus,18000,1
+75f23c43-231e-44a2-a550-e06db1e7a347,2d1cb63a-058f-43be-aae1-d0021c70bd29,Ice Americano,Minuman & Jus,20000,1
+23bfb173-5b25-4964-a706-d8ccefcb878f,2d1cb63a-058f-43be-aae1-d0021c70bd29,Hot Latte,Minuman & Jus,18000,1
+594ec7be-432c-4da1-9095-ad74246ff37d,2d1cb63a-058f-43be-aae1-d0021c70bd29,Ice Latte,Minuman & Jus,20000,1
+f690fcdf-73de-4eb1-aff4-4e24f47e0ac8,2d1cb63a-058f-43be-aae1-d0021c70bd29,Hot Cappucino,Minuman & Jus,20000,1
+4b320811-7bda-482d-84bb-5e62a2dcab32,2d1cb63a-058f-43be-aae1-d0021c70bd29,Ice Cappucino,Minuman & Jus,22000,1
+fcd1f706-0fda-45af-99b4-4a91a31b1f5a,2d1cb63a-058f-43be-aae1-d0021c70bd29,Hot Mocacino,Minuman & Jus,20000,1
+ffad63c7-f527-4e1f-ae1e-919fec54b309,2d1cb63a-058f-43be-aae1-d0021c70bd29,Ice Mocacino,Minuman & Jus,22000,1
+1779633d-45d1-4cea-a7c9-0c32f9a85436,2d1cb63a-058f-43be-aae1-d0021c70bd29,Hot Caramel Latte,Minuman & Jus,20000,1

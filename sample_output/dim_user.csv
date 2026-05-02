@@ -1,0 +1,21 @@
+user_id,user_name,gender,age,age_group,city,user_area,user_lat,user_lon,user_is_active
+8a391044-8ce4-415c-81fd-863632c84aa3,Kevin Nugroho,M,28,25-34,medan,Medan,3.687325,98.678513,1
+0cc2e211-04dd-4246-adf8-61031e12d768,Aldi Utami,F,27,25-34,jakarta,Jakarta,-6.155189,106.960784,1
+e3727e6a-2ae9-468b-9735-722cbf6c89db,Arif Anggraini,F,26,25-34,medan,Medan,3.531823,98.649457,1
+1b540d83-2616-47f1-a83d-99f34fd025c1,Sari Wati,M,32,25-34,jakarta,Jakarta,-6.268419,106.844294,1
+17a8167d-4eca-459c-ad41-619dfaf4b386,Hendra Firmansyah,F,36,35-44,jakarta,Jakarta,-6.185266,106.781468,1
+aea527f6-f366-4669-855f-d380458f3cc5,Eko Pratama,M,41,35-44,surabaya,Surabaya,-7.282801,112.750009,1
+89bddcf1-d9fd-4617-a707-9f369061c5df,Eko Putra,M,48,45-54,surabaya,Surabaya,-7.311008,112.795959,1
+62dec2e1-3458-4d04-9e51-9641889c6f23,Mega Anggraini,F,42,35-44,surabaya,Surabaya,-7.244569,112.724463,1
+72122b03-39f1-4304-9bc0-0bbbe90134c5,Nisa Suharto,M,19,18-24,surabaya,Surabaya,-7.179901,112.724709,1
+7079de04-75ab-4c5b-95eb-fa6a843bf69b,Sari Rahayu,F,27,25-34,jakarta,Jakarta,-6.113806,106.769497,1
+4c7a0ae2-fd3a-4184-af89-7105160ff16d,Dimas Setiawan,F,62,55+,surabaya,Surabaya,-7.199966,112.786793,1
+9e6c398d-3bb5-49fc-943b-52ad1cd6bd41,Dinda Hidayat,M,26,25-34,surabaya,Surabaya,-7.189257,112.664999,1
+5bc8ad96-26e7-4e93-875a-c6220f39b21a,Ayu Saputra,F,44,35-44,medan,Medan,3.573919,98.752559,0
+a03202c6-4364-4f53-9145-9d41ade1dd10,Tari Kusuma,M,30,25-34,jakarta,Jakarta,-6.108519,106.878518,1
+f421fdbc-4618-4fcf-978a-49cbdeb2d08a,Sari Saputra,M,58,55+,jakarta,Jakarta,-6.2406559999999995,106.809641,1
+fd958ae2-0099-4829-9ec1-6c73ebaaf0b2,Rizky Nugroho,F,31,25-34,jakarta,Jakarta,-6.222492,106.892015,1
+fa34f7c9-e518-4a15-bdd1-ef090eef4c5e,Dinda Nugroho,F,25,25-34,jakarta,Jakarta,-6.231457,106.967874,1
+0c3738c7-a17a-4256-8576-69bbe4505c7c,Putri Nugroho,F,22,18-24,medan,Medan,3.639162,98.687817,1
+c4345877-0ca6-4e69-b707-9ac1265dd3e0,Lestari Rahayu,F,47,45-54,surabaya,Surabaya,-7.248807,112.748899,0
+32473a9f-7f34-4b05-bd82-6780df841f35,Indah Hidayat,F,42,35-44,surabaya,Surabaya,-7.158381,112.780693,1

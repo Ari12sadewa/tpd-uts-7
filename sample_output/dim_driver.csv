@@ -1,0 +1,21 @@
+driver_id,driver_name,vehicle_type,city,driver_area,driver_rating,total_trips,driver_is_active
+01fccddd-631d-489a-8872-591c7ab0ae3b,Nisa Kusuma,Motor,jakarta,Jakarta,4.6,2624,1
+31c0df25-e673-489d-99ac-cac344e24d2e,Rizky Utami,Motor,jakarta,Jakarta,4.0,856,1
+aae983d8-281f-4ad5-90e1-b42602345922,Tari Pratama,Motor,surabaya,Surabaya,4.2,937,1
+98d053c9-5673-41e5-9f54-7c8a8c284986,Budi Saputra,Motor,jakarta,Jakarta,4.0,310,0
+f87747a1-be7e-4e80-909d-59fd3f278b83,Aldi Utami,Motor,medan,Medan,3.7,493,1
+e9b3c465-b3f9-44ef-9aec-749e305bd30e,Yoga Pratama,Motor,surabaya,Surabaya,4.2,4782,1
+5ec80e3f-fee7-469d-9578-0684888028a6,Dinda Putra,Motor,jakarta,Jakarta,4.5,2808,1
+8c18fdd7-be07-4e8f-83ca-9219929bc138,Siti Hidayat,Motor,surabaya,Surabaya,3.6,1534,1
+ca489e9b-ffaf-4ec5-878c-860b339cf192,Dimas Anggraini,Motor,jakarta,Jakarta,3.9,1517,1
+5ca2d061-8c93-4f21-aefd-e463cbbe9bf5,Wahyu Setiawan,Motor,medan,Medan,3.9,2554,0
+5cd87e21-81cb-4c36-a3c5-6b06e0e4d426,Indah Suharto,Motor,surabaya,Surabaya,4.0,2413,1
+a4046922-a219-4e0a-82b7-c1087373d13d,Maya Utami,Mobil,medan,Medan,3.7,211,1
+02110e63-4245-4673-ae50-f4be7c7d9999,Wahyu Firmansyah,Motor,jakarta,Jakarta,5.0,1326,1
+71305822-5dac-47f9-8f7c-a319e25c66ae,Dewi Anggraini,Motor,jakarta,Jakarta,5.0,2374,1
+4f89e66a-cdd0-413d-a6b8-5fe1a7f80533,Yoga Suharto,Mobil,surabaya,Surabaya,4.1,3650,1
+2fbae770-ee05-4ce6-9fcb-3160263256bf,Sari Putra,Motor,surabaya,Surabaya,3.6,81,1
+3f9ae1f6-7910-434e-823b-8b3cf6507a51,Citra Wijaya,Mobil,jakarta,Jakarta,3.7,1876,1
+b2ba2ae9-1570-4649-9ca1-41d1be137c3d,Mega Nugroho,Mobil,surabaya,Surabaya,4.3,4120,1
+893e5206-75b8-4bad-bb8f-71672f1f259c,Hendra Firmansyah,Motor,surabaya,Surabaya,3.5,2003,1
+8725b304-3bcd-4e37-8359-fd5a0fcf0987,Budi Wijaya,Motor,medan,Medan,4.6,1340,1

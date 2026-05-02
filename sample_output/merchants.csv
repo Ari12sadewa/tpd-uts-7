@@ -1,0 +1,21 @@
+merchant_id,merchant_name,category,address,area,city,lat,lon,phone,rating,is_open,joined_at,updated_at,is_active
+2d1cb63a-058f-43be-aae1-d0021c70bd29,"330 Kopi, Ciledug",Burger & Sandwich,Jl. Raya No.63,Jakarta,jakarta,-6.164903,106.746003,83828728463,4.6,1,2020-06-27,2024-10-29,1
+e85eab2c-9b6a-4ef2-9847-dde77ff21b5b,"Abe Steak, Cibubur",Mie & Pasta,Jl. Raya No.60,Jakarta,jakarta,-6.204054,106.747151,87490801586,3.5,1,2021-02-11,2024-11-28,1
+1be625e4-cb62-4cfb-9080-0ee2aa860ab8,"Abuba Steak, Cikarang",Korean Food,Jl. Raya No.151,Jakarta,jakarta,-6.153762,106.840685,84510872248,4.6,1,2020-11-22,2024-12-23,1
+eb85726e-2d89-4298-bf60-9c0ba41a54cc,Aneka Gorengan Siaga,Mie & Pasta,Jl. Raya No.196,Jakarta,jakarta,-6.203929,106.806689,85323718431,3.6,1,2020-07-17,2024-07-02,1
+04305f19-82fc-4b7c-9bba-ef927b7cfd60,Arangsimpur,Western,Jl. Raya No.12,Jakarta,jakarta,-6.127451,106.884894,86881971316,3.7,1,2022-02-14,2024-02-10,1
+c3d253af-590e-4634-bec8-7d3e65284ac5,Ayam Trolok,Dessert & Snack,Jl. Raya No.93,Jakarta,jakarta,-6.180633,106.939057,88335808537,4.6,1,2020-04-03,2024-12-04,1
+615bebb0-b931-4b3e-ae3d-603ba64ec7b1,BABAKARAN BUNDA DAFA,Seafood,Jl. Raya No.60,Jakarta,jakarta,-6.238978,106.809453,82261019678,3.9,1,2022-01-17,2024-03-24,1
+845a5966-afe0-41cc-8874-6ea8f0d2bcdb,"Bakerman, SCBD",Burger & Sandwich,Jl. Raya No.180,Jakarta,jakarta,-6.213367,106.790282,89796977837,3.6,1,2020-12-16,2024-09-30,1
+a7fbe974-8b20-49ea-ac55-0ba540a60af0,Bakmi Kun,Sushi & Japanese,Jl. Raya No.70,Jakarta,jakarta,-6.148757,106.779217,89184752529,3.8,1,2021-10-26,2024-01-29,1
+849dac67-aa2e-47ef-8124-1761b6f487f6,Bakmi Lopui 93,Pizza,Jl. Raya No.103,Jakarta,jakarta,-6.238771,106.747704,84418883684,3.8,1,2021-10-06,2024-04-18,1
+362faa85-195e-46f5-8c28-b9b3489c2d78,"Bakso Titoti, Parung",Bakso & Soto,Jl. Raya No.165,Jakarta,jakarta,-6.162021,106.834952,86829175900,3.9,1,2021-05-20,2024-10-14,1
+ba079f36-a7e3-4470-a39a-4d86a26a424c,"Banzai!, Bogor Utara",Sushi & Japanese,Jl. Raya No.150,Jakarta,jakarta,-6.182984,106.919283,86158586340,3.8,1,2020-10-10,2024-09-17,1
+8c5dcc29-539a-4968-8eb4-3650b56eb2f0,"Sosis Bakar By Basis.Kuy, Intercon",Padang,Jl. Raya No.29,Jakarta,jakarta,-6.191167,106.921388,82994214382,3.7,1,2022-05-14,2024-11-01,1
+88fde558-1cb4-4665-a7dc-ea72734e1bf4,"Bebek Boedjang, BSD",Korean Food,Jl. Raya No.136,Jakarta,jakarta,-6.268565,106.831589,84284252722,4.8,1,2020-01-24,2024-12-14,1
+7dbf0b5c-29cc-48a4-8895-b35fc553ccf9,"Boonsikdang, Hublife Jakarta",Minuman & Jus,Jl. Raya No.193,Jakarta,jakarta,-6.15027,106.90361,84496028436,4.0,1,2021-08-24,2024-08-10,1
+642041de-b4ae-425a-9c23-7741004d993e,"Bunga Bakery, Cibinong",Vegetarian,Jl. Raya No.185,Jakarta,jakarta,-6.251532,106.740779,84377187530,4.6,1,2022-11-05,2024-02-24,1
+c191eb8d-e3e0-4dec-9d62-f1f9ff9b7f6a,"Bunga Bakery, Depok",Sarapan,Jl. Raya No.130,Jakarta,jakarta,-6.123307,106.811627,88736697396,3.7,1,2020-11-26,2024-10-03,1
+15585ba5-9124-496b-bbfc-ea41d3267ac1,"Burger Bros, Bintaro",Bakso & Soto,Jl. Raya No.1,Jakarta,jakarta,-6.10837,106.961384,88653507489,4.2,1,2020-08-17,2024-07-04,1
+2fd6e402-8721-4c6c-8724-824acaa79f5c,"Burger Bros, Ciledug",Burger & Sandwich,Jl. Raya No.62,Jakarta,jakarta,-6.12183,106.9396,81742329237,4.8,1,2020-06-10,2024-02-13,1
+9c2d296e-4291-4116-8b36-82bb14af5e76,Burger Naura,Western,Jl. Raya No.137,Jakarta,jakarta,-6.148257,106.935846,82627232410,4.5,1,2020-12-04,2024-05-15,1
