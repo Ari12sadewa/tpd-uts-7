@@ -32,7 +32,7 @@ random.seed(42)
 # ============================================================
 # KONFIGURASI
 # ============================================================
-KAGGLE_FILE = "gofood_merchant_yogyakarta.csv"   # ganti sesuai nama file CSV kamu
+KAGGLE_FILE = "dataset/gofood_merchant.csv"   # ganti sesuai nama file CSV kamu
 N_TRANSACTIONS = 15000   # jumlah transaksi yang digenerate
 N_CUSTOMERS    = 1000    # jumlah customer unik
 START_DATE     = datetime(2024, 1, 1)

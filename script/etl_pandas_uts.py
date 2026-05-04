@@ -13,13 +13,15 @@ print("="*60)
 # (UBAH PASSWORD POSTGRESQL DI BAWAH INI SESUAI MILIKMU)
 pg_password = urllib.parse.quote_plus("12345") # <-- UBAH INI
 
-MYSQL_SRC_URL = "mysql+pymysql://root:@localhost:3306/source_a"
-PG_SRC_URL = f"postgresql+psycopg2://postgrxes:{pg_password}@localhost:5432/source_b"
-MYSQL_DWH_URL = "mysql+pymysql://root:@localhost:3306/dwh"
+MYSQL_SRC_URL = "mysql+pymysql://root:@localhost:3306/source_a_uts"
+PG_SRC_URL = f"postgresql+psycopg2://postgres:12345@localhost:5432/source_b_uts"
+# MYSQL_DWH_URL = "mysql+pymysql://root:@localhost:3306/dwh"
 
 engine_mysql = create_engine(MYSQL_SRC_URL)
 engine_pg = create_engine(PG_SRC_URL)
-engine_dwh = create_engine(MYSQL_DWH_URL)
+# engine_dwh = create_engine(MYSQL_DWH_URL)
+
+df = pd.read_sql("SELECT * FROM dim_merchant",PG_SRC_URL)
 
 try:
     # ==========================================

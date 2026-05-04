@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "paradokstesting",
+  "private_key_id": "6e70dda2675923a7f755b5e40593e1e8fc9e214f",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDEdEa8koIehlSk\nAW/yQhmHvv/3xlfWlQQMuGng6ZtduHfScgb2NiS79gJr7dCp+emhisDlBsukijPv\nYb2ccHLiz2yDF5E5pruOE+4Ma3JwRvKclNqKjnYdFYz8Cu8YMRUAD25vaCZTOxO+\nFQXJGnIISkjGD144mEe7t+DB9LLKyfsPc9nIURcZ1nLvUSQNCbMzmOkWYufM42DQ\niv87mvn6nYkVHhf2M0nAySQheyiSzxfaJ55NH6we+V9bC9W0kCxPLy65Ax68+Iyg\nddiNS4ueb3pe5HzmoTM7pT480+rPaO4lIQiKRdt65D7Z2PO4/8CiMNU8cFf4+w2C\nAcZrqEr1AgMBAAECggEACVEKWb8I9LGiKfT3fiGsXEeuk+2QFNkUTBYiz0vE1nj9\nFbnaoqqGq3NLQhsRHj5/2e1eoH3mAnObaurTtyuOBzuXBdCETpudoWtIisY9sx1q\nPArDIncHGvH+saVDGX6aZFpW/mmOB7xxfz43/AWJCuOa9+maqkxuenSJ8CjOoddE\n5tqYITbGUkzJtIBDq8JZSbd7g8VdCnjIrr1qu6AOshq6efnSBZ2XyNutvbxOeMoH\nJsjD3uGPnArDbinBBhQMQyOw8ZCNHsg4xegELK/GiArhak00zJYPHQQPl3/D04OS\nJCxHGub0cfmVFounvOJ6Y7shuBziDbBSgjj/KS22sQKBgQD9XvRa2TQggg0f1hjO\nV26aASc6zaB1raRe7MHM9qxVcR61NQCRRN+VoCtUnSR6YypopitFeQiXEjZEsNca\nt3J5QbVxMAjUKBvXYna/fo3HNr+6BNucTSBJWovn2dgFpu8D2Q40m00wSHJzn16v\nZxIyLJv3wh5ghfuAzO3YPcPmAwKBgQDGfiFZuC52q0x0ROCuVeR8CImhfwzW9EOw\njKHeKwDm6ZWDbRrj+tS9z0fvB6Efw4kDeyibaTkkZyvreVi1uyIehw3+/yKYZFG1\nER+LU5roVR6p2adtd1UeV3KTC7oOZsvRR0L9g7kiY7LG70vz4mI/3OkXMpw/uKaT\naqhokFUVpwKBgQDDd/4MGIWejraRWRrKFam+JiWduAWSw+OLWBwrhCJvyFVodvt5\nFylmxaqoHJOH1/lfwtKfRkDaS7KSS9unQN+PrKHOMMCe7FKOV+hE092NUy+W0yiZ\n7OZ7sN8+f1GpCqBa15md/DIQjdO+X7UsnNfs3X12JsxIqxTcyTy1FvGLAQKBgC3e\nrgRWzN39nhBsbmO7U67aJjwc6TGvhwkAptN5qp6yMiwKBaHTsGAgy6XQZIq7nCki\nx/KKMXtZIEwtYbO1iB/34+MewLboz/0A9QI0kuLH8OsdclSYtCHr4X1bw2ZamRVG\n25NMYncxBPp2CF5W3Y+WlIMY3gTXvh7pEfwABrmXAoGBAOwux2GogrlGJiE2Z0Eu\nFjfqdHCxfUS/ufnJF8Hw+rWXei4JNhNsshqFS+n9mdQBrGuKCXPIn7/UMA1BIoDi\n8yoRGC6ugvPkv7x4YeFbasgWiZK7mjPiDpXTBASgBbQcv+UMkElDqSY0Zdz4gQpr\ndDpGMN9W2YwL+2l0Hl/g4m2n\n-----END PRIVATE KEY-----\n",
+  "client_email": "gee-airflow-sa@paradokstesting.iam.gserviceaccount.com",
+  "client_id": "109088574590359543377",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/gee-airflow-sa%40paradokstesting.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
