@@ -1,0 +1,8 @@
+Jenis Data,Format,Platform,Sumber,,,
+"Data merchant Jakarta, Medan, Surabaya",CSV,Lokal,Kaggle,,,
+"Data Orders, customer, driver",database relasional,PostgreSQL,dummy,,,
+ERA5-Land Hourly,GeoJSON,GEE API,Google Earth Engine(GEE),,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,, 
