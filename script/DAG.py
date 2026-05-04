@@ -1,31 +1,3 @@
-"""
-GoFood Analytics - Airflow ETL DAG
-====================================
-Pipeline ETL untuk membangun Data Warehouse dari 3 sumber data:
-  - Source A (MySQL)       : users, drivers
-  - Source B (PostgreSQL)  : merchants, products, orders, order_items, reviews
-  - GEE (Google Earth Engine) : data cuaca per kota (dinamis, menyesuaikan rentang orders)
-
-Tujuan analisis (README.md):
-  1. Merchant dengan revenue terbanyak
-  2. Perbandingan rata-rata transaksi weekend vs weekday
-  3. Proporsi kategori makanan berdasarkan kelompok usia
-  4. Persebaran lokasi merchant
-  5. Distribusi order berdasarkan jam
-  6. Pengaruh kondisi cuaca terhadap jumlah & pola pemesanan
-
-Schema DWH:
-  Dimensions : dim_date, dim_user, dim_driver, dim_merchant, dim_product, dim_weather
-  Facts      : fact_orders, fact_order_items
-
-Perubahan v2 — Data Cleaning di Transform:
-  - Deduplikasi: users (user_id), orders (order_id), order_items (order_item_id)
-  - Imputasi null numerik dengan rata-rata per kota/kelompok
-  - Imputasi null kategorik dengan modus
-  - Drop baris jika kolom kritis (PK / FK utama) null
-  - Logging jumlah baris sebelum & sesudah setiap operasi cleaning
-"""
-
 from airflow import DAG
 from airflow.operators.python import PythonOperator
 from datetime import datetime, timedelta
@@ -40,9 +12,9 @@ import json
 # ==============================
 # KONFIGURASI DATABASE
 # ==============================
-MYSQL_SRC_URL = "mysql+pymysql://root:@192.168.144.1:3306/source_a_uts"
-PG_SRC_URL    = "postgresql+psycopg2://postgres:12345@192.168.144.1:5432/source_b_uts"
-DWH_URL       = "mysql+pymysql://root:@192.168.144.1:3306/dwh_uts"
+MYSQL_SRC_URL = "mysql+pymysql://root:@localhost:3306/source_a_uts"
+PG_SRC_URL    = "postgresql+psycopg2://postgres:12345@localhost:5432/source_b_uts"
+DWH_URL       = "mysql+pymysql://root:@localhost:3306/dwh_uts"
 
 # ==============================
 # KONFIGURASI GEE

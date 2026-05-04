@@ -1,20 +1,4 @@
-"""
-GoFood Analytics — Visualisasi & Interpretasi
-================================================
-Script ini membaca langsung dari Data Warehouse (DWH) dan menghasilkan
-6 grafik sesuai tujuan analisis di README.md:
 
-  1. Merchant dengan revenue terbanyak (Top 15)
-  2. Perbandingan rata-rata transaksi weekend vs weekday
-  3. Proporsi kategori makanan berdasarkan kelompok usia
-  4. Persebaran lokasi merchant (scatter geo)
-  5. Distribusi order berdasarkan jam
-  6. Pengaruh kondisi cuaca terhadap jumlah & pola pemesanan
-
-Cara pakai:
-  pip install sqlalchemy pymysql pandas matplotlib seaborn
-  python gofood_analysis.py
-"""
 
 import pandas as pd
 import matplotlib.pyplot as plt
@@ -29,7 +13,7 @@ warnings.filterwarnings("ignore")
 # ──────────────────────────────────────────────────────────────────────────────
 # KONFIGURASI
 # ──────────────────────────────────────────────────────────────────────────────
-DWH_URL   = "mysql+pymysql://root:@192.168.144.1:3306/dwh_uts"
+DWH_URL   = "mysql+pymysql://root:@localhost:3306/dwh_uts"
 OUTPUT_DIR = "output_charts"
 
 # Palet warna konsisten

@@ -1,8 +1,3 @@
-"""
-validate_data.py
-Validasi logika data GoFood dummy menggunakan pandas.
-Jalankan setelah generate_dummy1_fixed.py selesai membuat CSV.
-"""
 
 import pandas as pd
 import numpy as np

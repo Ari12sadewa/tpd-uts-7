@@ -2,9 +2,9 @@ from sqlalchemy import create_engine
 import pandas as pd
 import os
 
-MYSQL_SRC_URL = "mysql+pymysql://root:@192.168.144.1:3306/source_a_uts"
-PG_SRC_URL = "postgresql+psycopg2://postgres:12345@192.168.144.1:5432/source_b_uts"
-MYSQL_DWH_SRC_URL = "mysql+pymysql://root:@192.168.144.1:3306/dwh_uts"
+MYSQL_SRC_URL = "mysql+pymysql://root:@localhost:3306/source_a_uts"
+PG_SRC_URL = "postgresql+psycopg2://postgres:12345@localhost:5432/source_b_uts"
+MYSQL_DWH_SRC_URL = "mysql+pymysql://root:@localhost:3306/dwh_uts"
 
 OUTPUT_DIR = "sample_output"
 
