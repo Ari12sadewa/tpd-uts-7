@@ -39,9 +39,9 @@ default_args = {
 }
 
 
-# ══════════════════════════════════════════════════════════════════════════════
+# ==========================================================================
 #  HELPER — DATA CLEANING
-# ══════════════════════════════════════════════════════════════════════════════
+# ==========================================================================
 
 def _log_cleaning(label: str, before: int, after: int) -> None:
     """Cetak ringkasan baris yang dihapus/dimodifikasi saat cleaning."""
@@ -116,21 +116,7 @@ def clean_users(df: pd.DataFrame) -> pd.DataFrame:
 
 
 def clean_orders(df: pd.DataFrame) -> pd.DataFrame:
-    """
-    Cleaning tabel orders sebelum masuk fact_orders:
-      1. Drop duplikat berdasarkan order_id
-      2. Drop baris di mana order_id / user_id / merchant_id null (FK kritis)
-      3. Drop baris di mana order_time tidak valid (NaT)
-      4. Imputasi null:
-         - driver_id      → -1 sebagai sentinel "belum ada driver"
-         - payment_method → modus per city
-         - subtotal       → rata-rata per merchant_id
-         - delivery_fee   → rata-rata per city
-         - discount       → 0 (asumsi tidak ada diskon jika null)
-         - total_amount   → subtotal + delivery_fee - discount (hitung ulang)
-         - distance_km    → rata-rata per delivery_area
-         - delivery_area  → modus per city
-    """
+   
     print("  [CLEAN] orders ...")
     n0 = len(df)
 
@@ -205,15 +191,7 @@ def clean_orders(df: pd.DataFrame) -> pd.DataFrame:
 
 
 def clean_order_items(df: pd.DataFrame) -> pd.DataFrame:
-    """
-    Cleaning tabel order_items sebelum masuk fact_order_items:
-      1. Drop duplikat berdasarkan order_item_id
-      2. Drop baris di mana order_item_id / order_id / product_id null
-      3. Imputasi null:
-         - quantity    → 1 (asumsi minimal 1 item)
-         - unit_price  → rata-rata per product_id
-         - subtotal    → quantity * unit_price (hitung ulang)
-    """
+
     print("  [CLEAN] order_items ...")
     n0 = len(df)
 
@@ -248,9 +226,9 @@ def clean_order_items(df: pd.DataFrame) -> pd.DataFrame:
     return df.reset_index(drop=True)
 
 
-# ══════════════════════════════════════════════════════════════════════════════
+# ==========================================================================
 #  EXTRACT
-# ══════════════════════════════════════════════════════════════════════════════
+# ==========================================================================
 
 
 def extract_from_databases(**kwargs):
@@ -286,14 +264,14 @@ def extract_weather_from_gee(**kwargs):
     """
     Ekstrak data cuaca dari Google Earth Engine (ERA5-Land Hourly).
     Rentang waktu ditentukan dinamis berdasarkan min/max order_time
-    di tabel orders, bukan hardcoded tahun.
+    di tabel orders.
 
-    Output: JSON string dari DataFrame cuaca (wilayah, waktu, cuaca).
+    Output: JSON string (wilayah, waktu, cuaca).
     """
     print("=== [EXTRACT] Memulai ekstraksi cuaca dari GEE ===")
     ti = kwargs["ti"]
 
-    # ── Ambil rentang waktu dari tabel orders ─────────────────────────────────
+    # -- Ambil rentang waktu dari tabel orders --------------------------------
     raw_orders = ti.xcom_pull(task_ids="extract_db_task")
     df_o = pd.read_json(StringIO(raw_orders["orders"]), convert_dates=False)
 
@@ -315,7 +293,7 @@ def extract_weather_from_gee(**kwargs):
     end_date   = (df_o["order_time"].max() + timedelta(days=1)).strftime("%Y-%m-%d")
     print(f"  Rentang waktu order   : {start_date} → {end_date}")
 
-    # ── Buat daftar rentang bulanan ───────────────────────────────────────────
+    # -- Buat daftar rentang bulanan -----------------------------------------------
     date_ranges = []
     current = datetime.strptime(start_date, "%Y-%m-%d").replace(day=1)
     end_dt  = datetime.strptime(end_date,   "%Y-%m-%d")
@@ -326,7 +304,7 @@ def extract_weather_from_gee(**kwargs):
         date_ranges.append((s, e.strftime("%Y-%m-%d")))
         current = e
 
-    # ── Inisialisasi GEE ──────────────────────────────────────────────────────
+    # -- Inisialisasi GEE ---------------------------------------------------------------
     try:
         credentials = service_account.Credentials.from_service_account_file(
             GEE_KEY_PATH,
@@ -340,8 +318,8 @@ def extract_weather_from_gee(**kwargs):
         print("  ✓ Auth GEE menggunakan Service Account berhasil.")
     except Exception as e:
         raise RuntimeError(f"Gagal melakukan autentikasi GEE: {e}")
-
-    def hitung_rh(image):
+   
+    # -- HELPER Extract Data GEE ---------------------------------------------------
         temp = image.select("temperature_2m").subtract(273.15)
         dew  = image.select("dewpoint_temperature_2m").subtract(273.15)
         rh   = image.expression(
@@ -360,6 +338,7 @@ def extract_weather_from_gee(**kwargs):
             return "Panas"
         return "Cerah"
 
+    # -- Mulai Extract Data ---------------------------------------------------
     all_rows = []
     for city_key, city_info in CITY_COORDS.items():
         city_name = city_info["name"]
@@ -423,27 +402,21 @@ def extract_weather_from_gee(**kwargs):
     print(f"\n  ✓ Total data cuaca: {len(df_weather):,} baris")
     print("=== [EXTRACT] GEE selesai ===")
 
-    # FIX: serialize waktu sebagai ISO string agar tidak jadi epoch ms
     return df_weather.to_json(orient="records", date_format="iso")
 
 
-# ══════════════════════════════════════════════════════════════════════════════
+# ==========================================================================
 #  TRANSFORM
-# ══════════════════════════════════════════════════════════════════════════════
+# ==========================================================================
 
 
 def transform_dimensions(**kwargs):
-    """
-    Bangun tabel dimensi dari data mentah.
-    Setiap tabel sumber dibersihkan (dedup + imputasi) sebelum dipakai.
 
-    dim_date, dim_user, dim_driver, dim_merchant, dim_product, dim_weather
-    """
     print("=== [TRANSFORM] Memulai transformasi dimensi ===")
     ti  = kwargs["ti"]
     raw = ti.xcom_pull(task_ids="extract_db_task")
 
-    # ── Load raw DataFrames ───────────────────────────────────────────────────
+    # -- Load raw DataFrames -------------------------------------------------
     df_u = pd.read_json(StringIO(raw["users"]),       convert_dates=False)
     df_d = pd.read_json(StringIO(raw["drivers"]),     convert_dates=False)
     df_m = pd.read_json(StringIO(raw["merchants"]),   convert_dates=False)
@@ -459,15 +432,15 @@ def transform_dimensions(**kwargs):
 
     print("\n--- [CLEANING] Mulai pembersihan data sumber ---")
 
-    # ══════════════════════════════════════════════════════════════════════════
+    # ==========================================================================
     # CLEANING: users
-    # ══════════════════════════════════════════════════════════════════════════
+    # ==========================================================================
     df_u["date_of_birth"] = pd.to_datetime(df_u["date_of_birth"], errors="coerce")
     df_u = clean_users(df_u)
 
-    # ══════════════════════════════════════════════════════════════════════════
+    # ==========================================================================
     # CLEANING: drivers
-    # ══════════════════════════════════════════════════════════════════════════
+    # ==========================================================================
     print("  [CLEAN] drivers ...")
     n0 = len(df_d)
     # Deduplikasi driver_id
@@ -495,9 +468,9 @@ def transform_dimensions(**kwargs):
     df_d["is_active"] = df_d["is_active"].fillna(1).astype(int)
     print(f"    drivers bersih: {len(df_d):,} rows")
 
-    # ══════════════════════════════════════════════════════════════════════════
+    # ==========================================================================
     # CLEANING: merchants
-    # ══════════════════════════════════════════════════════════════════════════
+    # ==========================================================================
     print("  [CLEAN] merchants ...")
     n0 = len(df_m)
     df_m = df_m.drop_duplicates(subset=["merchant_id"], keep="first")
@@ -527,9 +500,9 @@ def transform_dimensions(**kwargs):
     df_m["is_active"] = df_m["is_active"].fillna(1).astype(int)
     print(f"    merchants bersih: {len(df_m):,} rows")
 
-    # ══════════════════════════════════════════════════════════════════════════
+    # ==========================================================================
     # CLEANING: products
-    # ══════════════════════════════════════════════════════════════════════════
+    # ==========================================================================
     print("  [CLEAN] products ...")
     n0 = len(df_p)
     df_p = df_p.drop_duplicates(subset=["product_id"], keep="first")
@@ -556,11 +529,11 @@ def transform_dimensions(**kwargs):
 
     print("--- [CLEANING] Selesai ---\n")
 
-    # ══════════════════════════════════════════════════════════════════════════
+    # ==========================================================================
     # BUILD DIMENSIONS
-    # ══════════════════════════════════════════════════════════════════════════
+    # ==========================================================================
 
-    # ── dim_date ──────────────────────────────────────────────────────────────
+    # -- dim_date ──────────────────────────────────────────────────────────────
     dates    = pd.to_datetime(df_o["order_time"].dt.date.unique())
     dim_date = pd.DataFrame({"full_date": dates})
     dim_date["date_id"]     = dim_date["full_date"].dt.strftime("%Y%m%d").astype(int)
@@ -578,14 +551,18 @@ def transform_dimensions(**kwargs):
     ]]
     print(f"  ✓ dim_date     : {len(dim_date):,} rows")
 
-    # ── dim_user ──────────────────────────────────────────────────────────────
+    # -- dim_user ---------------------------------------------------
     df_u["age"] = ((pd.Timestamp.now() - df_u["date_of_birth"]).dt.days / 365).astype(int)
+    
+    # -- membuat kelompok usia ---------------------------------------------------
     df_u["age_group"] = np.select(
         [df_u["age"] < 18, df_u["age"] < 25, df_u["age"] < 35,
          df_u["age"] < 45, df_u["age"] < 55],
         ["<18", "18-24", "25-34", "35-44", "45-54"],
         default="55+",
     )
+    
+    # -- rename nama kolom untuk menjaga konsistensi lalu save ------------------------
     dim_user = df_u.rename(columns={
         "full_name":    "user_name",
         "address_area": "user_area",
@@ -595,7 +572,7 @@ def transform_dimensions(**kwargs):
         .rename(columns={"lat": "user_lat", "lon": "user_lon"})
     print(f"  ✓ dim_user     : {len(dim_user):,} rows")
 
-    # ── dim_driver ────────────────────────────────────────────────────────────
+    # -- dim_driver ---------------------------------------------------
     dim_driver = df_d.rename(columns={
         "full_name":    "driver_name",
         "current_area": "driver_area",
@@ -605,7 +582,7 @@ def transform_dimensions(**kwargs):
         "driver_area", "driver_rating", "total_trips", "driver_is_active"]]
     print(f"  ✓ dim_driver   : {len(dim_driver):,} rows")
 
-    # ── dim_merchant ──────────────────────────────────────────────────────────
+    # -- dim_merchant ---------------------------------------------------
     avg_review = (
         df_r.groupby("merchant_id")["merchant_rating"]
         .mean().round(2).reset_index()
@@ -626,14 +603,14 @@ def transform_dimensions(**kwargs):
         "merchant_rating", "avg_review_rating", "merchant_is_active"]]
     print(f"  ✓ dim_merchant : {len(dim_merchant):,} rows")
 
-    # ── dim_product ───────────────────────────────────────────────────────────
+    # -- dim_product ---------------------------------------------------
     dim_product = df_p.rename(columns={"category": "product_category"})[
         ["product_id", "merchant_id", "product_name", "product_category",
          "price", "is_available"]
     ]
     print(f"  ✓ dim_product  : {len(dim_product):,} rows")
 
-    # ── dim_weather ───────────────────────────────────────────────────────────
+    # -- dim_weather ---------------------------------------------------
     df_w["weather_id"] = df_w["city"] + "_" + df_w["waktu"].dt.strftime("%Y%m%d%H")
     df_w["date_id"]    = df_w["waktu"].dt.strftime("%Y%m%d").astype(int)
     df_w["hour"]       = df_w["waktu"].dt.hour
@@ -655,9 +632,6 @@ def transform_dimensions(**kwargs):
 
 def transform_facts(**kwargs):
     """
-    Bangun tabel fakta dari data mentah + dimensi yang sudah ada.
-    orders dan order_items dibersihkan (dedup + imputasi) sebelum diproses.
-
     fact_orders      : grain = 1 order
     fact_order_items : grain = 1 baris item dalam order
     """
@@ -674,15 +648,15 @@ def transform_facts(**kwargs):
 
     print("\n--- [CLEANING] Fakta ---")
 
-    # ══════════════════════════════════════════════════════════════════════════
+    # ==========================================================================
     # CLEANING: orders & order_items
-    # ══════════════════════════════════════════════════════════════════════════
+    # ==========================================================================
     df_o  = clean_orders(df_o)
     df_oi = clean_order_items(df_oi)
 
     print("--- [CLEANING] Selesai ---\n")
 
-    # ── Buat lookup kunci join cuaca ──────────────────────────────────────────
+    # -- Buat lookup kunci join cuaca ---------------------------------------------------
     df_o["order_hour_ts"] = df_o["order_time"].dt.floor("h")
     df_o["weather_key"]   = (
         df_o["city"] + "_" + df_o["order_hour_ts"].dt.strftime("%Y%m%d%H")
@@ -700,7 +674,7 @@ def transform_facts(**kwargs):
     df_not_match = df_o[~df_o["weather_key"].isin(weather_lookup)]
     print("WEATHER NOT MATCH LENGTH", len(df_not_match))
 
-    # ── fact_orders ───────────────────────────────────────────────────────────
+    # -- fact_orders ---------------------------------------------------
     df_o["date_id"]     = df_o["order_time"].dt.strftime("%Y%m%d").astype(int)
     df_o["order_hour"]  = df_o["order_time"].dt.hour
     df_o["is_cancelled"]= df_o["status"].str.contains("cancel", na=False).astype(int)
@@ -719,7 +693,7 @@ def transform_facts(**kwargs):
     ]]
     print(f"  ✓ fact_orders      : {len(fact_orders):,} rows")
 
-    # ── fact_order_items ──────────────────────────────────────────────────────
+    # -- fact_order_items ---------------------------------------------------
     orders_slim = df_o[[
         "order_id", "user_id", "date_id", "city","weather_id", "kondisi_cuaca",
         "order_status", "order_time",
@@ -752,9 +726,9 @@ def transform_facts(**kwargs):
     }
 
 
-# ══════════════════════════════════════════════════════════════════════════════
+# ==========================================================================
 #  LOAD
-# ══════════════════════════════════════════════════════════════════════════════
+# ==========================================================================
 
 
 def load_dimensions_to_dwh(**kwargs):
@@ -787,70 +761,51 @@ def load_facts_to_dwh(**kwargs):
     print("=== [LOAD] Fact Table done ===")
 
 
-# ══════════════════════════════════════════════════════════════════════════════
+# ==========================================================================
 # DAG DEFINITION
-# ══════════════════════════════════════════════════════════════════════════════
+# ==========================================================================
 
 with DAG(
     dag_id="gofood_analytics_etl",
     default_args=default_args,
-    description="ETL Pipeline: GoFood DWH dengan integrasi GEE (cuaca)",
+    description="ETL Pipeline: GoFood DWH dengan GEE",
     schedule="@daily",
     catchup=False,
-    tags=["gofood", "etl", "dwh", "gee"],
 ) as dag:
 
-    # ── Step 1: Extract ───────────────────────────────────────────────────────
+    # -- Step 1: Extract ---------------------------------------------------
     t_extract_db = PythonOperator(
         task_id="extract_db_task",
         python_callable=extract_from_databases,
-        doc_md="Ekstrak data dari MySQL (users, drivers) dan PostgreSQL (merchants, products, orders, order_items, reviews)",
     )
 
     t_extract_gee = PythonOperator(
         task_id="extract_gee_task",
         python_callable=extract_weather_from_gee,
-        doc_md="Ekstrak data cuaca dari GEE ERA5-Land dengan rentang waktu dinamis dari tabel orders",
     )
 
-    # ── Step 2: Transform ─────────────────────────────────────────────────────
+    # -- Step 2: Transform ---------------------------------------------------
     t_transform_dim = PythonOperator(
         task_id="transform_dim_task",
         python_callable=transform_dimensions,
-        doc_md="Cleaning + bangun 6 tabel dimensi: dim_date, dim_user, dim_driver, dim_merchant, dim_product, dim_weather",
     )
 
     t_transform_fact = PythonOperator(
         task_id="transform_fact_task",
         python_callable=transform_facts,
-        doc_md="Cleaning + bangun 2 tabel fakta: fact_orders, fact_order_items (di-enrich dengan weather_id)",
     )
 
-    # ── Step 3: Load ──────────────────────────────────────────────────────────
+    # -- Step 3: Load ---------------------------------------------------
     t_load_dim = PythonOperator(
         task_id="load_dim_task",
         python_callable=load_dimensions_to_dwh,
-        doc_md="Load 6 tabel dimensi ke DWH MySQL",
     )
 
     t_load_fact = PythonOperator(
         task_id="load_fact_task",
         python_callable=load_facts_to_dwh,
-        doc_md="Load 2 tabel fakta ke DWH MySQL",
     )
 
-    # ── Dependency Graph ──────────────────────────────────────────────────────
-    #
-    #   extract_db_task ──┬──► extract_gee_task ──┐
-    #                     │                       │
-    #                     └───────────────────────┴──► transform_dim_task
-    #                                                         │
-    #                                                         ▼
-    #                                                  transform_fact_task
-    #                                                     /         \
-    #                                                    ▼           ▼
-    #                                               load_dim_task  load_fact_task
-    #
     t_extract_db >> t_extract_gee
     [t_extract_db, t_extract_gee] >> t_transform_dim
     t_transform_dim >> t_transform_fact
